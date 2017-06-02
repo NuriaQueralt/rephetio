@@ -1,0 +1,4 @@
+### Results (UMLS mappings:
+The total number of symptoms in orphanet (hp): 4543
+The total number of symptoms mapped (hp): 600
+The total number of symptoms in orphanet (msh): 587

@@ -1,0 +1,8 @@
+From mondo, "equivalentClass" mappings DO to Orphanet:
+orphanet_orpha: 2383; mondo_orpha: 1458 OrphaNumbers
+mapped: 612
+mapped: ['Orphanet:90695', 'Orphanet:209', 'Orphanet:436', 'Orphanet:90340']
+not mapped: 1771
+not mapped: ['Orphanet:1115', 'Orphanet:2481', 'Orphanet:2321', 'Orphanet:709']
+
+

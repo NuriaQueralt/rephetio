@@ -1,0 +1,9 @@
+# Files: 
+	mondo.owl, mondo.obo, xrefs-doid-to-ordo.obo
+
+# Files downloaded from: 
+	https://github.com/monarch-initiative/monarch-disease-ontology/blob/master/src/mondo/
+
+# Date:
+	May 02, 2017
+

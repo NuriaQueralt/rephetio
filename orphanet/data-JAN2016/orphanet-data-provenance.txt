@@ -1,0 +1,7 @@
+# Files disease-phenotype annotation:
+	en_product4_HPO.xml 
+# Download URL:
+	http://www.orphadata.org/cgi-bin/inc/product4.inc.php
+# Date:
+	Oct 5, 2016
+

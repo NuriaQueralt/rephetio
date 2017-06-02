@@ -1,0 +1,2188 @@
+hp_code	hp_term	mesh_code
+HP:0009829	Phocomelia	MESH:D004480
+HP:0012622	Chronic kidney disease	MESH:D051436
+HP:0001596	Alopecia	MESH:D000505
+HP:0009601	Aplasia/Hypoplasia of the thumb	MESH:C536903
+HP:0000666	Horizontal nystagmus	MESH:D009759
+HP:0100648	Neoplasm of the tongue	MESH:D014062
+HP:0000703	Dentinogenesis imperfecta	MESH:D003811
+HP:0001765	Hammertoe	MESH:D037801
+HP:0001931	Hypochromic anemia	MESH:D000747
+HP:0006519	Alveolar cell carcinoma	MESH:D002282
+HP:0002362	Shuffling gait	MESH:D020233
+HP:0003067	Madelung deformity	MESH:C562398
+HP:0003750	Increased muscle fatiguability	MESH:D018763
+HP:0004905	Vitamin A deficiency	MESH:D014802
+HP:0011107	Recurrent aphthous stomatitis	MESH:D013281
+HP:0006767	Pituitary prolactin cell adenoma	MESH:D015175
+HP:0012120	Methylmalonic aciduria	MESH:C537358
+HP:0004099	Macrodactyly	MESH:C562546
+HP:0040198	Non-medullary thyroid carcinoma	MESH:C536915
+HP:0100534	Episcleritis	MESH:D015423
+HP:0003235	Hypermethioninemia	MESH:C564683
+HP:0010566	Hamartoma	MESH:D006222
+HP:0000855	Insulin resistance	MESH:D007333
+HP:0005973	Fructose intolerance	MESH:D005633
+HP:0005561	Abnormality of bone marrow cell morphology	MESH:D001855
+HP:0011349	Abducens palsy	MESH:C564661
+HP:0011349	Abducens palsy	MESH:D020434
+HP:0100588	Paraphimosis	MESH:D010263
+HP:0012669	Carotid sinus syncope	MESH:D013575
+HP:0001602	Laryngeal stenosis	MESH:D007829
+HP:0008677	Congenital nephrotic syndrome	MESH:C535761
+HP:0100844	Pancreatic fistula	MESH:D010185
+HP:0001025	Urticaria	MESH:D014581
+HP:0100850	Neoplasm of the penis	MESH:D010412
+HP:0001663	Ventricular fibrillation	MESH:D014693
+HP:0002232	Patchy alopecia	MESH:C531609
+HP:0100252	Diaphyseal dysplasia	MESH:D003966
+HP:0001708	Right ventricular failure	MESH:D006333
+HP:0011089	Double tooth	MESH:D005671
+HP:0004822	Atypical elliptocytosis	MESH:C565598
+HP:0000160	Narrow mouth	MESH:D008865
+HP:0100007	Neoplasm of the peripheral nervous system	MESH:D010524
+HP:0003743	Genetic anticipation	MESH:D020132
+HP:0001644	Dilated cardiomyopathy	MESH:D002311
+HP:0100519	Anuria	MESH:D001002
+HP:0000739	Anxiety	MESH:D001007
+HP:0005798	Posterior radial head dislocation	MESH:C566728
+HP:0010861	Incomplete breech presentation	MESH:D001946
+HP:0001942	Metabolic acidosis	MESH:D000138
+HP:0030434	Pilomatrixoma	MESH:D018296
+HP:0100504	Vitamin B2 deficiency	MESH:D012257
+HP:0002099	Asthma	MESH:D001249
+HP:0001941	Acidosis	MESH:D000138
+HP:0002786	Tracheobronchomalacia	MESH:D055089
+HP:0006870	Lobar holoprosencephaly	MESH:D016142
+HP:0000794	IgA deposition in the glomerulus	MESH:D005922
+HP:0002047	Malignant hyperthermia	MESH:D008305
+HP:0030713	Vein of Galen aneurysmal malformation	MESH:C536535
+HP:0003260	Hydroxyprolinemia	MESH:C562669
+HP:0002134	Abnormality of the basal ganglia	MESH:D001480
+HP:0008368	Tarsal synostosis	MESH:D000070604
+HP:0030127	Endometriosis	MESH:D004715
+HP:0010788	Testicular neoplasm	MESH:D013736
+HP:0002109	Abnormality of the bronchi	MESH:D001982
+HP:0100834	Neoplasm of the large intestine	MESH:D015179
+HP:0100962	Shyness	MESH:D012792
+HP:0000581	Blepharophimosis	MESH:D016569
+HP:0002315	Headache	MESH:D006261
+HP:0002637	Cerebral ischemia	MESH:D002545
+HP:0030448	Soft tissue sarcoma	MESH:D012509
+HP:0030222	Visual agnosia	MESH:D000377
+HP:0001102	Angioid streaks of the retina	MESH:D000793
+HP:0010867	Dyssynergia	MESH:D001259
+HP:0001667	Right ventricular hypertrophy	MESH:D017380
+HP:0012459	Hypnic headache	MESH:D051270
+HP:0012209	Juvenile myelomonocytic leukemia	MESH:D054429
+HP:0004430	Severe combined immunodeficiency	MESH:D016511
+HP:0001332	Dystonia	MESH:D004421
+HP:0007227	Macrogyria	MESH:D054082
+HP:0001909	Leukemia	MESH:D019337
+HP:0001909	Leukemia	MESH:D007938
+HP:0100580	Barrett esophagus	MESH:D001471
+HP:0011986	Ectopic ossification	MESH:D009999
+HP:0008469	Cervical vertebral dysplasia	MESH:C566140
+HP:0002352	Leukoencephalopathy	MESH:D056784
+HP:0001626	Abnormality of the cardiovascular system	MESH:D002318
+HP:0001626	Abnormality of the cardiovascular system	MESH:D018376
+HP:0030157	Flank pain	MESH:D021501
+HP:0000991	Xanthomatosis	MESH:D014973
+HP:0011276	Vascular skin abnormality	MESH:D017445
+HP:0030076	Lobular carcinoma in situ	MESH:D000071960
+HP:0001719	Double outlet right ventricle	MESH:D004310
+HP:0007947	Pericentral retinitis pigmentosa	MESH:C564838
+HP:0011919	Pleural empyema	MESH:D016724
+HP:0010941	Aplasia of the nasal bone	MESH:C562753
+HP:0009919	Retinoblastoma	MESH:D012175
+HP:0009919	Retinoblastoma	MESH:D019572
+HP:0100661	Trigeminal neuralgia	MESH:D014277
+HP:0012199	Cluster headache	MESH:D003027
+HP:0002354	Memory impairment	MESH:D008569
+HP:0030063	Neuroepithelial neoplasm	MESH:D018302
+HP:0002090	Pneumonia	MESH:D011014
+HP:0002066	Gait ataxia	MESH:D020234
+HP:0000670	Carious teeth	MESH:D003731
+HP:0007260	Type II lissencephaly	MESH:D054222
+HP:0000015	Bladder diverticulum	MESH:C562406
+HP:0009589	Bilateral vestibular Schwannoma	MESH:D016518
+HP:0002740	Recurrent E. coli infections	MESH:D004927
+HP:0010550	Paraplegia	MESH:D010264
+HP:0003201	Rhabdomyolysis	MESH:D012206
+HP:0004535	Anterior cervical hypertrichosis	MESH:C538390
+HP:0009892	Anotia	MESH:D065817
+HP:0001623	Breech presentation	MESH:D001946
+HP:0002326	Transient ischemic attack	MESH:D002546
+HP:0100827	Lymphocytosis	MESH:D008218
+HP:0009733	Glioma	MESH:D005910
+HP:0001406	Intrahepatic cholestasis	MESH:D002780
+HP:0012424	Chorioretinitis	MESH:D002825
+HP:0001081	Cholelithiasis	MESH:D002769
+HP:0003225	Reduced factor V activity	MESH:D005166
+HP:0000024	Prostatitis	MESH:D011472
+HP:0010734	Fibrous dysplasia of the bones	MESH:D005357
+HP:0012533	Allodynia	MESH:D006930
+HP:0000787	Nephrolithiasis	MESH:D053040
+HP:0011946	Bronchiolitis obliterans	MESH:D001989
+HP:0010547	Muscle flaccidity	MESH:D009123
+HP:0012452	Restless legs	MESH:D012148
+HP:0001004	Lymphedema	MESH:D008209
+HP:0002913	Myoglobinuria	MESH:D009212
+HP:0008211	Parathyroid agenesis	MESH:C563238
+HP:0012720	Neoplasm of the nose	MESH:D009669
+HP:0008258	Congenital adrenal hyperplasia	MESH:D000312
+HP:0001712	Left ventricular hypertrophy	MESH:D017379
+HP:0002858	Meningioma	MESH:D008579
+HP:0006970	Periventricular leukomalacia	MESH:D007969
+HP:0009926	Increased lacrimation	MESH:D007766
+HP:0002040	Esophageal varix	MESH:D004932
+HP:0012246	Oculomotor nerve palsy	MESH:D015840
+HP:0004789	Lactose intolerance	MESH:D007787
+HP:0007868	Age-related macular degeneration	MESH:D008268
+HP:0002896	Neoplasm of the liver	MESH:D008113
+HP:0004496	Posterior choanal atresia	MESH:C562435
+HP:0003474	Sensory impairment	MESH:D006987
+HP:0003118	Increased circulating cortisol level	MESH:D000308
+HP:0010543	Opsoclonus	MESH:D015835
+HP:0000131	Uterine leiomyoma	MESH:D007889
+HP:0001634	Mitral valve prolapse	MESH:D008945
+HP:0003419	Low back pain	MESH:D017116
+HP:0001397	Hepatic steatosis	MESH:D005234
+HP:0200008	Intestinal polyposis	MESH:D044483
+HP:0001047	Atopic dermatitis	MESH:D003876
+HP:0002444	Hypothalamic hamartoma	MESH:C537158
+HP:0004953	Abdominal aortic aneurysm	MESH:D017544
+HP:0100829	Galactorrhea	MESH:D005687
+HP:0002186	Apraxia	MESH:D001072
+HP:0002383	Encephalitis	MESH:D004660
+HP:0000647	Sclerocornea	MESH:C565209
+HP:0008751	Laryngeal cleft	MESH:C537875
+HP:0000789	Infertility	MESH:D007246
+HP:0001790	Nonimmune hydrops fetalis	MESH:D015160
+HP:0002612	Congenital hepatic fibrosis	MESH:C562378
+HP:0100528	Pleuropulmonary blastoma	MESH:C537516
+HP:0006530	Interstitial pulmonary abnormality	MESH:D017563
+HP:0100757	Pancreatoblastoma	MESH:C537162
+HP:0001841	Preaxial foot polydactyly	MESH:C566632
+HP:0100546	Carotid artery stenosis	MESH:D016893
+HP:0002582	Chronic atrophic gastritis	MESH:D005757
+HP:0001883	Talipes	MESH:D000070558
+HP:0001677	Coronary artery disease	MESH:D003324
+HP:0000552	Tritanomaly	MESH:D003117
+HP:0003535	3-Methylglutaconic aciduria	MESH:C579867
+HP:0003159	Hyperoxaluria	MESH:D006959
+HP:0002804	Arthrogryposis multiplex congenita	MESH:D001176
+HP:0001045	Vitiligo	MESH:D014820
+HP:0004380	Aortic valve calcification	MESH:C562942
+HP:0002078	Truncal ataxia	MESH:D001259
+HP:0004810	Congenital hypoplastic anemia	MESH:D029503
+HP:0004810	Congenital hypoplastic anemia	MESH:D000742
+HP:0005549	Congenital neutropenia	MESH:C537592
+HP:0007435	Diffuse palmoplantar keratoderma	MESH:D015776
+HP:0007902	Vitreous hemorrhage	MESH:D014823
+HP:0012114	Endometrial carcinoma	MESH:D016889
+HP:0010797	Hemangioblastoma	MESH:D018325
+HP:0100248	Hemiballismus	MESH:D020820
+HP:0000121	Nephrocalcinosis	MESH:D009397
+HP:0007410	Palmoplantar hyperhidrosis	MESH:C563185
+HP:0006515	Interstitial pneumonitis	MESH:D017563
+HP:0011172	Complex febrile seizures	MESH:D003294
+HP:0002861	Melanoma	MESH:D008545
+HP:0002092	Pulmonary arterial hypertension	MESH:D006976
+HP:0002092	Pulmonary arterial hypertension	MESH:D065627
+HP:0006770	Clear cell renal cell carcinoma	MESH:D002292
+HP:0005521	Disseminated intravascular coagulation	MESH:D004211
+HP:0003077	Hyperlipidemia	MESH:D006949
+HP:0030666	Retinal neovascularization	MESH:D015861
+HP:0030169	Gastric varix	MESH:D004932
+HP:0030153	Cholangiocarcinoma	MESH:D018281
+HP:0008843	Hip osteoarthritis	MESH:D015207
+HP:0010280	Stomatitis	MESH:D013280
+HP:0001310	Dysmetria	MESH:D002524
+HP:0012570	Synovial sarcoma	MESH:D013584
+HP:0200022	Choroid plexus papilloma	MESH:D020288
+HP:0000243	Trigonocephaly	MESH:D003398
+HP:0002144	Tethered cord	MESH:D009436
+HP:0003250	Aplasia of the vagina	MESH:C536523
+HP:0001128	Trichiasis	MESH:D058457
+HP:0100822	Rectocele	MESH:D020047
+HP:0001450	Y-linked inheritance	MESH:D050173
+HP:0012798	Pulmonary lymphangiomyomatosis	MESH:D018192
+HP:0005627	Type D brachydactyly	MESH:C562420
+HP:0100603	Toxemia of pregnancy	MESH:D011225
+HP:0005186	Synovial hypertrophy	MESH:D013585
+HP:0004904	Maturity-onset diabetes of the young	MESH:C562772
+HP:0002098	Respiratory distress	MESH:D004417
+HP:0000966	Hypohidrosis	MESH:D007007
+HP:0030066	Ependymoblastoma	MESH:D018242
+HP:0011123	Inflammatory abnormality of the skin	MESH:D003872
+HP:0000678	Dental crowding	MESH:D008310
+HP:0010920	Zonular cataract	MESH:C535342
+HP:0002865	Medullary thyroid carcinoma	MESH:C536914
+HP:0000479	Abnormality of the retina	MESH:D012164
+HP:0002524	Cataplexy	MESH:D002385
+HP:0100513	Vitamin E deficiency	MESH:D014811
+HP:0012050	Anasarca	MESH:D004487
+HP:0100516	Neoplasm of the ureter	MESH:D014516
+HP:0002143	Abnormality of the spinal cord	MESH:D013118
+HP:0002411	Myokymia	MESH:D020385
+HP:0002445	Tetraplegia	MESH:D011782
+HP:0007018	Attention deficit hyperactivity disorder	MESH:D001289
+HP:0006818	Type I lissencephaly	MESH:D054221
+HP:0006297	Hypoplasia of dental enamel	MESH:D003744
+HP:0012328	Cementoma	MESH:D002485
+HP:0012531	Pain	MESH:D010146
+HP:0009775	Amniotic constriction ring	MESH:C535821
+HP:0009775	Amniotic constriction ring	MESH:D000652
+HP:0003777	Pili torti	MESH:C562485
+HP:0001252	Muscular hypotonia	MESH:D009123
+HP:0010459	True hermaphroditism	MESH:D050090
+HP:0001671	Abnormality of the cardiac septa	MESH:D006343
+HP:0003256	Abnormality of the coagulation cascade	MESH:D001778
+HP:0003401	Paresthesia	MESH:D010292
+HP:0001166	Arachnodactyly	MESH:D054119
+HP:0001513	Obesity	MESH:D009765
+HP:0002860	Squamous cell carcinoma	MESH:D018307
+HP:0002860	Squamous cell carcinoma	MESH:D002294
+HP:0011854	Hemoperitoneum	MESH:D006465
+HP:0008480	Cervical spondylosis	MESH:D055009
+HP:0002123	Generalized myoclonic seizures	MESH:D004831
+HP:0002123	Generalized myoclonic seizures	MESH:D020191
+HP:0005575	Hemolytic-uremic syndrome	MESH:D006463
+HP:0010525	Finger agnosia	MESH:D000377
+HP:0011099	Spastic hemiparesis	MESH:D006429
+HP:0000034	Hydrocele testis	MESH:D006848
+HP:0012777	Retinal neoplasm	MESH:D019572
+HP:0004919	Galactose intolerance	MESH:D005693
+HP:0005152	Oncocytic cardiomyopathy	MESH:C535584
+HP:0004820	Acute myelomonocytic leukemia	MESH:D015479
+HP:0012281	Chylous ascites	MESH:D002915
+HP:0011504	Bull&apos;s eye maculopathy	MESH:C537833
+HP:0002930	Thyroid hormone receptor defect	MESH:D018382
+HP:0007559	Localized epidermolytic hyperkeratosis	MESH:D053546
+HP:0000365	Hearing impairment	MESH:D034381
+HP:0000365	Hearing impairment	MESH:D003638
+HP:0011945	Bronchiolitis obliterans organizing pneumonia	MESH:D018549
+HP:0000793	Membranoproliferative glomerulonephritis	MESH:D015432
+HP:0001701	Pericarditis	MESH:D010493
+HP:0012539	Non-Hodgkin lymphoma	MESH:D008228
+HP:0000852	Pseudohypoparathyroidism	MESH:D011547
+HP:0000097	Focal segmental glomerulosclerosis	MESH:D005923
+HP:0005988	Congenital muscular torticollis	MESH:C535425
+HP:0000580	Pigmentary retinopathy	MESH:D012174
+HP:0000951	Abnormality of the skin	MESH:D012871
+HP:0000951	Abnormality of the skin	MESH:D012868
+HP:0001947	Renal tubular acidosis	MESH:D000141
+HP:0009064	Generalized lipodystrophy	MESH:D052497
+HP:0012044	Seesaw nystagmus	MESH:D009759
+HP:0003570	Molybdenum cofactor deficiency	MESH:C535811
+HP:0002170	Intracranial hemorrhage	MESH:D020300
+HP:0001304	Torsion dystonia	MESH:D004422
+HP:0011704	Sick sinus syndrome	MESH:D012804
+HP:0100695	Lipedema	MESH:D065134
+HP:0010821	Gelastic seizures	MESH:D004828
+HP:0011094	Overbite	MESH:D057887
+HP:0001660	Truncus arteriosus	MESH:D014338
+HP:0009118	Aplasia/Hypoplasia of the mandible	MESH:D063173
+HP:0200040	Epidermal cyst	MESH:D004814
+HP:0100716	Self-injurious behavior	MESH:D016728
+HP:0012085	Pyuria	MESH:D011776
+HP:0001705	Right ventricular outlet obstruction	MESH:D014694
+HP:0011157	Auras	MESH:D004827
+HP:0001873	Thrombocytopenia	MESH:D013921
+HP:0030065	Primitive neuroectodermal tumor	MESH:D018242
+HP:0004423	Cranium bifidum occultum	MESH:C566826
+HP:0001788	Premature rupture of membranes	MESH:D005322
+HP:0002578	Gastroparesis	MESH:D018589
+HP:0030869	Anorchism	MESH:C537770
+HP:0006516	Hypersensitivity pneumonitis	MESH:D000542
+HP:0030079	Cervix cancer	MESH:D002583
+HP:0002633	Vasculitis	MESH:D014657
+HP:0002410	Aqueductal stenosis	MESH:D006849
+HP:0012051	Reactive hypoglycemia	MESH:D007003
+HP:0000037	Male pseudohermaphroditism	MESH:D058490
+HP:0004324	Increased body weight	MESH:D015430
+HP:0001651	Dextrocardia	MESH:D003914
+HP:0002516	Increased intracranial pressure	MESH:D019586
+HP:0100963	Hyperesthesia	MESH:D006941
+HP:0000204	Cleft upper lip	MESH:D002971
+HP:0000023	Inguinal hernia	MESH:D006552
+HP:0002121	Absence seizures	MESH:D004832
+HP:0001302	Pachygyria	MESH:D054082
+HP:0011079	Impacted tooth	MESH:D014095
+HP:0005701	Multiple enchondromatosis	MESH:D004687
+HP:0001071	Angiokeratoma corporis diffusum	MESH:D000795
+HP:0001649	Tachycardia	MESH:D013610
+HP:0003376	Steppage gait	MESH:D020233
+HP:0100022	Abnormality of movement	MESH:D009069
+HP:0012309	Cutaneous amyloidosis	MESH:C562642
+HP:0004839	Pyropoikilocytosis	MESH:C563004
+HP:0200042	Skin ulcer	MESH:D012883
+HP:0004375	Neoplasm of the nervous system	MESH:D009423
+HP:0030410	Sebaceous gland carcinoma	MESH:D018266
+HP:0008765	Auditory hallucinations	MESH:D006212
+HP:0030072	Paranasal sinus neoplasm	MESH:D010255
+HP:0100280	Crohn&apos;s disease	MESH:D003424
+HP:0000225	Gingival bleeding	MESH:D005884
+HP:0000741	Apathy	MESH:D057565
+HP:0003040	Arthropathy	MESH:D007592
+HP:0010882	Pulmonary valve atresia	MESH:D018633
+HP:0005850	Congenital talipes calcaneovalgus	MESH:D005413
+HP:0100246	Osteoma	MESH:D010016
+HP:0100495	Mastocytosis	MESH:D008415
+HP:0001635	Congestive heart failure	MESH:D006333
+HP:0000486	Strabismus	MESH:D013285
+HP:0001928	Abnormality of coagulation	MESH:D001778
+HP:0001928	Abnormality of coagulation	MESH:D006474
+HP:0001410	Decreased liver function	MESH:D008107
+HP:0001425	Heterogeneous	MESH:D018740
+HP:0010527	Astereognosia	MESH:D000377
+HP:0002185	Neurofibrillary tangles	MESH:D016874
+HP:0002608	Celiac disease	MESH:D002446
+HP:0000491	Keratitis	MESH:D007634
+HP:0006785	Limb-girdle muscular dystrophy	MESH:D049288
+HP:0001155	Abnormality of the hand	MESH:D006226
+HP:0000217	Xerostomia	MESH:D014987
+HP:0000738	Hallucinations	MESH:D006212
+HP:0000689	Dental malocclusion	MESH:D008310
+HP:0001334	Communicating hydrocephalus	MESH:D006849
+HP:0000823	Delayed puberty	MESH:D011628
+HP:0002910	Elevated hepatic transaminases	MESH:D008107
+HP:0008213	Gonadotropin deficiency	MESH:D007006
+HP:0000835	Adrenal hypoplasia	MESH:C538429
+HP:0001878	Hemolytic anemia	MESH:D000743
+HP:0002204	Pulmonary embolism	MESH:D011655
+HP:0002013	Vomiting	MESH:D014839
+HP:0005978	Type II diabetes mellitus	MESH:D003924
+HP:0001355	Megalencephaly	MESH:D058627
+HP:0001036	Parakeratosis	MESH:D010241
+HP:0004855	Reduced protein S activity	MESH:D018455
+HP:0012124	Intermediate uveitis	MESH:D015867
+HP:0012390	Anal fissure	MESH:D005401
+HP:0011499	Mydriasis	MESH:D015878
+HP:0009920	Nevus of Ota	MESH:D009507
+HP:0004433	Secretory IgA deficiency	MESH:C562869
+HP:0011665	Takotsubo cardiomyopathy	MESH:D054549
+HP:0025004	Hallux rigidus	MESH:D020859
+HP:0100034	Motor tics	MESH:D020323
+HP:0002451	Limb dystonia	MESH:D004421
+HP:0001321	Cerebellar hypoplasia	MESH:C562568
+HP:0000509	Conjunctivitis	MESH:D003231
+HP:0005086	Knee osteoarthritis	MESH:D020370
+HP:0011887	Choroid hemorrhage	MESH:D002832
+HP:0001733	Pancreatitis	MESH:D010195
+HP:0006780	Parathyroid carcinoma	MESH:D010282
+HP:0004443	Lambdoidal craniosynostosis	MESH:D003398
+HP:0002757	Recurrent fractures	MESH:D000069076
+HP:0000407	Sensorineural hearing impairment	MESH:D006319
+HP:0030707	Unilateral lung agenesis	MESH:C562992
+HP:0002669	Osteosarcoma	MESH:D012516
+HP:0012768	Neonatal asphyxia	MESH:D001238
+HP:0002243	Protein-losing enteropathy	MESH:D011504
+HP:0012410	Pure red cell aplasia	MESH:D012010
+HP:0001519	Disproportionate tall stature	MESH:D054119
+HP:0000976	Eczematoid dermatitis	MESH:D004485
+HP:0030424	Epididymal cyst	MESH:D013088
+HP:0000062	Ambiguous genitalia	MESH:D012734
+HP:0011369	Mongolian blue spot	MESH:D049328
+HP:0005696	Postaxial polydactyly type A	MESH:C562429
+HP:0006733	Acute megakaryocytic leukemia	MESH:D015470
+HP:0000076	Vesicoureteral reflux	MESH:D014718
+HP:0003789	Minicore myopathy	MESH:C564969
+HP:0000164	Abnormality of the teeth	MESH:D014071
+HP:0000619	Impaired convergence	MESH:D015835
+HP:0001426	Multifactorial inheritance	MESH:D020412
+HP:0001597	Abnormality of the nail	MESH:D009260
+HP:0001597	Abnormality of the nail	MESH:D009264
+HP:0100604	Neoplasm of the lip	MESH:D008048
+HP:0011920	Transudative pleural effusion	MESH:D006876
+HP:0001324	Muscle weakness	MESH:D018908
+HP:0010689	Mirror image polydactyly	MESH:C535689
+HP:0007401	Macular atrophy	MESH:D057088
+HP:0100242	Sarcoma	MESH:D012509
+HP:0003563	Hypobetalipoproteinemia	MESH:D006995
+HP:0012219	Erythema nodosum	MESH:D004893
+HP:0005508	Waldenstrom macroglobulinemia	MESH:D008258
+HP:0010859	Frank breech presentation	MESH:D001946
+HP:0007404	Nonepidermolytic palmoplantar keratoderma	MESH:C563422
+HP:0008459	Cervical vertebral agenesis	MESH:C562952
+HP:0000659	Peters anomaly	MESH:C537884
+HP:0003006	Neuroblastoma	MESH:D009447
+HP:0004320	Vaginal fistula	MESH:D014624
+HP:0000575	Scotoma	MESH:D009898
+HP:0000575	Scotoma	MESH:D012607
+HP:0002064	Spastic gait	MESH:D020233
+HP:0012027	Laryngeal edema	MESH:D007819
+HP:0100704	Cortical visual impairment	MESH:D019575
+HP:0007215	Periodic hyperkalemic paralysis	MESH:D020513
+HP:0100777	Exostoses	MESH:D005096
+HP:0003978	Fractured radius	MESH:D011885
+HP:0002180	Neurodegeneration	MESH:D009410
+HP:0002180	Neurodegeneration	MESH:D019636
+HP:0040234	Factor XIII subunit B deficiency	MESH:C567688
+HP:0030774	Mitochondrial swelling	MESH:D008933
+HP:0011675	Arrhythmia	MESH:C562490
+HP:0011675	Arrhythmia	MESH:D001145
+HP:0012170	Nail-biting	MESH:D009259
+HP:0100606	Neoplasm of the respiratory system	MESH:D012142
+HP:0001956	Truncal obesity	MESH:D056128
+HP:0001373	Joint dislocation	MESH:D004204
+HP:0002728	Chronic mucocutaneous candidiasis	MESH:D002178
+HP:0000221	Furrowed tongue	MESH:D014063
+HP:0011106	Hypovolemia	MESH:D020896
+HP:0011950	Bronchiolitis	MESH:D001988
+HP:0005506	Chronic myelogenous leukemia	MESH:D015464
+HP:0000846	Adrenal insufficiency	MESH:D000309
+HP:0100650	Vaginal neoplasm	MESH:D014625
+HP:0004313	Decreased antibody level in blood	MESH:D000361
+HP:0000821	Hypothyroidism	MESH:D007037
+HP:0003651	Foam cells	MESH:D005487
+HP:0004757	Paroxysmal atrial fibrillation	MESH:D001281
+HP:0000544	External ophthalmoplegia	MESH:D009886
+HP:0000544	External ophthalmoplegia	MESH:D017246
+HP:0030725	Neurenteric cyst	MESH:D009436
+HP:0012031	Lipomatous tumor	MESH:D018205
+HP:0004389	Intestinal pseudo-obstruction	MESH:D007418
+HP:0006597	Diaphragmatic paralysis	MESH:D012133
+HP:0100582	Nasal polyposis	MESH:D009298
+HP:0002021	Pyloric stenosis	MESH:D011707
+HP:0011537	Left atrial isomerism	MESH:D059446
+HP:0002035	Rectal prolapse	MESH:D012005
+HP:0005831	Type B brachydactyly	MESH:C566196
+HP:0100309	Subdural hemorrhage	MESH:D006408
+HP:0000872	Hashimoto thyroiditis	MESH:D050031
+HP:0004373	Focal dystonia	MESH:D020821
+HP:0000551	Abnormality of color vision	MESH:D003117
+HP:0002829	Arthralgia	MESH:D018771
+HP:0011847	Giant cell tumor of bone	MESH:D018212
+HP:0100673	Vaginal hydrocele	MESH:D006848
+HP:0007029	Cerebral berry aneurysm	MESH:D000783
+HP:0000829	Hypoparathyroidism	MESH:D007011
+HP:0000938	Osteopenia	MESH:D001851
+HP:0001681	Angina pectoris	MESH:D000787
+HP:0100813	Testicular torsion	MESH:D013086
+HP:0007166	Paroxysmal dyskinesia	MESH:D002819
+HP:0100825	Cheilitis	MESH:D002613
+HP:0006747	Ganglioneuroblastoma	MESH:D018305
+HP:0000585	Band keratopathy	MESH:C562399
+HP:0002779	Tracheomalacia	MESH:D055090
+HP:0100577	Urinary bladder inflammation	MESH:D003556
+HP:0002305	Athetosis	MESH:D001264
+HP:0003394	Muscle cramps	MESH:D009120
+HP:0001257	Spasticity	MESH:D009128
+HP:0000992	Cutaneous photosensitivity	MESH:D010787
+HP:0000989	Pruritus	MESH:D011537
+HP:0004315	IgG deficiency	MESH:D017099
+HP:0011170	Myoclonic atonic seizures	MESH:D004831
+HP:0001083	Ectopia lentis	MESH:D007906
+HP:0001083	Ectopia lentis	MESH:D004479
+HP:0011724	Uhl&apos;s anomaly	MESH:C536932
+HP:0002153	Hyperkalemia	MESH:D006947
+HP:0011142	Age-related nuclear cataract	MESH:C563333
+HP:0012323	Sleep myoclonus	MESH:D009207
+HP:0006510	Chronic obstructive pulmonary disease	MESH:D029424
+HP:0100510	Vitamin C deficiency	MESH:D001206
+HP:0000589	Coloboma	MESH:D003103
+HP:0002015	Dysphagia	MESH:D003680
+HP:0010956	Fetal megacystis	MESH:C536139
+HP:0000211	Trismus	MESH:D014313
+HP:0000790	Hematuria	MESH:D006417
+HP:0001872	Abnormality of thrombocytes	MESH:D013915
+HP:0002665	Lymphoma	MESH:D008223
+HP:0005235	Jejunal atresia	MESH:D007409
+HP:0005203	Spontaneous esophageal perforation	MESH:C536571
+HP:0012189	Hodgkin lymphoma	MESH:D006689
+HP:0002619	Varicose veins	MESH:D014648
+HP:0000103	Polyuria	MESH:D011141
+HP:0000657	Oculomotor apraxia	MESH:C537423
+HP:0008222	Female infertility	MESH:D007247
+HP:0001010	Hypopigmentation of the skin	MESH:D017496
+HP:0010605	Chalazion	MESH:D017043
+HP:0012393	Allergy	MESH:D006967
+HP:0006557	Polycystic liver disease	MESH:C536330
+HP:0100009	Intracranial meningioma	MESH:D008579
+HP:0002859	Rhabdomyosarcoma	MESH:D012208
+HP:0012302	Herpes simplex encephalitis	MESH:D020803
+HP:0011743	Adrenal gland agenesis	MESH:C538429
+HP:0003269	Sudanophilic leukodystrophy	MESH:D020371
+HP:0030394	Fallopian tube carcinoma	MESH:D005185
+HP:0002083	Migraine without aura	MESH:D020326
+HP:0007709	Band-shaped corneal dystrophy	MESH:C562399
+HP:0002104	Apnea	MESH:D001049
+HP:0002635	Atheromatosis	MESH:D050197
+HP:0002666	Pheochromocytoma	MESH:D010673
+HP:0030416	Vulvar neoplasm	MESH:D014846
+HP:0012743	Abdominal obesity	MESH:D056128
+HP:0002027	Abdominal pain	MESH:D015746
+HP:0002292	Frontal balding	MESH:D000505
+HP:0010636	Schizencephaly	MESH:D065707
+HP:0001698	Pericardial effusion	MESH:D010490
+HP:0100543	Cognitive impairment	MESH:D060825
+HP:0005313	Arterial fibromuscular dysplasia	MESH:D005352
+HP:0030754	Allantoic cyst	MESH:D014496
+HP:0000016	Urinary retention	MESH:D016055
+HP:0004445	Elliptocytosis	MESH:D004612
+HP:0004808	Acute myeloid leukemia	MESH:D015470
+HP:0011774	Thyroid follicular adenoma	MESH:D013964
+HP:0001139	Choroideremia	MESH:D015794
+HP:0001399	Hepatic failure	MESH:D017093
+HP:0003073	Hypoalbuminemia	MESH:D034141
+HP:0001156	Brachydactyly syndrome	MESH:D059327
+HP:0011891	Post-partum hemorrhage	MESH:D006473
+HP:0010983	Oligogenic inheritance	MESH:D020412
+HP:0008757	Unilateral vocal cord paralysis	MESH:D014826
+HP:0000859	Hyperaldosteronism	MESH:D006929
+HP:0003001	Glomus jugular tumor	MESH:D005925
+HP:0004540	Congenital, generalized hypertrichosis	MESH:C538388
+HP:0001019	Erythroderma	MESH:D003873
+HP:0100244	Fibrosarcoma	MESH:D005354
+HP:0100805	Precocious menopause	MESH:D008594
+HP:0001840	Metatarsus adductus	MESH:D000070592
+HP:0002446	Astrocytosis	MESH:D005911
+HP:0002414	Spina bifida	MESH:D016135
+HP:0005206	Pancreatic pseudocyst	MESH:D010192
+HP:0001975	Decreased platelet glycoprotein IIb-IIIa	MESH:D013915
+HP:0030799	Scaphocephaly	MESH:D003398
+HP:0001177	Preaxial hand polydactyly	MESH:C536332
+HP:0030062	Craniopharyngioma	MESH:D003397
+HP:0001012	Multiple lipomas	MESH:D008067
+HP:0030017	Vaginismus	MESH:D052065
+HP:0012822	Bilateral vocal cord paresis	MESH:D014826
+HP:0100726	Kaposi&apos;s sarcoma	MESH:D012514
+HP:0011097	Epileptic spasms	MESH:D013036
+HP:0003763	Bruxism	MESH:D002012
+HP:0100654	Retrobulbar optic neuritis	MESH:D009902
+HP:0000939	Osteoporosis	MESH:D010024
+HP:0002242	Abnormality of the intestine	MESH:D007410
+HP:0000520	Proptosis	MESH:D005094
+HP:0004602	Cervical C2/C3 vertebral fusion	MESH:D007714
+HP:0002202	Pleural effusion	MESH:D010996
+HP:0006918	Diffuse cerebral sclerosis	MESH:D002549
+HP:0006988	Alobar holoprosencephaly	MESH:D016142
+HP:0003239	Phosphoethanolaminuria	MESH:C562646
+HP:0000796	Urethral obstruction	MESH:D014524
+HP:0001254	Lethargy	MESH:D053609
+HP:0001653	Mitral regurgitation	MESH:D008944
+HP:0000969	Edema	MESH:D004487
+HP:0009792	Teratoma	MESH:D013724
+HP:0007475	Congenital bullous ichthyosiform erythroderma	MESH:D017488
+HP:0200026	Ocular pain	MESH:D058447
+HP:0010980	Hyperlipoproteinemia	MESH:D006951
+HP:0000506	Telecanthus	MESH:C562941
+HP:0004749	Atrial flutter	MESH:D001282
+HP:0011068	Odontoma	MESH:D009810
+HP:0010536	Central sleep apnea	MESH:D020182
+HP:0001901	Polycythemia	MESH:D011086
+HP:0100647	Graves disease	MESH:D006111
+HP:0000265	Mastoiditis	MESH:D008417
+HP:0000679	Taurodontia	MESH:C536946
+HP:0002586	Peritonitis	MESH:D010538
+HP:0100774	Hyperostosis	MESH:D015576
+HP:0012218	Alveolar soft part sarcoma	MESH:D018234
+HP:0045041	Lactate dehydrogenase B deficiency	MESH:C563641
+HP:0001250	Seizures	MESH:D012640
+HP:0001250	Seizures	MESH:D004827
+HP:0011622	Inlet ventricular septal defect	MESH:C535974
+HP:0002206	Pulmonary fibrosis	MESH:D011658
+HP:0030883	Femoroacetabular Impingement	MESH:D057925
+HP:0400007	Polymenorrhea	MESH:D008599
+HP:0030716	Acrania	MESH:D009436
+HP:0000971	Abnormality of the sweat gland	MESH:D013543
+HP:0005990	Thyroid hypoplasia	MESH:D050033
+HP:0010786	Urinary tract neoplasm	MESH:D014571
+HP:0001742	Nasal obstruction	MESH:D015508
+HP:0011536	Right atrial isomerism	MESH:D059446
+HP:0000224	Decreased taste sensation	MESH:D000370
+HP:0005323	Hemifacial hypertrophy	MESH:D005621
+HP:0005323	Hemifacial hypertrophy	MESH:C563014
+HP:0010871	Sensory ataxia	MESH:D001259
+HP:0012399	Pressure ulcer	MESH:D003668
+HP:0000538	Pseudopapilledema	MESH:C562401
+HP:0012221	Pretibial blistering	MESH:C535494
+HP:0012121	Panuveitis	MESH:D015864
+HP:0007957	Corneal opacity	MESH:D003318
+HP:0030016	Dyspareunia	MESH:D004414
+HP:0011110	Tonsillitis	MESH:D014069
+HP:0006802	Abnormal anterior horn cell morphology	MESH:D016472
+HP:0001543	Gastroschisis	MESH:D020139
+HP:0002961	Dysgammaglobulinemia	MESH:D004406
+HP:0007716	Intraocular melanoma	MESH:C536494
+HP:0010906	Hyperhistidinemia	MESH:C538320
+HP:0011848	Abdominal colic	MESH:D003085
+HP:0008341	Distal renal tubular acidosis	MESH:D000141
+HP:0100881	Congenital mesoblastic nephroma	MESH:D018201
+HP:0012395	Seasonal allergy	MESH:D006255
+HP:0004912	Hypophosphatemic rickets	MESH:D063730
+HP:0001638	Cardiomyopathy	MESH:D009202
+HP:0000230	Gingivitis	MESH:D005891
+HP:0100678	Premature skin wrinkling	MESH:D015595
+HP:0008181	Abetalipoproteinemia	MESH:D000012
+HP:0100626	Chronic hepatic failure	MESH:D058625
+HP:0012159	Internal carotid artery dissection	MESH:D020215
+HP:0100743	Neoplasm of the rectum	MESH:D012004
+HP:0002037	Inflammation of the large intestine	MESH:D015212
+HP:0001884	Talipes calcaneovalgus	MESH:D005413
+HP:0000526	Aniridia	MESH:D015783
+HP:0000132	Menorrhagia	MESH:D008595
+HP:0001618	Dysphonia	MESH:D055154
+HP:0012019	Lens luxation	MESH:D007906
+HP:0001159	Syndactyly	MESH:D013576
+HP:0004415	Pulmonary artery stenosis	MESH:D000071079
+HP:0001339	Lissencephaly	MESH:D054082
+HP:0002373	Febrile seizures	MESH:D003294
+HP:0001640	Cardiomegaly	MESH:D006332
+HP:0002510	Spastic tetraplegia	MESH:D011782
+HP:0001682	Subaortic stenosis	MESH:D001020
+HP:0011999	Paranoia	MESH:D010259
+HP:0002463	Language impairment	MESH:D007806
+HP:0010822	Scintillating scotoma	MESH:D012607
+HP:0002131	Episodic ataxia	MESH:C580065
+HP:0000410	Mixed hearing impairment	MESH:D046089
+HP:0005948	Cystic lung disease	MESH:C563237
+HP:0100665	Angioedema	MESH:D000799
+HP:0100843	Glioblastoma	MESH:D005909
+HP:0010770	Pilonidal fistula	MESH:D010864
+HP:0003034	Diaphyseal sclerosis	MESH:D003966
+HP:0002607	Bowel incontinence	MESH:D005242
+HP:0000980	Pallor	MESH:D010167
+HP:0001276	Hypertonia	MESH:D009122
+HP:0008970	Scapulohumeral muscular dystrophy	MESH:C562932
+HP:0002174	Postural tremor	MESH:D014202
+HP:0012317	Sacroiliac arthritis	MESH:C563037
+HP:0000956	Acanthosis nigricans	MESH:D000052
+HP:0003737	Mitochondrial myopathy	MESH:D017240
+HP:0002655	Spondyloepiphyseal dysplasia	MESH:D010009
+HP:0200120	Chronic active hepatitis	MESH:D006521
+HP:0010959	Congenital cystic adenomatoid malformation of the lung	MESH:D015615
+HP:0000820	Abnormality of the thyroid gland	MESH:D013959
+HP:0030711	Hydrocolpos	MESH:D052202
+HP:0003607	4-Hydroxyphenylacetic aciduria	MESH:C535315
+HP:0002148	Hypophosphatemia	MESH:D017674
+HP:0004418	Thrombophlebitis	MESH:D013924
+HP:0001331	Absent septum pellucidum	MESH:C535562
+HP:0000597	Ophthalmoparesis	MESH:D009886
+HP:0000818	Abnormality of the endocrine system	MESH:D004700
+HP:0010886	Osteochondritis Dissecans	MESH:D010008
+HP:0004388	Microcolon	MESH:C562563
+HP:0010544	Vertical nystagmus	MESH:D009759
+HP:0001269	Hemiparesis	MESH:D010291
+HP:0000843	Hyperparathyroidism	MESH:D006961
+HP:0002229	Alopecia areata	MESH:D000506
+HP:0004755	Supraventricular tachycardia	MESH:D013617
+HP:0200043	Verrucae	MESH:D014860
+HP:0011892	Vitamin K deficiency	MESH:D014813
+HP:0012618	Urachal cyst	MESH:D014496
+HP:0011947	Respiratory tract infection	MESH:D012141
+HP:0045047	HbS hemoglobin	MESH:D006451
+HP:0001706	Endocardial fibroelastosis	MESH:D004695
+HP:0030078	Lung adenocarcinoma	MESH:C538231
+HP:0030160	Cervicitis	MESH:D002575
+HP:0006744	Adrenocortical carcinoma	MESH:D018268
+HP:0001601	Laryngomalacia	MESH:D055092
+HP:0030432	Chondroblastoma	MESH:D002804
+HP:0001278	Orthostatic hypotension	MESH:D007024
+HP:0100633	Esophagitis	MESH:D004941
+HP:0012315	Histiocytoma	MESH:D051642
+HP:0001662	Bradycardia	MESH:D001919
+HP:0001604	Vocal cord paresis	MESH:D014826
+HP:0100808	Gastric diverticulum	MESH:D013273
+HP:0009771	Osteolytic defects of the phalanges of the hand	MESH:D030981
+HP:0100012	Neoplasm of the eye	MESH:D005134
+HP:0004746	Glomerular subendothelial electron-dense deposits	MESH:D015432
+HP:0007185	Loss of consciousness	MESH:D014474
+HP:0003057	Tetraamelia	MESH:C536498
+HP:0012416	Hypercapnia	MESH:D006935
+HP:0012538	Gluten intolerance	MESH:D002446
+HP:0002657	Spondylometaphyseal dysplasia	MESH:C537501
+HP:0005293	Venous insufficiency	MESH:D014689
+HP:0002650	Scoliosis	MESH:D013121
+HP:0003220	Abnormality of chromosome stability	MESH:D019457
+HP:0003326	Myalgia	MESH:D063806
+HP:0100013	Neoplasm of the breast	MESH:D001943
+HP:0100723	Gastrointestinal stroma tumor	MESH:D046152
+HP:0000656	Ectropion	MESH:D004483
+HP:0000026	Male hypogonadism	MESH:D005058
+HP:0000752	Hyperactivity	MESH:D006948
+HP:0005505	Refractory anemia	MESH:D000753
+HP:0002300	Mutism	MESH:D009155
+HP:0000510	Rod-cone dystrophy	MESH:D012174
+HP:0007099	Arnold-Chiari type I malformation	MESH:D001139
+HP:0006699	Premature atrial contractions	MESH:D018880
+HP:0000988	Skin rash	MESH:D005076
+HP:0000750	Delayed speech and language development	MESH:D007805
+HP:0002748	Rickets	MESH:D012279
+HP:0100497	Vitamin B3 deficiency	MESH:D010383
+HP:0000603	Central scotoma	MESH:D012607
+HP:0010532	Paroxysmal vertigo	MESH:D014717
+HP:0006775	Multiple myeloma	MESH:D009101
+HP:0006775	Multiple myeloma	MESH:D010954
+HP:0000978	Bruising susceptibility	MESH:D004438
+HP:0100651	Type I diabetes mellitus	MESH:D003922
+HP:0002970	Genu varum	MESH:D056305
+HP:0011100	Intestinal atresia	MESH:D007409
+HP:0003761	Calcinosis	MESH:D002114
+HP:0100658	Cellulitis	MESH:D017192
+HP:0100658	Cellulitis	MESH:D002481
+HP:0001683	Ectopia cordis	MESH:D054083
+HP:0000083	Renal insufficiency	MESH:D051437
+HP:0030403	Spontaneous platelet aggregation	MESH:C566800
+HP:0100010	Spinal meningioma	MESH:D008579
+HP:0011160	Gustatory auras	MESH:D006212
+HP:0100522	Thymoma	MESH:D013945
+HP:0012329	Tufted angioma	MESH:C536924
+HP:0010474	Bladder stones	MESH:D001744
+HP:0012672	Akinetic mutism	MESH:D000405
+HP:0001402	Hepatocellular carcinoma	MESH:D006528
+HP:0007939	Blue cone monochromacy	MESH:C536238
+HP:0004383	Hypoplastic left heart	MESH:D018636
+HP:0011171	Simple febrile seizures	MESH:D003294
+HP:0001631	Atrial septal defect	MESH:D006344
+HP:0001395	Hepatic fibrosis	MESH:D008103
+HP:0004841	Reduced factor XII activity	MESH:D005175
+HP:0001587	Primary ovarian failure	MESH:D016649
+HP:0001982	Sea-blue histiocytosis	MESH:D012618
+HP:0012062	Bone cyst	MESH:D001845
+HP:0012196	Cheyne-Stokes respiration	MESH:D002639
+HP:0005952	Decreased pulmonary function	MESH:D012131
+HP:0002821	Neuropathic arthropathy	MESH:D001177
+HP:0000616	Miosis	MESH:D015877
+HP:0005890	Hyperostosis cranialis interna	MESH:C564168
+HP:0100867	Duodenal stenosis	MESH:C535720
+HP:0000982	Palmoplantar keratoderma	MESH:D007645
+HP:0004392	Prune belly	MESH:D011535
+HP:0002273	Tetraparesis	MESH:D011782
+HP:0002247	Duodenal atresia	MESH:C535720
+HP:0002380	Fasciculations	MESH:D005207
+HP:0010562	Keloids	MESH:D007627
+HP:0100264	Proximal symphalangism	MESH:C536223
+HP:0000973	Cutis laxa	MESH:C531660
+HP:0000973	Cutis laxa	MESH:D003483
+HP:0011153	Focal motor seizures	MESH:D020938
+HP:0010548	Percussion myotonia	MESH:D009222
+HP:0000107	Renal cyst	MESH:D052177
+HP:0010526	Dysgraphia	MESH:D000381
+HP:0000483	Astigmatism	MESH:D001251
+HP:0030068	Olfactory esthesioneuroblastoma	MESH:D018304
+HP:0030521	Bitemporal hemianopia	MESH:D006423
+HP:0100027	Recurrent pancreatitis	MESH:D050500
+HP:0002897	Parathyroid adenoma	MESH:D010282
+HP:0006749	Malignant gastrointestinal tract tumors	MESH:D005770
+HP:0001518	Small for gestational age	MESH:D007230
+HP:0030408	Pineoblastoma	MESH:D010871
+HP:0002570	Steatorrhea	MESH:D045602
+HP:0001541	Ascites	MESH:D001201
+HP:0005428	Severe recurrent varicella	MESH:C563458
+HP:0001100	Heterochromia iridis	MESH:C538115
+HP:0030784	Anomia	MESH:D000849
+HP:0001658	Myocardial infarction	MESH:D009203
+HP:0100792	Acantholysis	MESH:D000051
+HP:0001363	Craniosynostosis	MESH:D003398
+HP:0012325	Chronic myelomonocytic leukemia	MESH:D015477
+HP:0003076	Glycosuria	MESH:D006029
+HP:0002132	Porencephaly	MESH:D065708
+HP:0005526	Lymphoid leukemia	MESH:D007945
+HP:0011332	Hemifacial hypoplasia	MESH:D006053
+HP:0100769	Synovitis	MESH:D013585
+HP:0010448	Colonic atresia	MESH:C562562
+HP:0030148	Heart murmur	MESH:D006337
+HP:0002900	Hypokalemia	MESH:D007008
+HP:0100746	Macrodactyly of finger	MESH:C537720
+HP:0002898	Embryonal neoplasm	MESH:D009373
+HP:0005863	Type E brachydactyly	MESH:C566194
+HP:0009800	Maternal diabetes	MESH:D016640
+HP:0001919	Acute kidney injury	MESH:D058186
+HP:0002251	Aganglionic megacolon	MESH:D006627
+HP:0002251	Aganglionic megacolon	MESH:D008531
+HP:0009760	Antecubital pterygium	MESH:C566738
+HP:0012534	Dysesthesia	MESH:D010292
+HP:0004845	Acute monocytic leukemia	MESH:D007948
+HP:0002077	Migraine with aura	MESH:D020325
+HP:0010524	Agnosia	MESH:D000377
+HP:0002519	Hypnagogic hallucinations	MESH:D006212
+HP:0100575	Neoplasm of the gallbladder	MESH:D005706
+HP:0000876	Oligomenorrhea	MESH:D009839
+HP:0009125	Lipodystrophy	MESH:D008060
+HP:0008256	Adrenocortical adenoma	MESH:D018246
+HP:0005986	Limitation of neck motion	MESH:D009127
+HP:0000576	Centrocecal scotoma	MESH:D012607
+HP:0002343	Normal pressure hydrocephalus	MESH:D006850
+HP:0011604	Aortopulmonary window	MESH:D001028
+HP:0012636	Retinal vein occlusion	MESH:D012170
+HP:0001095	Hypertensive retinopathy	MESH:D058437
+HP:0010522	Dyslexia	MESH:D004410
+HP:0002102	Pleuritis	MESH:D010998
+HP:0030248	Mesenteric venous thrombosis	MESH:D065666
+HP:0002076	Migraine	MESH:D008881
+HP:0000620	Dacryocystitis	MESH:D003607
+HP:0000970	Anhidrosis	MESH:D007007
+HP:0002197	Generalized seizures	MESH:D012640
+HP:0008660	Renotubular dysgenesis	MESH:C537048
+HP:0100883	Chorangioma	MESH:D006391
+HP:0006689	Bacterial endocarditis	MESH:D004697
+HP:0001789	Hydrops fetalis	MESH:D015160
+HP:0001913	Granulocytopenia	MESH:D000380
+HP:0012254	Ewing&apos;s sarcoma	MESH:D012512
+HP:0012154	Anhedonia	MESH:D059445
+HP:0040181	Chapped lip	MESH:D019557
+HP:0004864	Refractory sideroblastic anemia	MESH:D000756
+HP:0003302	Spondylolisthesis	MESH:D013168
+HP:0012740	Papilloma	MESH:D010212
+HP:0007263	Spinocerebellar atrophy	MESH:D020754
+HP:0001260	Dysarthria	MESH:D004401
+HP:0000556	Retinal dystrophy	MESH:D058499
+HP:0000278	Retrognathia	MESH:D063173
+HP:0030426	Ossifying fibroma	MESH:D018214
+HP:0000028	Cryptorchidism	MESH:D003456
+HP:0001945	Fever	MESH:D005334
+HP:0008288	Nonketotic hyperglycinemia	MESH:D020158
+HP:0000027	Azoospermia	MESH:D053713
+HP:0000828	Abnormality of the parathyroid gland	MESH:D010279
+HP:0030067	Peripheral primitive neuroectodermal neoplasm	MESH:D018241
+HP:0007188	Congenital facial diplegia	MESH:C531747
+HP:0100263	Distal symphalangism	MESH:C566099
+HP:0005321	Mandibulofacial dysostosis	MESH:D008342
+HP:0007268	Aprosencephaly	MESH:D000757
+HP:0008000	Decreased corneal reflex	MESH:D012021
+HP:0100632	Pulmonary sequestration	MESH:D001998
+HP:0000501	Glaucoma	MESH:D005901
+HP:0006782	Malignant eosinophil proliferation	MESH:C565054
+HP:0012578	Membranous nephropathy	MESH:D015433
+HP:0012441	Sphincter of Oddi dyskinesia	MESH:D046628
+HP:0001888	Lymphopenia	MESH:D008231
+HP:0011095	Overjet	MESH:D057887
+HP:0008711	Benign prostatic hyperplasia	MESH:D011470
+HP:0006824	Cranial nerve paralysis	MESH:D003389
+HP:0011445	Athetoid cerebral palsy	MESH:D002547
+HP:0010891	Morbus Scheuermann	MESH:D012544
+HP:0011736	Primary hyperaldosteronism	MESH:D006929
+HP:0100699	Scarring	MESH:D002921
+HP:0009796	Branchial cyst	MESH:D001935
+HP:0001583	Rotary nystagmus	MESH:D009759
+HP:0000768	Pectus carinatum	MESH:D066166
+HP:0012592	Albuminuria	MESH:D000419
+HP:0009734	Optic glioma	MESH:D020339
+HP:0000840	Adrenogenital syndrome	MESH:D047808
+HP:0100697	Neurofibrosarcoma	MESH:D009442
+HP:0100697	Neurofibrosarcoma	MESH:D018319
+HP:0040262	Glue ear	MESH:D010034
+HP:0004872	Incisional hernia	MESH:D000069290
+HP:0002580	Volvulus	MESH:D045822
+HP:0000568	Microphthalmia	MESH:D008850
+HP:0011841	Ventricular flutter	MESH:D054141
+HP:0001134	Anterior polar cataract	MESH:C538282
+HP:0002253	Colonic diverticula	MESH:D004241
+HP:0002253	Colonic diverticula	MESH:D043963
+HP:0001087	Congenital glaucoma	MESH:D006871
+HP:0012005	Deja vu	MESH:D003690
+HP:0100598	Pulmonary edema	MESH:D011654
+HP:0009755	Ankyloblepharon	MESH:C536373
+HP:0010445	Primum atrial septal defect	MESH:C536112
+HP:0010445	Primum atrial septal defect	MESH:C548006
+HP:0011998	Postprandial hyperglycemia	MESH:D006943
+HP:0010784	Uterine neoplasm	MESH:D014594
+HP:0011747	Abnormality of the anterior pituitary	MESH:D010900
+HP:0012123	Posterior uveitis	MESH:D015866
+HP:0012123	Posterior uveitis	MESH:D002833
+HP:0001511	Intrauterine growth retardation	MESH:D007236
+HP:0001511	Intrauterine growth retardation	MESH:D005317
+HP:0040141	Tardive dyskinesia	MESH:D000071057
+HP:0000957	Cafe-au-lait spot	MESH:D019080
+HP:0100814	Blue nevus	MESH:D049328
+HP:0006461	Proximal femoral epiphysiolysis	MESH:D060048
+HP:0004950	Peripheral arterial disease	MESH:D058729
+HP:0004950	Peripheral arterial disease	MESH:D016491
+HP:0001959	Polydipsia	MESH:D059606
+HP:0004319	Decreased circulating aldosterone level	MESH:D006994
+HP:0009372	Type A2 brachydactyly	MESH:C537089
+HP:0001249	Intellectual disability	MESH:D008607
+HP:0011088	Dens in dente	MESH:D003719
+HP:0030529	Ring scotoma	MESH:D012607
+HP:0000150	Gonadoblastoma	MESH:D018238
+HP:0002203	Respiratory paralysis	MESH:D012133
+HP:0009806	Nephrogenic diabetes insipidus	MESH:D018500
+HP:0011098	Speech apraxia	MESH:D001072
+HP:0000473	Torticollis	MESH:D014103
+HP:0001824	Weight loss	MESH:D015431
+HP:0005550	Chronic lymphatic leukemia	MESH:D015451
+HP:0000554	Uveitis	MESH:D014605
+HP:0003233	Hypoalphalipoproteinemia	MESH:D052456
+HP:0011447	Hyposegmentation of neutrophil nuclei	MESH:D010381
+HP:0030207	Paradoxical respiration	MESH:D005409
+HP:0005266	Intestinal polyp	MESH:D007417
+HP:0009071	Inflammatory myopathy	MESH:D009220
+HP:0007968	Remnants of the hyaloid vascular system	MESH:D054514
+HP:0005261	Joint hemorrhage	MESH:D006395
+HP:0001022	Albinism	MESH:D000417
+HP:0002367	Visual hallucinations	MESH:D006212
+HP:0030709	Myelocystocele	MESH:D008591
+HP:0008064	Ichthyosis	MESH:D007057
+HP:0000826	Precocious puberty	MESH:D011629
+HP:0030765	Sleep terror	MESH:D020184
+HP:0010518	Thyroglossal cyst	MESH:D013955
+HP:0000934	Chondrocalcinosis	MESH:D002805
+HP:0001107	Ocular albinism	MESH:D016117
+HP:0007354	Amyotrophic lateral sclerosis	MESH:D000690
+HP:0001822	Hallux valgus	MESH:D000071378
+HP:0001822	Hallux valgus	MESH:D006215
+HP:0003193	Allergic rhinitis	MESH:D065631
+HP:0001871	Abnormality of blood and blood-forming tissues	MESH:D006402
+HP:0011540	Congenitally corrected transposition of the great arteries	MESH:C535426
+HP:0002105	Hemoptysis	MESH:D006469
+HP:0003353	Propionyl-CoA carboxylase deficiency	MESH:D056693
+HP:0040113	Old-aged sensorineural hearing impairment	MESH:D011304
+HP:0000565	Esotropia	MESH:D004948
+HP:0100787	Prostate neoplasm	MESH:D011471
+HP:0012203	Onychomycosis	MESH:D014009
+HP:0012181	Entrapment neuropathy	MESH:D009408
+HP:0000695	Natal tooth	MESH:D009306
+HP:0001987	Hyperammonemia	MESH:D022124
+HP:0011846	Osteoblastoma	MESH:D018215
+HP:0005523	Lymphoproliferative disorder	MESH:D008232
+HP:0002063	Rigidity	MESH:D009127
+HP:0000651	Diplopia	MESH:D004172
+HP:0012407	Scissor gait	MESH:D020233
+HP:0005306	Capillary hemangiomas	MESH:D018324
+HP:0001989	Fetal akinesia sequence	MESH:C536647
+HP:0012028	Hepatocellular adenoma	MESH:D018248
+HP:0100255	Metaphyseal dysplasia	MESH:C536252
+HP:0002277	Horner syndrome	MESH:D006732
+HP:0009918	Ectopia pupillae	MESH:C536185
+HP:0010762	Chordoma	MESH:D002817
+HP:0002487	Hyperkinesis	MESH:D013035
+HP:0002487	Hyperkinesis	MESH:D006948
+HP:0100890	Cyst of the ductus choledochus	MESH:D015529
+HP:0000590	Progressive external ophthalmoplegia	MESH:D017246
+HP:0030853	Heterotaxy	MESH:D059446
+HP:0001259	Coma	MESH:D003128
+HP:0011885	Hemorrhage of the eye	MESH:D005130
+HP:0010514	Hyperpituitarism	MESH:D006964
+HP:0000833	Glucose intolerance	MESH:D018149
+HP:0001394	Cirrhosis	MESH:D008103
+HP:0001654	Abnormality of the heart valves	MESH:D006349
+HP:0002558	Supernumerary nipple	MESH:C562557
+HP:0000805	Enuresis	MESH:D004775
+HP:0001953	Diabetic ketoacidosis	MESH:D016883
+HP:0000718	Aggressive behavior	MESH:D000374
+HP:0000716	Depression	MESH:D003866
+HP:0002836	Bladder exstrophy	MESH:D001746
+HP:0000123	Nephritis	MESH:D009393
+HP:0100727	Histiocytosis	MESH:D015614
+HP:0100684	Salivary gland neoplasm	MESH:D012468
+HP:0030520	Binasal hemianopia	MESH:D006423
+HP:0001009	Telangiectasia	MESH:D013684
+HP:0002133	Status epilepticus	MESH:D013226
+HP:0007479	Congenital nonbullous ichthyosiform erythroderma	MESH:D017490
+HP:0002812	Coxa vara	MESH:D060905
+HP:0040075	Hypopituitarism	MESH:D007018
+HP:0010447	Anal fistula	MESH:D012003
+HP:0001094	Iridocyclitis	MESH:D015863
+HP:0012024	Hypergalactosemia	MESH:D005693
+HP:0002039	Anorexia	MESH:D000855
+HP:0012119	Methemoglobinemia	MESH:D008708
+HP:0040188	Osteochondrosis	MESH:D055034
+HP:0000070	Ureterocele	MESH:D014518
+HP:0012861	Ovotestis	MESH:D050090
+HP:0100638	Neoplasm of the pharynx	MESH:D010610
+HP:0000317	Facial myokymia	MESH:D005155
+HP:0030830	Rales	MESH:D012135
+HP:0006743	Embryonal rhabdomyosarcoma	MESH:D018233
+HP:0000953	Hyperpigmentation of the skin	MESH:D017495
+HP:0030773	Internuclear ophthalmoplegia	MESH:D015835
+HP:0012396	Biliary dyskinesia	MESH:D001657
+HP:0005994	Nodular goiter	MESH:D006044
+HP:0001052	Nevus flammeus	MESH:D019339
+HP:0002617	Aneurysm	MESH:D000783
+HP:0000618	Blindness	MESH:D001766
+HP:0012387	Bronchitis	MESH:D001991
+HP:0000722	Obsessive-compulsive behavior	MESH:D003192
+HP:0000722	Obsessive-compulsive behavior	MESH:D009771
+HP:0001357	Plagiocephaly	MESH:D049068
+HP:0001357	Plagiocephaly	MESH:D059041
+HP:0012026	Hyperornithinemia	MESH:D015799
+HP:0002018	Nausea	MESH:D009325
+HP:0100601	Eclampsia	MESH:D004461
+HP:0002408	Cerebral arteriovenous malformation	MESH:D002538
+HP:0000733	Stereotypy	MESH:D013239
+HP:0000733	Stereotypy	MESH:D019956
+HP:0030770	Craniorachischisis	MESH:D009436
+HP:0012077	Histrionic personality disorder	MESH:D006677
+HP:0100733	Neoplasm of the parathyroid gland	MESH:D010282
+HP:0007379	Neoplasm of the genitourinary tract	MESH:D014565
+HP:0000558	Rieger anomaly	MESH:C535679
+HP:0012876	Premature ejaculation	MESH:D061686
+HP:0008629	Pulsatile tinnitus	MESH:D014012
+HP:0007802	Granular corneal dystrophy	MESH:D003317
+HP:0100747	Macrodactyly of toe	MESH:C537719
+HP:0001101	Iritis	MESH:D007500
+HP:0002542	Olivopontocerebellar atrophy	MESH:D009849
+HP:0030683	Vaginitis	MESH:D014627
+HP:0010310	Chylothorax	MESH:D002916
+HP:0005160	Total anomalous pulmonary venous return	MESH:D012587
+HP:0030712	Uterine synechiae	MESH:D006175
+HP:0000362	Otosclerosis	MESH:D010040
+HP:0012490	Panniculitis	MESH:D015434
+HP:0003228	Hypernatremia	MESH:D006955
+HP:0007803	Monochromacy	MESH:D003117
+HP:0007803	Monochromacy	MESH:C536128
+HP:0003396	Syringomyelia	MESH:D013595
+HP:0030665	Rubral tremor	MESH:D001259
+HP:0030694	Pineal parenchymal cell neoplasm	MESH:D010871
+HP:0010614	Fibroma	MESH:D005350
+HP:0200123	Chronic hepatitis	MESH:D006521
+HP:0009827	Amelia	MESH:D004480
+HP:0006766	Papillary renal cell carcinoma	MESH:D002292
+HP:0005242	Extrahepatic biliary duct atresia	MESH:D001656
+HP:0006702	Spontaneous coronary artery dissection	MESH:C565153
+HP:0006897	Cranial nerve VI palsy	MESH:C564661
+HP:0006897	Cranial nerve VI palsy	MESH:D020434
+HP:0011419	Placental abruption	MESH:D000037
+HP:0004934	Vascular calcification	MESH:D061205
+HP:0030449	Therapeutic abortion	MESH:D000032
+HP:0001062	Atypical nevus	MESH:D004416
+HP:0009797	Cholesteatoma	MESH:D002781
+HP:0001014	Angiokeratoma	MESH:D000794
+HP:0008551	Microtia	MESH:D065817
+HP:0000021	Megacystis	MESH:C536139
+HP:0011067	Mesiodens	MESH:D014096
+HP:0030158	Cervical ectropion	MESH:D002579
+HP:0007024	Pseudobulbar paralysis	MESH:D020828
+HP:0001369	Arthritis	MESH:D001168
+HP:0001057	Aplasia cutis congenita	MESH:D004476
+HP:0001920	Renal artery stenosis	MESH:D012078
+HP:0001882	Leukopenia	MESH:D007970
+HP:0001132	Lens subluxation	MESH:D007906
+HP:0011782	Thyroid crisis	MESH:D013958
+HP:0001172	Abnormality of the thumb	MESH:C536903
+HP:0012330	Pyelonephritis	MESH:D011704
+HP:0010780	Hyperacusis	MESH:D012001
+HP:0007544	Piebaldism	MESH:D016116
+HP:0000642	Red-green dyschromatopsia	MESH:D003117
+HP:0005263	Gastritis	MESH:D005756
+HP:0010615	Angiofibromas	MESH:D018322
+HP:0000017	Nocturia	MESH:D053158
+HP:0005901	Chronic recurrent multifocal osteomyelitis	MESH:C535456
+HP:0003072	Hypercalcemia	MESH:D006934
+HP:0000405	Conductive hearing impairment	MESH:D006314
+HP:0011069	Increased number of teeth	MESH:D014096
+HP:0009726	Renal neoplasm	MESH:D007680
+HP:0011496	Corneal neovascularization	MESH:D016510
+HP:0000498	Blepharitis	MESH:D001762
+HP:0011951	Aspiration pneumonia	MESH:D011015
+HP:0011331	Hemifacial atrophy	MESH:D005150
+HP:0007850	Retinal vascular proliferation	MESH:D015861
+HP:0003298	Spina bifida occulta	MESH:D016136
+HP:0007570	Hyperkeratosis lenticularis perstans	MESH:C538377
+HP:0004417	Intermittent claudication	MESH:D007383
+HP:0100762	Hemobilia	MESH:D006431
+HP:0001085	Papilledema	MESH:D010211
+HP:0007755	Juvenile epithelial corneal dystrophy	MESH:D053559
+HP:0002521	Hypsarrhythmia	MESH:D013036
+HP:0000453	Choanal atresia	MESH:D002754
+HP:0008689	Bilateral cryptorchidism	MESH:D003456
+HP:0100742	Vascular neoplasm	MESH:D009383
+HP:0100742	Vascular neoplasm	MESH:D019043
+HP:0008250	Infantile hypercalcemia	MESH:C562999
+HP:0000003	Multicystic kidney dysplasia	MESH:D021782
+HP:0001891	Iron deficiency anemia	MESH:D018798
+HP:0012741	Unilateral cryptorchidism	MESH:D003456
+HP:0009732	Plexiform neurofibroma	MESH:D018318
+HP:0006280	Chronic pancreatitis	MESH:D050500
+HP:0030392	Choroid plexus carcinoma	MESH:C562943
+HP:0012446	Low CSF 5-methyltetrahydrofolate	MESH:C567791
+HP:0002979	Bowing of the legs	MESH:D056305
+HP:0005531	Biphenotypic acute leukaemia	MESH:D015456
+HP:0100614	Myositis	MESH:D009220
+HP:0002573	Hematochezia	MESH:D006471
+HP:0001967	Diffuse mesangial sclerosis	MESH:C537346
+HP:0002576	Intussusception	MESH:D007443
+HP:0000126	Hydronephrosis	MESH:D006869
+HP:0011505	Cystoid macular edema	MESH:D008269
+HP:0010497	Sirenomelia	MESH:D004480
+HP:0100324	Scleroderma	MESH:D012594
+HP:0011703	Sinus tachycardia	MESH:D013616
+HP:0001650	Aortic valve stenosis	MESH:D001024
+HP:0100602	Preeclampsia	MESH:D011225
+HP:0002019	Constipation	MESH:D003248
+HP:0002762	Multiple exostoses	MESH:D005097
+HP:0012378	Fatigue	MESH:D005221
+HP:0001734	Annular pancreas	MESH:C536376
+HP:0002355	Difficulty walking	MESH:D051346
+HP:0001342	Cerebral hemorrhage	MESH:D020300
+HP:0001342	Cerebral hemorrhage	MESH:D002543
+HP:0001300	Parkinsonism	MESH:D020734
+HP:0002778	Abnormality of the trachea	MESH:D014133
+HP:0011868	Sciatica	MESH:D012585
+HP:0000839	Pituitary dwarfism	MESH:D004393
+HP:0002960	Autoimmunity	MESH:D001327
+HP:0000541	Retinal detachment	MESH:D012163
+HP:0012193	Anaplastic large-cell lymphoma	MESH:D017728
+HP:0030358	Non-small cell lung carcinoma	MESH:D002289
+HP:0000020	Urinary incontinence	MESH:D014549
+HP:0100605	Neoplasm of the larynx	MESH:D007822
+HP:0010535	Sleep apnea	MESH:D012891
+HP:0010446	Tricuspid stenosis	MESH:D014264
+HP:0007565	Multiple cafe-au-lait spots	MESH:C537421
+HP:0009831	Mononeuropathy	MESH:D020422
+HP:0012205	Globozoospermia	MESH:D000072660
+HP:0007206	Hemimegalencephaly	MESH:D065705
+HP:0010943	Echogenic fetal bowel	MESH:D058535
+HP:0006737	Extraadrenal pheochromocytoma	MESH:D010673
+HP:0001048	Cavernous hemangioma	MESH:D006392
+HP:0010945	Fetal pyelectasis	MESH:D058536
+HP:0000579	Nasolacrimal duct obstruction	MESH:D007767
+HP:0005110	Atrial fibrillation	MESH:D001281
+HP:0002248	Hematemesis	MESH:D006396
+HP:0007359	Focal seizures	MESH:D012640
+HP:0012735	Cough	MESH:D003371
+HP:0007524	Atypical neurofibromatosis	MESH:C537392
+HP:0003715	Myofibrillar myopathy	MESH:C580316
+HP:0100845	Anaphylactic shock	MESH:D000707
+HP:0040187	Neonatal sepsis	MESH:D000071074
+HP:0001923	Reticulocytosis	MESH:D045262
+HP:0003041	Humeroradial synostosis	MESH:C535284
+HP:0002108	Spontaneous pneumothorax	MESH:D011030
+HP:0002357	Dysphasia	MESH:D001037
+HP:0001695	Cardiac arrest	MESH:D006323
+HP:0004377	Hematological neoplasm	MESH:D019337
+HP:0030064	Neurocytoma	MESH:D018306
+HP:0012498	Nuchal cord	MESH:D053589
+HP:0000074	Ureteropelvic junction obstruction	MESH:C537373
+HP:0030074	Chemodectoma	MESH:D002345
+HP:0001772	Talipes equinovalgus	MESH:D004863
+HP:0100628	Esophageal diverticulum	MESH:D004936
+HP:0000610	Abnormality of the choroid	MESH:D015862
+HP:0001915	Aplastic anemia	MESH:D000741
+HP:0002716	Lymphadenopathy	MESH:D000072281
+HP:0003811	Neonatal death	MESH:D066087
+HP:0003674	Onset	MESH:D017668
+HP:0001480	Freckling	MESH:D008548
+HP:0004395	Malnutrition	MESH:D044342
+HP:0100806	Sepsis	MESH:D018805
+HP:0002043	Esophageal stricture	MESH:D004940
+HP:0100502	Vitamin B12 deficiency	MESH:D014806
+HP:0001271	Polyneuropathy	MESH:D011115
+HP:0001271	Polyneuropathy	MESH:D010523
+HP:0004325	Decreased body weight	MESH:D013851
+HP:0004325	Decreased body weight	MESH:D015431
+HP:0010816	Epidermal nevus	MESH:C580062
+HP:0012180	Cystic medial necrosis	MESH:C536230
+HP:0009900	Unilateral deafness	MESH:D046088
+HP:0010735	Polyostotic fibrous dysplasia	MESH:D005359
+HP:0002396	Cogwheel rigidity	MESH:D009127
+HP:0007915	Polymorphous posterior corneal dystrophy	MESH:C562745
+HP:0012710	Ingrown nail	MESH:D009263
+HP:0002507	Semilobar holoprosencephaly	MESH:D016142
+HP:0040154	Acne inversa	MESH:D017497
+HP:0002878	Respiratory failure	MESH:D012131
+HP:0007302	Bipolar affective disorder	MESH:D001714
+HP:0000113	Polycystic kidney dysplasia	MESH:D007690
+HP:0012870	Vanishing testis	MESH:C537770
+HP:0008069	Neoplasm of the skin	MESH:D012878
+HP:0012034	Liposarcoma	MESH:D008080
+HP:0012237	Urocanic aciduria	MESH:C536479
+HP:0002563	Constrictive pericarditis	MESH:D010494
+HP:0011662	Tricuspid atresia	MESH:D018785
+HP:0000162	Glossoptosis	MESH:D065710
+HP:0008080	Hallux varus	MESH:D050488
+HP:0002780	Bronchomalacia	MESH:D055091
+HP:0010442	Polydactyly	MESH:D017689
+HP:0001622	Premature birth	MESH:D047928
+HP:0002590	Paralytic ileus	MESH:D007418
+HP:0000742	Self-mutilation	MESH:D012652
+HP:0002639	Budd-Chiari syndrome	MESH:D006502
+HP:0012417	Hypocapnia	MESH:D016857
+HP:0009013	Congenital absence of gluteal muscles	MESH:C535561
+HP:0000674	Anodontia	MESH:D000848
+HP:0010860	Complete breech presentation	MESH:D001946
+HP:0000130	Abnormality of the uterus	MESH:C562565
+HP:0000998	Hypertrichosis	MESH:D006983
+HP:0000488	Retinopathy	MESH:D012164
+HP:0002863	Myelodysplasia	MESH:D009190
+HP:0100315	Lewy bodies	MESH:D020961
+HP:0100315	Lewy bodies	MESH:D016631
+HP:0008335	Renal aminoaciduria	MESH:D000608
+HP:0001409	Portal hypertension	MESH:D006975
+HP:0030028	Absent nasal cartilage	MESH:C562753
+HP:0002149	Hyperuricemia	MESH:D033461
+HP:0002583	Colitis	MESH:D003092
+HP:0008682	Acute tubular necrosis	MESH:D007683
+HP:0012334	Extrahepatic cholestasis	MESH:D001651
+HP:0000139	Uterine prolapse	MESH:D014596
+HP:0002239	Gastrointestinal hemorrhage	MESH:D006471
+HP:0002857	Genu valgum	MESH:D056304
+HP:0001976	Reduced antithrombin III activity	MESH:D020152
+HP:0001367	Abnormal joint morphology	MESH:D007592
+HP:0002566	Intestinal malrotation	MESH:C562456
+HP:0000815	Hypergonadotropic hypogonadism	MESH:D007006
+HP:0100518	Dysuria	MESH:D053159
+HP:0030431	Osteochondroma	MESH:D015831
+HP:0004813	Post-transfusion thrombocytopenia	MESH:C562868
+HP:0002088	Abnormality of lung morphology	MESH:D008171
+HP:0012481	Cerebral venous angioma	MESH:D020787
+HP:0002110	Bronchiectasis	MESH:D001987
+HP:0000238	Hydrocephalus	MESH:D006849
+HP:0001084	Corneal arcus	MESH:D001112
+HP:0002664	Neoplasm	MESH:D009369
+HP:0003343	Glutathione synthetase deficiency	MESH:C536835
+HP:0002150	Hypercalciuria	MESH:D053565
+HP:0011330	Metopic synostosis	MESH:D003398
+HP:0011330	Metopic synostosis	MESH:C562951
+HP:0001149	Lattice corneal dystrophy	MESH:D028227
+HP:0005584	Renal cell carcinoma	MESH:D002292
+HP:0000347	Micrognathia	MESH:D008844
+HP:0001274	Agenesis of corpus callosum	MESH:D061085
+HP:0002691	Platybasia	MESH:D010985
+HP:0100785	Insomnia	MESH:D007319
+HP:0001907	Thromboembolism	MESH:D016769
+HP:0001907	Thromboembolism	MESH:D013923
+HP:0000518	Cataract	MESH:D002386
+HP:0010316	Ebstein&apos;s anomaly of the tricuspid valve	MESH:D004437
+HP:0002329	Drowsiness	MESH:D012894
+HP:0000776	Congenital diaphragmatic hernia	MESH:D065630
+HP:0001704	Tricuspid valve prolapse	MESH:D014263
+HP:0100753	Schizophrenia	MESH:D012559
+HP:0003141	Hyperbetalipoproteinemia	MESH:D006938
+HP:0010953	Noncommunicating hydrocephalus	MESH:D006849
+HP:0002107	Pneumothorax	MESH:D011030
+HP:0009720	Adenoma sebaceum	MESH:D014402
+HP:0000854	Thyroid adenoma	MESH:D013964
+HP:0030834	Shoulder pain	MESH:D020069
+HP:0001586	Vesicovaginal fistula	MESH:D014719
+HP:0001908	Hypoplastic anemia	MESH:D000741
+HP:0100634	Neuroendocrine neoplasm	MESH:D018358
+HP:0100751	Esophageal neoplasm	MESH:D004938
+HP:0010922	Membranous cataract	MESH:D002386
+HP:0002249	Melena	MESH:D008551
+HP:0011748	Adrenocorticotropic hormone deficiency	MESH:C535668
+HP:0000153	Abnormality of the mouth	MESH:D009056
+HP:0000873	Diabetes insipidus	MESH:D003919
+HP:0012227	Urethral stricture	MESH:D014525
+HP:0004936	Venous thrombosis	MESH:D020246
+HP:0002613	Biliary cirrhosis	MESH:D008105
+HP:0005543	Reduced protein C activity	MESH:D020151
+HP:0003251	Male infertility	MESH:D007248
+HP:0002890	Thyroid carcinoma	MESH:D013964
+HP:0000646	Amblyopia	MESH:D000550
+HP:0000771	Gynecomastia	MESH:D006177
+HP:0001723	Restrictive cardiomyopathy	MESH:D002313
+HP:0030405	Pancreatic endocrine tumor	MESH:D007516
+HP:0002754	Osteomyelitis	MESH:D010019
+HP:0012413	Notched primary central incisor	MESH:D013590
+HP:0007209	Facial paralysis	MESH:D005158
+HP:0000421	Epistaxis	MESH:D004844
+HP:0100739	Bulimia	MESH:D002032
+HP:0002324	Hydranencephaly	MESH:D006832
+HP:0002161	Hyperlysinemia	MESH:D020167
+HP:0003571	Propionicacidemia	MESH:D056693
+HP:0011970	Cerebral amyloid angiopathy	MESH:D016657
+HP:0007378	Neoplasm of the gastrointestinal tract	MESH:D005770
+HP:0003095	Septic arthritis	MESH:D001170
+HP:0000802	Impotence	MESH:D007172
+HP:0002593	Intestinal lymphangiectasia	MESH:D008201
+HP:0100526	Neoplasm of the lung	MESH:D008175
+HP:0002157	Azotemia	MESH:D053099
+HP:0001696	Situs inversus totalis	MESH:D059446
+HP:0001696	Situs inversus totalis	MESH:D012857
+HP:0040012	Chromosome breakage	MESH:D019457
+HP:0002356	Writer&apos;s cramp	MESH:D020821
+HP:0006579	Prolonged neonatal jaundice	MESH:D007567
+HP:0002020	Gastroesophageal reflux	MESH:D006356
+HP:0002020	Gastroesophageal reflux	MESH:D005764
+HP:0001006	Hypotrichosis	MESH:D007039
+HP:0000972	Palmoplantar hyperkeratosis	MESH:D007645
+HP:0012461	Bacteriuria	MESH:D001437
+HP:0001880	Eosinophilia	MESH:D004802
+HP:0002720	IgA deficiency	MESH:D017098
+HP:0001889	Megaloblastic anemia	MESH:D000749
+HP:0007642	Congenital stationary night blindness	MESH:C536122
+HP:0007642	Congenital stationary night blindness	MESH:C537743
+HP:0000717	Autism	MESH:D001321
+HP:0012486	Myelitis	MESH:D009187
+HP:0000621	Entropion	MESH:D004774
+HP:0011726	Persistent fetal circulation	MESH:D010547
+HP:0000891	Cervical ribs	MESH:D057070
+HP:0030769	Exencephaly	MESH:D009436
+HP:0000077	Abnormality of the kidney	MESH:D007674
+HP:0008191	Thyroid agenesis	MESH:D050033
+HP:0012175	Resistance to activated protein C	MESH:D020016
+HP:0100817	Renovascular hypertension	MESH:D006978
+HP:0100574	Biliary tract neoplasm	MESH:D001661
+HP:0011034	Amyloidosis	MESH:D000686
+HP:0002301	Hemiplegia	MESH:D006429
+HP:0030831	Rhonchi	MESH:D012135
+HP:0010533	Spasmus nutans	MESH:D013036
+HP:0100512	Vitamin D deficiency	MESH:D014808
+HP:0002901	Hypocalcemia	MESH:D006996
+HP:0000648	Optic atrophy	MESH:D009896
+HP:0100796	Orchitis	MESH:D009920
+HP:0003307	Hyperlordosis	MESH:D008141
+HP:0002307	Drooling	MESH:D012798
+HP:0003131	Cystinuria	MESH:D003555
+HP:0012668	Vasovagal syncope	MESH:D013575
+HP:0012668	Vasovagal syncope	MESH:D019462
+HP:0100259	Postaxial polydactyly	MESH:C562429
+HP:0010885	Aseptic necrosis	MESH:D010020
+HP:0012228	Tension-type headache	MESH:D018781
+HP:0100763	Abnormality of the lymphatic system	MESH:D008206
+HP:0003005	Ganglioneuroma	MESH:D005729
+HP:0001297	Stroke	MESH:D020521
+HP:0011467	Absent gallbladder	MESH:C562564
+HP:0000547	Tapetoretinal degeneration	MESH:D012174
+HP:0000085	Horseshoe kidney	MESH:D000069337
+HP:0001970	Tubulointerstitial nephritis	MESH:D009395
+HP:0011710	Bundle branch block	MESH:D002037
+HP:0006511	Laryngeal stridor	MESH:D007826
+HP:0012821	Unilateral vocal cord paresis	MESH:D014826
+HP:0011001	Increased bone mineral density	MESH:D010026
+HP:0000639	Nystagmus	MESH:D009759
+HP:0006765	Chondrosarcoma	MESH:D002813
+HP:0002667	Nephroblastoma	MESH:D009396
+HP:0009059	Congenital generalized lipodystrophy	MESH:D052497
+HP:0012043	Pendular nystagmus	MESH:D009759
+HP:0100279	Ulcerative colitis	MESH:D003093
+HP:0008207	Primary adrenal insufficiency	MESH:D000224
+HP:0000968	Ectodermal dysplasia	MESH:D004476
+HP:0005758	Basilar impression	MESH:D010985
+HP:0100568	Neoplasm of the endocrine system	MESH:D004701
+HP:0011412	Ventouse delivery	MESH:D014620
+HP:0004942	Aortic aneurysm	MESH:D001014
+HP:0012192	Cutaneous T-cell lymphoma	MESH:D016410
+HP:0005534	Transient myeloproliferative syndrome	MESH:C563551
+HP:0100001	Malignant mesothelioma	MESH:C562839
+HP:0000708	Behavioral abnormality	MESH:D001526
+HP:0000708	Behavioral abnormality	MESH:D000066553
+HP:0002571	Achalasia	MESH:D004931
+HP:0100630	Neoplasia of the nasopharynx	MESH:D009303
+HP:0004469	Chronic bronchitis	MESH:D029481
+HP:0100273	Neoplasm of the colon	MESH:D003110
+HP:0000248	Brachycephaly	MESH:D003398
+HP:0002999	Patellar dislocation	MESH:D031222
+HP:0100247	Recurrent singultus	MESH:D006606
+HP:0002187	Intellectual disability, profound	MESH:D008607
+HP:0004432	Agammaglobulinemia	MESH:D000361
+HP:0001067	Neurofibromas	MESH:D017253
+HP:0004326	Cachexia	MESH:D002100
+HP:0010739	Osteopoikilosis	MESH:D010023
+HP:0005318	Cerebral vasculitis	MESH:D020293
+HP:0011713	Left bundle branch block	MESH:D002037
+HP:0007476	Anhidrotic ectodermal dysplasia	MESH:D004476
+HP:0001360	Holoprosencephaly	MESH:D016142
+HP:0001684	Secundum atrial septal defect	MESH:D006344
+HP:0030077	Bronchial neoplasm	MESH:D001984
+HP:0010625	Anterior pituitary dysgenesis	MESH:D010903
+HP:0001105	Retinal atrophy	MESH:D012162
+HP:0100257	Ectrodactyly	MESH:C574275
+HP:0000508	Ptosis	MESH:D001763
+HP:0007529	Hidrotic ectodermal dysplasia	MESH:D004476
+HP:0010828	Hemifacial spasm	MESH:D019569
+HP:0011520	Deuteranomaly	MESH:D003117
+HP:0002176	Spinal cord compression	MESH:D013117
+HP:0100616	Testicular teratoma	MESH:C562472
+HP:0030811	Tongue pain	MESH:D005926
+HP:0002126	Polymicrogyria	MESH:D065706
+HP:0002171	Gliosis	MESH:D005911
+HP:0006727	T-cell acute lymphoblastic leukemias	MESH:D054218
+HP:0100310	Epidural hemorrhage	MESH:D006407
+HP:0010530	Palatal myoclonus	MESH:D009207
+HP:0002183	Phonophobia	MESH:D012001
+HP:0000573	Retinal hemorrhage	MESH:D012166
+HP:0006543	Cardiorespiratory arrest	MESH:D006323
+HP:0004729	Acute tubulointerstitial nephritis	MESH:C564356
+HP:0002322	Resting tremor	MESH:D014202
+HP:0000011	Neurogenic bladder	MESH:D001750
+HP:0003074	Hyperglycemia	MESH:D006943
+HP:0003470	Paralysis	MESH:D010243
+HP:0007178	Motor polyneuropathy	MESH:D011115
+HP:0007178	Motor polyneuropathy	MESH:D009443
+HP:0012089	Arteritis	MESH:D001167
+HP:0002668	Paraganglioma	MESH:D010235
+HP:0000842	Hyperinsulinemia	MESH:D006946
+HP:0004360	Abnormality of acid-base homeostasis	MESH:D000137
+HP:0001642	Pulmonic stenosis	MESH:D011666
+HP:0100749	Chest pain	MESH:D002637
+HP:0012115	Hepatitis	MESH:D006505
+HP:0000756	Agoraphobia	MESH:D000379
+HP:0001838	Rocker bottom foot	MESH:C536345
+HP:0001838	Rocker bottom foot	MESH:D005413
+HP:0006837	Congenital Horner syndrome	MESH:C564178
+HP:0004490	Calvarial hyperostosis	MESH:C537963
+HP:0003643	Sulfite oxidase deficiency	MESH:C538141
+HP:0000640	Gaze-evoked nystagmus	MESH:D009760
+HP:0012804	Corneal ulceration	MESH:D003320
+HP:0009778	Short thumb	MESH:C536903
+HP:0007011	Fourth cranial nerve palsy	MESH:D020432
+HP:0030880	Raynaud phenomenon	MESH:D011928
+HP:0200058	Angiosarcoma	MESH:D006394
+HP:0002974	Radioulnar synostosis	MESH:C562408
+HP:0007942	Internal ophthalmoplegia	MESH:D009886
+HP:0012418	Hypoxemia	MESH:D000860
+HP:0004836	Acute promyelocytic leukemia	MESH:D015473
+HP:0006000	Ureteral obstruction	MESH:D014517
+HP:0005214	Intestinal obstruction	MESH:D007415
+HP:0010529	Echolalia	MESH:D004454
+HP:0002797	Osteolysis	MESH:D010014
+HP:0040150	Epiblepharon of upper lid	MESH:C565051
+HP:0000458	Anosmia	MESH:D000857
+HP:0000912	Sprengel anomaly	MESH:C535802
+HP:0003826	Stillbirth	MESH:D050497
+HP:0003826	Stillbirth	MESH:D005313
+HP:0001092	Absent lacrimal punctum	MESH:C566703
+HP:0002595	Ileus	MESH:D045823
+HP:0001388	Joint laxity	MESH:D007593
+HP:0000546	Retinal degeneration	MESH:D012162
+HP:0004760	Congenital septal defect	MESH:D006343
+HP:0008188	Thyroid dysgenesis	MESH:D050033
+HP:0000704	Periodontitis	MESH:D005882
+HP:0000704	Periodontitis	MESH:D010518
+HP:0000704	Periodontitis	MESH:D010510
+HP:0002539	Cortical dysplasia	MESH:D054220
+HP:0003641	Hemoglobinuria	MESH:D006456
+HP:0045029	Eosinophilic fasciitis	MESH:C562487
+HP:0000093	Proteinuria	MESH:D011507
+HP:0200023	Priapism	MESH:D011317
+HP:0100620	Germinoma	MESH:D018237
+HP:0004438	Hyperostosis frontalis interna	MESH:D006957
+HP:0100778	Cryoglobulinemia	MESH:D003449
+HP:0012047	Hemeralopia	MESH:D014786
+HP:0010817	Linear nevus sebaceous	MESH:D054000
+HP:0008200	Primary hyperparathyroidism	MESH:D049950
+HP:0001645	Sudden cardiac death	MESH:D016757
+HP:0002893	Pituitary adenoma	MESH:D010911
+HP:0001096	Keratoconjunctivitis	MESH:D007637
+HP:0011418	Abnormal insertion of umbilical cord	MESH:D055949
+HP:0100570	Carcinoid tumor	MESH:D002276
+HP:0000147	Polycystic ovaries	MESH:D011085
+HP:0030005	Capillary leak	MESH:D019559
+HP:0011024	Abnormality of the gastrointestinal tract	MESH:D004066
+HP:0011024	Abnormality of the gastrointestinal tract	MESH:D005767
+HP:0002673	Coxa valga	MESH:D060906
+HP:0012288	Neoplasm of head and neck	MESH:D006258
+HP:0000746	Delusions	MESH:D003702
+HP:0040160	Generalized osteoporosis	MESH:D010024
+HP:0000845	Growth hormone excess	MESH:D000172
+HP:0000845	Growth hormone excess	MESH:C531600
+HP:0002721	Immunodeficiency	MESH:D007153
+HP:0000528	Anophthalmia	MESH:D000853
+HP:0000870	Prolactin excess	MESH:D006966
+HP:0010606	Hordeolum	MESH:D006726
+HP:0006896	Hypnopompic hallucinations	MESH:D006212
+HP:0001080	Biliary tract abnormality	MESH:D001660
+HP:0010450	Esophageal stenosis	MESH:D004940
+HP:0040142	5-oxoprolinase deficiency	MESH:C535322
+HP:0011450	CNS infection	MESH:D002494
+HP:0000476	Cystic hygroma	MESH:D018191
+HP:0030080	Burkitt lymphoma	MESH:D002051
+HP:0008441	Herniation of intervertebral nuclei	MESH:D007405
+HP:0006748	Adrenal pheochromocytoma	MESH:D010673
+HP:0001818	Paronychia	MESH:D010304
+HP:0011533	Snowflake vitreoretinal degeneration	MESH:C536677
+HP:0001298	Encephalopathy	MESH:D001927
+HP:0030502	Retinoschisis	MESH:D041441
+HP:0011444	Decorticate rigidity	MESH:D003655
+HP:0011626	Scimitar anomaly	MESH:D012587
+HP:0040165	Periostitis	MESH:D010522
+HP:0002381	Aphasia	MESH:D001037
+HP:0100541	Femoral hernia	MESH:D006550
+HP:0001627	Abnormal heart morphology	MESH:D006330
+HP:0000246	Sinusitis	MESH:D012852
+HP:0000246	Sinusitis	MESH:D010254
+HP:0200146	Cystic medial necrosis of the aorta	MESH:C536230
+HP:0000853	Goiter	MESH:D006042
+HP:0011958	Retinal perforation	MESH:D012167
+HP:0010783	Erythema	MESH:D005483
+HP:0010783	Erythema	MESH:D004890
+HP:0030049	Brain abscess	MESH:D001922
+HP:0100760	Clubbing of toes	MESH:D003025
+HP:0010444	Pulmonary insufficiency	MESH:D011665
+HP:0000540	Hypermetropia	MESH:D006956
+HP:0012462	Chin myoclonus	MESH:C537682
+HP:0012819	Myocarditis	MESH:D009205
+HP:0008124	Talipes calcaneovarus	MESH:D000070558
+HP:0100014	Epiretinal membrane	MESH:D019773
+HP:0030766	Ear pain	MESH:D004433
+HP:0003771	Pulp stones	MESH:D003784
+HP:0000943	Dysostosis multiplex	MESH:D008059
+HP:0003781	Excessive salivation	MESH:D012798
+HP:0004381	Supravalvular aortic stenosis	MESH:D021921
+HP:0000263	Oxycephaly	MESH:D003398
+HP:0007879	Allergic conjunctivitis	MESH:D003233
+HP:0004387	Enterocolitis	MESH:D004760
+HP:0040049	Macular edema	MESH:D008269
+HP:0012426	Optic disc drusen	MESH:D015594
+HP:0002156	Homocystinuria	MESH:D006712
+HP:0011508	Macular hole	MESH:D012167
+HP:0002269	Abnormality of neuronal migration	MESH:D054081
+HP:0030530	Arcuate scotoma	MESH:D012607
+HP:0006934	Congenital nystagmus	MESH:D020417
+HP:0100035	Phonic tics	MESH:D020323
+HP:0005200	Retroperitoneal fibrosis	MESH:D012185
+HP:0030858	Addictive behavior	MESH:D016739
+HP:0100724	Hypercoagulability	MESH:D019851
+HP:0000822	Hypertension	MESH:D006973
+HP:0001279	Syncope	MESH:D013575
+HP:0010312	Asymmetry of the breasts	MESH:C565299
+HP:0002323	Anencephaly	MESH:D000757
+HP:0007443	Partial albinism	MESH:D016116
+HP:0002310	Orofacial dyskinesia	MESH:D020820
+HP:0000662	Nyctalopia	MESH:D009755
+HP:0012164	Asterixis	MESH:D020820
+HP:0000995	Melanocytic nevus	MESH:D009508
+HP:0001427	Mitochondrial inheritance	MESH:D050259
+HP:0030365	Vaginal birth after Caesarian	MESH:D016064
+HP:0002827	Hip dislocation	MESH:D006617
+HP:0100812	Halitosis	MESH:D006209
+HP:0030692	Brain neoplasm	MESH:D001932
+HP:0012223	Splenic rupture	MESH:D013161
+HP:0009921	Duane anomaly	MESH:D004370
+HP:0004944	Cerebral aneurysm	MESH:D002532
+HP:0011886	Hyphema	MESH:D006988
+HP:0009069	Lethal infantile mitochondrial myopathy	MESH:C564017
+HP:0001489	Posterior vitreous detachment	MESH:D020255
+HP:0002097	Emphysema	MESH:D011656
+HP:0001347	Hyperreflexia	MESH:D012021
+HP:0008209	Premature ovarian failure	MESH:D008594
+HP:0001392	Abnormality of the liver	MESH:D008107
+HP:0012289	Facial neoplasm	MESH:D005153
+HP:0002883	Hyperventilation	MESH:D006985
+HP:0012265	Ciliary dyskinesia	MESH:D002925
+HP:0002497	Spastic ataxia	MESH:C564815
+HP:0005725	Nonopposable triphalangeal thumb	MESH:C536562
+HP:0010890	Morbus Osgood-Schlatter	MESH:D055034
+HP:0008668	Gonadal dysgenesis, male	MESH:D006061
+HP:0012268	Myxoid liposarcoma	MESH:D018208
+HP:0001674	Complete atrioventricular canal defect	MESH:C562831
+HP:0001972	Macrocytic anemia	MESH:D000748
+HP:0100006	Neoplasm of the central nervous system	MESH:D016543
+HP:0004947	Arteriovenous fistula	MESH:D001164
+HP:0030404	Glucagonoma	MESH:D005935
+HP:0005162	Left ventricular failure	MESH:D006333
+HP:0100600	Penoscrotal transposition	MESH:C536650
+HP:0002069	Generalized tonic-clonic seizures	MESH:D012640
+HP:0002621	Atherosclerosis	MESH:D050197
+HP:0009730	Rhabdomyoma	MESH:D012207
+HP:0005972	Respiratory acidosis	MESH:D000142
+HP:0002511	Alzheimer disease	MESH:C536595
+HP:0002511	Alzheimer disease	MESH:D000544
+HP:0001284	Areflexia	MESH:D012021
+HP:0002789	Tachypnea	MESH:D059246
+HP:0002080	Intention tremor	MESH:D014202
+HP:0012871	Varicocele	MESH:D014646
+HP:0001716	Wolff-Parkinson-White syndrome	MESH:D014927
+HP:0002905	Hyperphosphatemia	MESH:D054559
+HP:0000212	Gingival overgrowth	MESH:D019214
+HP:0000212	Gingival overgrowth	MESH:D005885
+HP:0000212	Gingival overgrowth	MESH:D005886
+HP:0012042	Aspirin-induced asthma	MESH:D055963
+HP:0009110	Diaphragmatic eventration	MESH:D003965
+HP:0000262	Turricephaly	MESH:D003398
+HP:0010865	Oppositional defiant disorder	MESH:D019958
+HP:0002093	Respiratory insufficiency	MESH:D012131
+HP:0001281	Tetany	MESH:D013746
+HP:0001337	Tremor	MESH:D014202
+HP:0000175	Cleft palate	MESH:D002972
+HP:0001605	Vocal cord paralysis	MESH:D014826
+HP:0010992	Stress urinary incontinence	MESH:D014550
+HP:0002871	Central apnea	MESH:D020182
+HP:0002245	Meckel diverticulum	MESH:D008467
+HP:0002240	Hepatomegaly	MESH:D006529
+HP:0040197	Encephalomalacia	MESH:D004678
+HP:0005942	Desquamative interstitial pneumonitis	MESH:C562470
+HP:0002289	Alopecia universalis	MESH:C537055
+HP:0011521	Deuteranopia	MESH:D003117
+HP:0001289	Confusion	MESH:D003221
+HP:0030731	Carcinoma	MESH:D002277
+HP:0002515	Waddling gait	MESH:D020233
+HP:0100758	Gangrene	MESH:D005734
+HP:0003304	Spondylolysis	MESH:D013169
+HP:0100730	Bronchogenic cyst	MESH:D001994
+HP:0002317	Unsteady gait	MESH:D020233
+HP:0030407	Pineocytoma	MESH:D010871
+HP:0002459	Dysautonomia	MESH:D054969
+HP:0002459	Dysautonomia	MESH:D001342
+HP:0000952	Jaundice	MESH:D007565
+HP:0002385	Paraparesis	MESH:D020335
+HP:0002588	Duodenal ulcer	MESH:D004381
+HP:0000303	Mandibular prognathia	MESH:D008313
+HP:0001041	Facial erythema	MESH:D012393
+HP:0001041	Facial erythema	MESH:D001821
+HP:0001969	Tubulointerstitial abnormality	MESH:D009395
+HP:0009914	Cyclopia	MESH:C562573
+HP:0005180	Tricuspid regurgitation	MESH:D014262
+HP:0001385	Hip dysplasia	MESH:D006618
+HP:0006536	Obstructive lung disease	MESH:D008173
+HP:0003534	Reduced xanthine dehydrogenase activity	MESH:C562584
+HP:0002219	Facial hypertrichosis	MESH:C565029
+HP:0001944	Dehydration	MESH:D003681
+HP:0012108	Primary open angle glaucoma	MESH:C562750
+HP:0005567	Renal magnesium wasting	MESH:C537152
+HP:0001680	Coarctation of aorta	MESH:D001017
+HP:0011851	Hemopericardium	MESH:D010490
+HP:0004976	Knee dislocation	MESH:D031221
+HP:0001760	Abnormality of the foot	MESH:D005530
+HP:0005547	Myeloproliferative disorder	MESH:D009196
+HP:0002313	Spastic paraparesis	MESH:D020336
+HP:0011850	Parotitis	MESH:D010309
+HP:0001336	Myoclonus	MESH:D009207
+HP:0009798	Euthyroid goiter	MESH:C562732
+HP:0001417	X-linked inheritance	MESH:D050172
+HP:0011567	Sinus venosus atrial septal defect	MESH:C548009
+HP:0030149	Cardiogenic shock	MESH:D012770
+HP:0000388	Otitis media	MESH:D010033
+HP:0002085	Occipital encephalocele	MESH:D004677
+HP:0003162	Fasting hypoglycemia	MESH:D007003
+HP:0000700	Periapical radiolucency	MESH:D011842
+HP:0000700	Periapical radiolucency	MESH:D010484
+HP:0006554	Acute hepatic failure	MESH:D017114
+HP:0100842	Septo-optic dysplasia	MESH:D025962
+HP:0005241	Total intestinal aganglionosis	MESH:C538058
+HP:0000759	Abnormal peripheral nervous system morphology	MESH:D010523
+HP:0009588	Vestibular Schwannoma	MESH:D009464
+HP:0001946	Ketosis	MESH:D007662
+HP:0003119	Abnormality of lipid metabolism	MESH:D050171
+HP:0011090	Fused teeth	MESH:D005671
+HP:0001737	Pancreatic cysts	MESH:D010181
+HP:0002615	Hypotension	MESH:D007022
+HP:0011072	Rootless teeth	MESH:C538215
+HP:0002349	Focal seizures without impairment of consciousness or awareness	MESH:D004828
+HP:0030071	Medulloepithelioma	MESH:D018242
+HP:0100523	Liver abscess	MESH:D008100
+HP:0002575	Tracheoesophageal fistula	MESH:D014138
+HP:0002480	Hepatic encephalopathy	MESH:D006501
+HP:0012780	Neoplasm of the ear	MESH:D004428
+HP:0001678	Atrioventricular block	MESH:D054537
+HP:0030792	Jaw neoplasm	MESH:D007573
+HP:0010302	Spinal cord tumor	MESH:D013120
+HP:0004952	Pulmonary arteriovenous fistulas	MESH:C562404
+HP:0012508	Metamorphopsia	MESH:D014786
+HP:0001396	Cholestasis	MESH:D002779
+HP:0008202	Prolactin deficiency	MESH:C562708
+HP:0005982	Reduced phenylalanine hydroxylase activity	MESH:D010661
+HP:0005145	Coronary artery stenosis	MESH:D023921
+HP:0004398	Peptic ulcer	MESH:D010437
+HP:0002592	Gastric ulcer	MESH:D013276
+HP:0001924	Sideroblastic anemia	MESH:D000756
+HP:0012324	Myeloid leukemia	MESH:D007951
+HP:0009718	Subependymal giant-cell astrocytoma	MESH:D001254
+HP:0003108	Hyperglycinuria	MESH:C563009
+HP:0003987	Fractured ulna	MESH:D014458
+HP:0012133	Erythroid hypoplasia	MESH:D000741
+HP:0000668	Hypodontia	MESH:D000848
+HP:0001539	Omphalocele	MESH:D006554
+HP:0000559	Corneal scarring	MESH:D065306
+HP:0000871	Panhypopituitarism	MESH:C580003
+HP:0000557	Buphthalmos	MESH:D006871
+HP:0002791	Hypoventilation	MESH:D012131
+HP:0002791	Hypoventilation	MESH:D007040
+HP:0000324	Facial asymmetry	MESH:D005146
+HP:0000979	Purpura	MESH:D011693
+HP:0003265	Neonatal hyperbilirubinemia	MESH:D051556
+HP:0012215	Testicular microlithiasis	MESH:C566478
+HP:0007406	Hyperpigmentation of eyelids	MESH:C562400
+HP:0100646	Thyroiditis	MESH:D013966
+HP:0012032	Lipoma	MESH:D008067
+HP:0002032	Esophageal atresia	MESH:D004933
+HP:0005268	Spontaneous abortion	MESH:D000022
+HP:0030038	Enchondroma	MESH:D002812
+HP:0000110	Renal dysplasia	MESH:C563261
+HP:0001643	Patent ductus arteriosus	MESH:D004374
+HP:0004439	Craniofacial dysostosis	MESH:D003394
+HP:0200018	Protanomaly	MESH:D003117
+HP:0012763	Paroxysmal dyspnea	MESH:D004418
+HP:0007269	Spinal muscular atrophy	MESH:D009134
+HP:0000169	Gingival fibromatosis	MESH:D005351
+HP:0000169	Gingival fibromatosis	MESH:C562884
+HP:0001648	Cor pulmonale	MESH:D011660
+HP:0007455	Adermatoglyphia	MESH:C565010
+HP:0100584	Endocarditis	MESH:D004696
+HP:0100631	Neoplasm of the adrenal gland	MESH:D000310
+HP:0002895	Papillary thyroid carcinoma	MESH:C536915
+HP:0001948	Alkalosis	MESH:D000471
+HP:0002181	Cerebral edema	MESH:D001929
+HP:0100641	Neoplasm of the adrenal cortex	MESH:D000306
+HP:0006517	Alveolar proteinosis	MESH:D011649
+HP:0002014	Diarrhea	MESH:D003967
+HP:0002870	Obstructive sleep apnea	MESH:D020181
+HP:0010772	Anomalous pulmonary venous return	MESH:D012587
+HP:0000798	Oligospermia	MESH:D009845
+HP:0030048	Colpocephaly	MESH:C535973
+HP:0001876	Pancytopenia	MESH:D010198
+HP:0000548	Cone/cone-rod dystrophy	MESH:D012174
+HP:0002094	Dyspnea	MESH:D004417
+HP:0030516	Homonymous hemianopia	MESH:D006423
+HP:0001305	Dandy-Walker malformation	MESH:D003616
+HP:0000602	Ophthalmoplegia	MESH:D009886
+HP:0010878	Fetal cystic hygroma	MESH:C537852
+HP:0001258	Spastic paraplegia	MESH:D010264
+HP:0006789	Mitochondrial encephalopathy	MESH:C538525
+HP:0200044	Porokeratosis	MESH:D017499
+HP:0011716	Junctional ectopic tachycardia	MESH:D013613
+HP:0002756	Pathologic fracture	MESH:D005598
+HP:0009592	Astrocytoma	MESH:D001254
+HP:0005101	High-frequency hearing impairment	MESH:D006316
+HP:0012727	Thoracic aortic aneurysm	MESH:D017545
+HP:0011798	Renal oncocytoma	MESH:C537750
+HP:0010305	Absence of the sacrum	MESH:C537221
+HP:0001051	Seborrheic dermatitis	MESH:D012628
+HP:0030764	Ochronosis	MESH:D009794
+HP:0100503	Vitamin B1 deficiency	MESH:D013832
+HP:0012442	Gallbladder dyskinesia	MESH:D001657
+HP:0100649	Neoplasm of the oral cavity	MESH:D009062
+HP:0100576	Amaurosis fugax	MESH:D020757
+HP:0011709	Atrioventricular dissociation	MESH:D006327
+HP:0010301	Spinal dysraphism	MESH:D009436
+HP:0100660	Dyskinesia	MESH:D020820
+HP:0012239	Atransferrinemia	MESH:C538259
+HP:0011147	Typical absence seizures	MESH:D004832
+HP:0002808	Kyphosis	MESH:D007738
+HP:0001562	Oligohydramnios	MESH:D016104
+HP:0030693	Supratentorial neoplasm	MESH:D010871
+HP:0030693	Supratentorial neoplasm	MESH:D015173
+HP:0002266	Focal clonic seizures	MESH:D020938
+HP:0100615	Ovarian neoplasm	MESH:D010051
+HP:0030816	Gingival recession	MESH:D005889
+HP:0003125	Reduced factor VIII activity	MESH:D006467
+HP:0001621	Weak voice	MESH:D014832
+HP:0010528	Prosopagnosia	MESH:D020238
+HP:0100612	Odontogenic neoplasm	MESH:D009808
+HP:0000495	Recurrent corneal erosions	MESH:D003320
+HP:0002912	Methylmalonic acidemia	MESH:C537358
+HP:0003418	Back pain	MESH:D001416
+HP:0001055	Erysipelas	MESH:D004886
+HP:0001055	Erysipelas	MESH:D004881
+HP:0001374	Congenital hip dislocation	MESH:D006618
+HP:0012174	Glioblastoma multiforme	MESH:D005909
+HP:0000707	Abnormality of the nervous system	MESH:D009421
+HP:0100026	Arteriovenous malformation	MESH:D001165
+HP:0004818	Paroxysmal nocturnal hemoglobinuria	MESH:D006457
+HP:0000158	Macroglossia	MESH:D008260
+HP:0004809	Neonatal alloimmune thrombocytopenia	MESH:D054098
+HP:0010677	Enuresis nocturna	MESH:D053206
+HP:0005403	Decrease in T cell count	MESH:C536783
+HP:0002293	Alopecia of scalp	MESH:D000505
+HP:0001371	Flexion contracture	MESH:D003286
+HP:0001338	Partial agenesis of the corpus callosum	MESH:C536111
+HP:0000099	Glomerulonephritis	MESH:D005921
+HP:0007976	Cerulean cataract	MESH:C537955
+HP:0010799	Pinealoma	MESH:D010871
+HP:0002625	Deep venous thrombosis	MESH:D020246
+HP:0100847	Palmoplantar pustulosis	MESH:D011565
+HP:0030357	Small cell lung carcinoma	MESH:D055752
+HP:0007607	Hypohidrotic ectodermal dysplasia	MESH:D053358
+HP:0000112	Nephropathy	MESH:D007674
+HP:0000851	Congenital hypothyroidism	MESH:D003409
+HP:0002345	Action tremor	MESH:D014202
+HP:0030075	Ductal carcinoma in situ	MESH:D002285
+HP:0040233	Factor XIII subunit A deficiency	MESH:C567691
+HP:0002084	Encephalocele	MESH:D004677
+HP:0012191	B-cell lymphoma	MESH:D016393
+HP:0011856	Pica	MESH:D010842
+HP:0008419	Intervertebral disc degeneration	MESH:D055959
+HP:0009830	Peripheral neuropathy	MESH:D010523
+HP:0030061	Neuroectodermal neoplasm	MESH:D017599
+HP:0000137	Abnormality of the ovary	MESH:D010049
+HP:0010960	Bronchopulmonary sequestration	MESH:D001998
+HP:0004929	Coronary atherosclerosis	MESH:D003324
+HP:0006771	Duodenal adenocarcinoma	MESH:D004379
+HP:0012341	Microprolactinoma	MESH:D015175
+HP:0001762	Talipes equinovarus	MESH:D003025
+HP:0045054	Brachial plexus neuropathy	MESH:D020516
+HP:0002902	Hyponatremia	MESH:D007010
+HP:0012167	Hair-pulling	MESH:D014256
+HP:0000517	Abnormality of the lens	MESH:D007905
+HP:0001937	Microangiopathic hemolytic anemia	MESH:D000743
+HP:0030833	Neck pain	MESH:D019547
+HP:0011857	Plasmacytoma	MESH:D010954
+HP:0000588	Optic nerve coloboma	MESH:C535970
+HP:0010702	Increased antibody level in blood	MESH:D006942
+HP:0012074	Tonic pupil	MESH:D015845
+HP:0003614	Trimethylaminuria	MESH:C536561
+HP:0000522	Alacrima	MESH:C562827
+HP:0003764	Nevus	MESH:D009506
+HP:0003764	Nevus	MESH:D009508
+HP:0000999	Pyoderma	MESH:D011711
+HP:0002196	Myelopathy	MESH:D013118
+HP:0007973	Retinal dysplasia	MESH:D015792
+HP:0030451	Mesenteric cyst	MESH:D008639
+HP:0004467	Preauricular pit	MESH:C563015
+HP:0030642	Fundus albipunctatus	MESH:C562733
+HP:0002654	Multiple epiphyseal dysplasia	MESH:D010009
+HP:0030060	Nervous tissue neoplasm	MESH:D009380
+HP:0012075	Personality disorder	MESH:D010554
+HP:0000705	Amelogenesis imperfecta	MESH:D000567
+HP:0012532	Chronic pain	MESH:D059350
+HP:0010982	Polygenic inheritance	MESH:D020412
+HP:0003438	Absent Achilles reflex	MESH:D012021
+HP:0045005	Neural tube defect	MESH:D009436
+HP:0011712	Right bundle branch block	MESH:D002037
+HP:0003652	Recurrent myoglobinuria	MESH:C564018
+HP:0001343	Kernicterus	MESH:D007647
+HP:0008321	Reduced factor X activity	MESH:D005171
+HP:0040175	Platelet-activating factor acetylhydrolase deficiency	MESH:C566640
+HP:0001943	Hypoglycemia	MESH:D007003
+HP:0030433	Osteoid osteoma	MESH:D010017
+HP:0000563	Keratoconus	MESH:D007640
+HP:0003003	Colon cancer	MESH:D003110
+HP:0012342	Macroprolactinoma	MESH:D015175
+HP:0005359	Aplasia of the thymus	MESH:C536288
+HP:0007760	Crystalline corneal dystrophy	MESH:C535475
+HP:0001974	Leukocytosis	MESH:D007964
+HP:0001308	Tongue fasciculations	MESH:D005207
+HP:0003834	Shoulder dislocation	MESH:D012783
+HP:0001763	Pes planus	MESH:D005413
+HP:0002475	Myelomeningocele	MESH:D008591
+HP:0006498	Aplasia/Hypoplasia of the patella	MESH:C535568
+HP:0200136	Oral-pharyngeal dysphagia	MESH:D003680
+HP:0000100	Nephrotic syndrome	MESH:D009404
+HP:0100028	Ectopic thyroid	MESH:D050033
+HP:0045038	Gastric lymphoma	MESH:C535648
+HP:0001114	Xanthelasma	MESH:D014973
+HP:0100537	Fasciitis	MESH:D005208
+HP:0002634	Arteriosclerosis	MESH:D001161
+HP:0002049	Proximal renal tubular acidosis	MESH:D000141
+HP:0009927	Aplasia of the nose	MESH:C537438
+HP:0003264	Deficiency of N-acetylglucosamine-1-phosphotransferase	MESH:D009081
+HP:0002486	Myotonia	MESH:D009222
+HP:0000964	Eczema	MESH:D004485
+HP:0005743	Avascular necrosis of the capital femoral epiphysis	MESH:D007873
+HP:0002745	Oral leukoplakia	MESH:D007971
+HP:0002745	Oral leukoplakia	MESH:D007972
+HP:0100243	Leiomyosarcoma	MESH:D007890
+HP:0001718	Mitral stenosis	MESH:D008946
+HP:0100031	Neoplasm of the thyroid gland	MESH:D013964
+HP:0001609	Hoarse voice	MESH:D006685
+HP:0001028	Hemangioma	MESH:D006391
+HP:0012197	Insulinoma	MESH:D007340
+HP:0006706	Cystic liver disease	MESH:C536330
+HP:0009373	Type C brachydactyly	MESH:C537093
+HP:0001699	Sudden death	MESH:D003645
+HP:0010307	Stridor	MESH:D012135
+HP:0002888	Ependymoma	MESH:D004806
+HP:0030430	Neuroma	MESH:D009463
+HP:0007728	Congenital miosis	MESH:C537550
+HP:0100702	Arachnoid cyst	MESH:D016080
+HP:0000729	Autistic behavior	MESH:D000067877
+HP:0010693	Pulverulent cataract	MESH:C563426
+HP:0001929	Reduced factor XI activity	MESH:D005173
+HP:0012579	Minimal change glomerulonephritis	MESH:D009402
+HP:0001935	Microcytic anemia	MESH:C562385
+HP:0002071	Abnormality of extrapyramidal motor function	MESH:D001480
+HP:0030151	Cholangitis	MESH:D002761
+HP:0001097	Keratoconjunctivitis sicca	MESH:D007638
+HP:0001097	Keratoconjunctivitis sicca	MESH:D014985
+HP:0001097	Keratoconjunctivitis sicca	MESH:C531719
+HP:0001097	Keratoconjunctivitis sicca	MESH:D015352
+HP:0002840	Lymphadenitis	MESH:D008199
+HP:0100754	Mania	MESH:D001714
+HP:0012316	Fibrous tissue neoplasm	MESH:D018218
+HP:0005449	Bridged sella turcica	MESH:C566689
+HP:0100653	Optic neuritis	MESH:D009902
+HP:0010508	Metatarsus valgus	MESH:D000070591
+HP:0000863	Central diabetes insipidus	MESH:D020790
+HP:0030159	Cervical polyp	MESH:D002583
+HP:0012377	Hemianopia	MESH:D006423
+HP:0002591	Polyphagia	MESH:D006963
+HP:0001059	Pterygium	MESH:D011625
+HP:0100029	Lingual thyroid	MESH:D046151
+HP:0030511	Bradyopsia	MESH:C564243
+HP:0002435	Meningocele	MESH:D008588
+HP:0001894	Thrombocytosis	MESH:D013922
+HP:0000867	Secondary hyperparathyroidism	MESH:D006962
+HP:0001370	Rheumatoid arthritis	MESH:D001172
+HP:0011700	Automatic atrial tachycardia	MESH:D013612
+HP:0010889	Morbus Kienboeck	MESH:D010020
+HP:0100595	Camptocormia	MESH:C537968
+HP:0001806	Onycholysis	MESH:D054039
+HP:0030447	Merkel cell skin cancer	MESH:D015266
+HP:0100583	Corneal perforation	MESH:D057112
+HP:0001195	Single umbilical artery	MESH:D058529
+HP:0030528	Paracentral scotoma	MESH:D012607
+HP:0001561	Polyhydramnios	MESH:D006831
+HP:0010807	Open bite	MESH:D024343
+HP:0003198	Myopathy	MESH:D009135
+HP:0008807	Acetabular dysplasia	MESH:D006617
+HP:0030828	Wheezing	MESH:D012135
+HP:0030243	Hepatic vein thrombosis	MESH:D006502
+HP:0001997	Gout	MESH:D015210
+HP:0001997	Gout	MESH:D006073
+HP:0040151	Epiblepharon of lower lid	MESH:C565051
+HP:0011286	Total colonic aganglionosis	MESH:D006627
+HP:0001112	Leber optic atrophy	MESH:D029242
+HP:0002919	Ketonuria	MESH:D007662
+HP:0012076	Borderline personality disorder	MESH:D001883
+HP:0001065	Striae distensae	MESH:D057896
+HP:0000135	Hypogonadism	MESH:D007006
+HP:0003510	Severe short stature	MESH:D004392
+HP:0001283	Bulbar palsy	MESH:D010244
+HP:0009916	Anisocoria	MESH:D015875
+HP:0002139	Arrhinencephaly	MESH:D016142
+HP:0006482	Abnormality of dental morphology	MESH:D014071
+HP:0012190	T-cell lymphoma	MESH:D016399
+HP:0003363	Abdominal situs inversus	MESH:D012857
+HP:0011522	Protanopia	MESH:D003117
+HP:0010618	Ovarian fibroma	MESH:C562391
+HP:0011060	Dentinogenesis imperfecta limited to primary teeth	MESH:D003805
+HP:0000478	Abnormality of the eye	MESH:D005128
+HP:0000478	Abnormality of the eye	MESH:D005124
+HP:0002464	Spastic dysarthria	MESH:D004401
+HP:0100837	Atrophodermia vermiculata	MESH:C537412
+HP:0007431	Congenital ichthyosiform erythroderma	MESH:D016113
+HP:0100507	Folate deficiency	MESH:D005494
+HP:0002145	Frontotemporal dementia	MESH:D057180
+HP:0000133	Gonadal dysgenesis	MESH:D006059
+HP:0000133	Gonadal dysgenesis	MESH:D006060
+HP:0005527	Reduced kininogen activity	MESH:C537060
+HP:0010534	Transient global amnesia	MESH:D020236
+HP:0002335	Agenesis of cerebellar vermis	MESH:C536293
+HP:0100521	Neoplasm of the thymus	MESH:D013953
+HP:0000643	Blepharospasm	MESH:D001764
+HP:0012784	Perinephritis	MESH:D010501
+HP:0002777	Tracheal stenosis	MESH:D014135
+HP:0010628	Facial palsy	MESH:D020330
+HP:0010628	Facial palsy	MESH:D005158
+HP:0002885	Medulloblastoma	MESH:D008527
+HP:0012290	Mouth neoplasm	MESH:D009062
+HP:0002023	Anal atresia	MESH:D001006
+HP:0012384	Rhinitis	MESH:D012220
+HP:0004448	Fulminant hepatic failure	MESH:D017114
+HP:0030011	Imperforate hymen	MESH:C562397
+HP:0002894	Neoplasm of the pancreas	MESH:D010190
+HP:0002282	Heterotopia	MESH:D002828
+HP:0001082	Cholecystitis	MESH:D002764
+HP:0001492	Axenfeld anomaly	MESH:C535679
+HP:0005912	Biliary atresia	MESH:D001656
+HP:0008166	Decreased beta-galactosidase activity	MESH:D016537
+HP:0002036	Hiatus hernia	MESH:D006551
+HP:0001251	Ataxia	MESH:D002524
+HP:0000138	Ovarian cyst	MESH:D010048
+HP:0012478	Temporomandibular joint ankylosis	MESH:C536957
+HP:0011002	Osteopetrosis	MESH:D010022
+HP:0011530	Retinal hole	MESH:D012167
+HP:0007707	Congenital primary aphakia	MESH:C537786
+HP:0030050	Narcolepsy	MESH:D009290
+HP:0011779	Anaplastic thyroid carcinoma	MESH:D065646
+HP:0006685	Endocardial fibrosis	MESH:D004719
+HP:0000206	Glossitis	MESH:D005928
+HP:0005458	Premature closure of fontanelles	MESH:D003398
+HP:0200151	Cutaneous mastocytosis	MESH:D034701
+HP:0012188	Hyperemesis gravidarum	MESH:D006939
+HP:0007898	Exudative retinopathy	MESH:D058456
+HP:0002072	Chorea	MESH:D002819
+HP:0010769	Pilonidal sinus	MESH:D010864
+HP:0012803	Anisometropia	MESH:D015858
+HP:0002758	Osteoarthritis	MESH:D010003
+HP:0000967	Petechiae	MESH:D011693
+HP:0000185	Cleft soft palate	MESH:C562950
+HP:0008672	Calcium oxalate nephrolithiasis	MESH:C563477
+HP:0002011	Morphological abnormality of the central nervous system	MESH:D002493
+HP:0000834	Abnormality of the adrenal glands	MESH:D000307
+HP:0010958	Bilateral renal agenesis	MESH:C536482
+HP:0004923	Hyperphenylalaninemia	MESH:D010661
+HP:0005764	Polyarticular arthritis	MESH:D001168
+HP:0007417	Discoid lupus rash	MESH:D008179
+HP:0001636	Tetralogy of Fallot	MESH:D013771
+HP:0009371	Type A1 brachydactyly	MESH:C537088
+HP:0200064	Asymmetry of iris pigmentation	MESH:C538115
+HP:0030009	Cervical insufficiency	MESH:D002581
+HP:0011167	Focal tonic seizures	MESH:D020938
+HP:0100559	Lower limb asymmetry	MESH:D007870
+HP:0002927	Histidinuria	MESH:C538321
+HP:0010523	Alexia	MESH:D004410
+HP:0100898	Connective tissue nevi	MESH:C562737
+HP:0001655	Patent foramen ovale	MESH:D054092
+HP:0009741	Nephrosclerosis	MESH:D009400
+HP:0040192	APUdoma	MESH:D001079
+HP:0007330	Frontal encephalocele	MESH:D004677
+HP:0200085	Limb tremor	MESH:D014202
+HP:0000836	Hyperthyroidism	MESH:D006980
+HP:0100256	Senile plaques	MESH:D058225
+HP:0000545	Myopia	MESH:D009216
+HP:0100520	Oliguria	MESH:D009846
+HP:0002311	Incoordination	MESH:D001259
+HP:0001732	Abnormality of the pancreas	MESH:D010182
+HP:0008326	Vitamin B6 deficiency	MESH:D026681
+HP:0005511	Heinz body anemia	MESH:C563030
+HP:0100621	Dysgerminoma	MESH:D004407
+HP:0012723	Sinoatrial block	MESH:D012848
+HP:0011387	Enlarged vestibular aqueduct	MESH:C566366
+HP:0003022	Hypoplasia of the ulna	MESH:C538069
+HP:0002045	Hypothermia	MESH:D007035
+HP:0030706	Ranula	MESH:D011900
+HP:0000735	Impaired social interactions	MESH:D000067404
+HP:0001744	Splenomegaly	MESH:D013163
+HP:0100608	Metrorrhagia	MESH:D008796
+HP:0012847	Epilepsia partialis continua	MESH:D017036
+HP:0001264	Spastic diplegia	MESH:D002547
+HP:0000490	Deeply set eye	MESH:D015841
+HP:0003654	Reduced dihydropyrimidine dehydrogenase activity	MESH:D054067
+HP:0004321	Bladder fistula	MESH:D001747
+HP:0002268	Paroxysmal dystonia	MESH:D004421
+HP:0012503	Abnormality of the pituitary gland	MESH:D010900
+HP:0001971	Hypersplenism	MESH:D006971
+HP:0002067	Bradykinesia	MESH:D018476
+HP:0002500	Abnormality of the cerebral white matter	MESH:D049292
+HP:0100950	Long chain 3 hydroxyacyl coA dehydrogenase deficiency	MESH:C566945
+HP:0030724	Central nervous system cyst	MESH:D020863
+HP:0012125	Prostate cancer	MESH:D011471
+HP:0005294	Arterial dissection	MESH:D000784
+HP:0030219	Semantic dementia	MESH:D057180
+HP:0100590	Rectal fistula	MESH:D012003
+HP:0000155	Oral ulcer	MESH:D019226
+HP:0003002	Breast carcinoma	MESH:D001943
+HP:0100544	Neoplasm of the heart	MESH:D006338
+HP:0000154	Wide mouth	MESH:D008265
+HP:0008661	Urethral stenosis	MESH:D014525
+HP:0009037	Segmental spinal muscular atrophy	MESH:C566670
+HP:0100617	Testicular seminoma	MESH:D018239
+HP:0011803	Bifid nose	MESH:C535441
+HP:0002267	Exaggerated startle response	MESH:D000071017
+HP:0001686	Loss of voice	MESH:D001044
+HP:0001664	Torsade de pointes	MESH:D016171
+HP:0000726	Dementia	MESH:D003704
+HP:0005541	Congenital agranulocytosis	MESH:C537592
+HP:0004394	Multiple gastric polyps	MESH:C562464
+HP:0000709	Psychosis	MESH:D011618
+HP:0000819	Diabetes mellitus	MESH:D003920
+HP:0100786	Hypersomnia	MESH:D006970
+HP:0100710	Impulsivity	MESH:D007175
+HP:0006349	Agenesis of permanent teeth	MESH:C563203
+HP:0001287	Meningitis	MESH:D008581
+HP:0010910	Hypervalinemia	MESH:C536524
+HP:0011333	Asymmetric crying face	MESH:C535349
+HP:0002070	Limb ataxia	MESH:D001259
+HP:0002375	Hypokinesia	MESH:D018476
+HP:0003128	Lactic acidosis	MESH:D000140
+HP:0006315	Single median maxillary incisor	MESH:C537342
+HP:0008291	Pituitary corticotropic cell adenoma	MESH:D049913
+HP:0012423	Colonic inertia	MESH:D003248
+HP:0008169	Reduced factor VII activity	MESH:D005168
+HP:0004370	Abnormality of temperature regulation	MESH:D001832
+HP:0012035	Steatocystoma multiplex	MESH:D062685
+HP:0012168	Head-banging	MESH:D019956
+HP:0001903	Anemia	MESH:D000740
+HP:0002725	Systemic lupus erythematosus	MESH:D008180
+HP:0012068	Aspartylglucosaminuria	MESH:D054880
+HP:0009054	Scapuloperoneal myopathy	MESH:C536624
+HP:0010896	Hypersarcosinemia	MESH:C537236
+HP:0001890	Autoimmune hemolytic anemia	MESH:D000744
+HP:0004840	Hypochromic microcytic anemia	MESH:C536357
+HP:0000613	Photophobia	MESH:D020795
+HP:0030673	Erosive vitreoretinopathy	MESH:C536075
+HP:0030186	Kinetic tremor	MESH:D020329
+HP:0030186	Kinetic tremor	MESH:D014202
+HP:0002671	Basal cell carcinoma	MESH:D002280
+HP:0003348	Hyperalaninemia	MESH:C562684
+HP:0010736	Monostotic fibrous dysplasia	MESH:D005358
+HP:0006753	Neoplasm of the stomach	MESH:D013274
+HP:0001659	Aortic regurgitation	MESH:D001022
+HP:0000360	Tinnitus	MESH:D014012
+HP:0012022	Congenital portosystemic venous shunt	MESH:C562830
+HP:0002044	Zollinger-Ellison syndrome	MESH:D015043
+HP:0000171	Microglossia	MESH:D014060
+HP:0001629	Ventricular septal defect	MESH:D006345
+HP:0000044	Hypogonadotrophic hypogonadism	MESH:D007006
+HP:0000699	Diastema	MESH:D003970
+HP:0000031	Epididymitis	MESH:D004823
+HP:0012063	Aneurysmal bone cyst	MESH:D017824
+HP:0002321	Vertigo	MESH:D004244
+HP:0002321	Vertigo	MESH:D014717
+HP:0100551	Neoplasm of the trachea	MESH:D014134
+HP:0100768	Choriocarcinoma	MESH:D002822
+HP:0010296	Ankyloglossia	MESH:D000072676
+HP:0010521	Gait apraxia	MESH:D020235
+HP:0005979	Metabolic ketoacidosis	MESH:D007662
+HP:0001639	Hypertrophic cardiomyopathy	MESH:D002312
+HP:0000505	Visual impairment	MESH:D014786
+HP:0000505	Visual impairment	MESH:D015354
+HP:0002308	Arnold-Chiari malformation	MESH:D001139
+HP:0002884	Hepatoblastoma	MESH:D018197
+HP:0012732	Anorectal anomaly	MESH:D000071056
+HP:0001738	Exocrine pancreatic insufficiency	MESH:D010188
+HP:0005679	Dupuytren contracture	MESH:D004387
+HP:0002933	Ventral hernia	MESH:D006555
+HP:0006527	Lymphoid interstitial pneumonia	MESH:C562489
+HP:0011516	Achromatopsia	MESH:C536021
+HP:0012652	Exercise-induced asthma	MESH:D001250
+HP:0004756	Ventricular tachycardia	MESH:D017180
+HP:0005864	Pseudoarthrosis	MESH:D011542
+HP:0011175	Versive seizures	MESH:D020938
+HP:0006688	Paroxysmal tachycardia	MESH:D013614
+HP:0001994	Renal Fanconi syndrome	MESH:D005198
+HP:0100764	Lymphangioma	MESH:D008202
+HP:0001268	Mental deterioration	MESH:D060825
+HP:0003765	Psoriasis	MESH:D011565
+HP:0010926	Aculeiform cataract	MESH:C566162
+HP:0003560	Muscular dystrophy	MESH:D009136
+HP:0001973	Autoimmune thrombocytopenia	MESH:D016553
+HP:0011852	Chylopericardium	MESH:D010490
+HP:0012151	Hemothorax	MESH:D006491
+HP:0012864	Abnormal sperm morphology	MESH:D000072660
+HP:0012344	Morphea	MESH:D012594
+HP:0007686	Abnormal pupillary function	MESH:D011681
+HP:0100750	Atelectasis	MESH:D001261
+HP:0040184	Oral bleeding	MESH:D006472
+HP:0010458	Female pseudohermaphroditism	MESH:D058489
+HP:0005600	Congenital giant melanocytic nevus	MESH:C536819
+HP:0001199	Triphalangeal thumb	MESH:C573898
+HP:0012184	Hyperalphalipoproteinemia	MESH:C564591
+HP:0011763	Pituitary carcinoma	MESH:D010911
+HP:0001116	Macular coloboma	MESH:C535968
+HP:0002138	Subarachnoid hemorrhage	MESH:D013345
+HP:0002652	Skeletal dysplasia	MESH:D010009
+HP:0100517	Neoplasm of the urethra	MESH:D014523
+HP:0001491	Congenital fibrosis of extraocular muscles	MESH:C580012
+HP:0000961	Cyanosis	MESH:D003490
+HP:0010313	Breast hypertrophy	MESH:C536821
+HP:0000414	Bulbous nose	MESH:C538354
+HP:0007677	Vitelliform-like macular lesions	MESH:D057826
+HP:0003202	Skeletal muscle atrophy	MESH:D009133
+HP:0005246	Giant hypertrophic gastritis	MESH:D005758
+HP:0011815	Cephalocele	MESH:D004677
+HP:0012722	Heart block	MESH:D006327
+HP:0002167	Neurological speech impairment	MESH:D013064
+HP:0006779	Alveolar rhabdomyosarcoma	MESH:D018232
+HP:0000975	Hyperhidrosis	MESH:D013546
+HP:0000975	Hyperhidrosis	MESH:D006945
+HP:0001007	Hirsutism	MESH:D006628
+HP:0100532	Scleritis	MESH:D015423
+HP:0000485	Megalocornea	MESH:C562829
+HP:0006518	Pulmonary venous occlusion	MESH:D011668
+HP:0100819	Intestinal fistula	MESH:D007412
+HP:0001647	Bicuspid aortic valve	MESH:C562388
+HP:0003124	Hypercholesterolemia	MESH:D006937
+HP:0010516	Thymus hyperplasia	MESH:D013952
+HP:0012797	Lymphatic vessel neoplasm	MESH:D018190
+HP:0000577	Exotropia	MESH:D005099
+HP:0004804	Congenital hemolytic anemia	MESH:D000745
+HP:0007437	Multiple cutaneous leiomyomas	MESH:C535516
+HP:0012056	Cutaneous melanoma	MESH:D008545
+HP:0001950	Respiratory alkalosis	MESH:D000472
+HP:0000119	Abnormality of the genitourinary system	MESH:D014564
+HP:0008110	Equinovarus deformity	MESH:D003025
+HP:0006731	Follicular thyroid carcinoma	MESH:D018263
+HP:0100008	Schwannoma	MESH:D009442
+HP:0010286	Abnormality of the salivary glands	MESH:D012466
+HP:0001319	Neonatal hypotonia	MESH:D009123
+HP:0100759	Clubbing of fingers	MESH:D010005
+HP:0100718	Uterine rupture	MESH:D014597
+HP:0012229	CSF pleocytosis	MESH:D007964
+HP:0000220	Velopharyngeal insufficiency	MESH:D014681
+HP:0100021	Cerebral palsy	MESH:D002547
+HP:0006695	Atrioventricular canal defect	MESH:D004694
+HP:0006695	Atrioventricular canal defect	MESH:C562831
+HP:0010815	Nevus sebaceous	MESH:D054000
+HP:0003279	Coxa magna	MESH:D000070603
+HP:0012653	Status asthmaticus	MESH:D013224
+HP:0100245	Desmoid tumors	MESH:D018222
+HP:0008158	Hyperapobetalipoproteinemia	MESH:D006950
+HP:0009725	Bladder neoplasm	MESH:D001749
+HP:0006682	Ventricular extrasystoles	MESH:D018879
+HP:0002427	Motor aphasia	MESH:D001039
+HP:0003075	Hypoproteinemia	MESH:D007019
+HP:0100607	Dysmenorrhea	MESH:D004412
+HP:0000201	Pierre-Robin sequence	MESH:D010855
+HP:0000143	Rectovaginal fistula	MESH:D012006
+HP:0100790	Hernia	MESH:D006547
+HP:0010981	Hypolipoproteinemia	MESH:D007009
+HP:0008242	Pseudohypoaldosteronism	MESH:D011546
+HP:0000316	Hypertelorism	MESH:D006972
+HP:0001798	Anonychia	MESH:C536377

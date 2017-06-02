@@ -1,0 +1,909 @@
+hp_code	hp_term	mesh_code	mesh_term
+HP:0000870	Hyperprolactinaemia	D006966	Secretion, Inappropriate Prolactin
+HP:0003641	Hemoglobinuria	D006456	Hemoglobinuria
+HP:0005261	Joint haemorrhage	D006395	Hemarthroses
+HP:0000155	Oral ulcer	D019226	Ulcers, Oral
+HP:0004822	Atypical elliptocytosis	C565598	Elliptocytosis, Atypical
+HP:0200022	Choroid plexus papilloma	D020288	Papillomas, Choroid Plexus
+HP:0002933	Ventral hernia	D006555	Ventral Hernias
+HP:0100504	Riboflavin deficiency	D012257	Riboflavin Deficiencies
+HP:0006689	Bacterial endocarditis	D004697	Endocarditis, Bacterial
+HP:0030061	Neuroectodermal neoplasm	D017599	Tumors, Neuroectodermal
+HP:0011418	Vasa previa	D055949	Praevia, Vasa
+HP:0002901	Hypocalcaemia	D006996	Hypocalcemias
+HP:0008672	Oxalate nephrolithiasis	C563477	Nephrolithiasis, Calcium Oxalate
+HP:0001586	Vesicovaginal fistula	D014719	Fistulas, Vesico-Vaginal
+HP:0010807	Open bite	D024343	Bite, Open
+HP:0001513	Obesity	D009765	Obesity
+HP:0100516	Neoplasm of the ureter	D014516	Ureter Neoplasm
+HP:0000528	No eyeball	D000853	Anophthalmias
+HP:0000185	Cleft soft palate	C562950	Cleft Soft Palate
+HP:0004749	Atrial flutter	D001282	Flutters, Auricular
+HP:0001699	Sudden death	D003645	Sudden Death
+HP:0012325	Chronic myelomonocytic leukemia	D015477	Chronic Myelomonocytic Leukemia
+HP:0100310	Extradural haematoma	D006407	Intracranial Epidural Hematomas
+HP:0005521	Disseminated intravascular coagulation	D004211	Coagulopathy, Consumption
+HP:0004315	Decreased gamma-globin expression	D017099	IgG Deficiencies
+HP:0008469	Cervical vertebral dysplasia	C566140	Cervical Vertebral Dysplasia
+HP:0005978	NIDDM diabetes mellitus	D003924	Slow-Onset Diabetes Mellitus
+HP:0012387	Bronchitis	D001991	Bronchitides
+HP:0010980	Hyperlipoproteinemia	D006951	Hyperlipoproteinemias
+HP:0001014	Angiokeratomas	D000794	Angiokeratomas
+HP:0012221	Pretibial epidermolysis bullosa	C535494	Epidermolysis bullosa, pretibial
+HP:0040165	Periostalgia	D010522	Periostitides
+HP:0001681	Angina pectoris	D000787	Stenocardias
+HP:0001045	Vitiligo	D014820	Vitiligo
+HP:0002607	Fecal incontinence	D005242	Incontinences, Fecal
+HP:0010677	Nocturnal enuresis	D053206	Urinary Incontinence, Nighttime
+HP:0011847	Giant cell tumor of bone	D018212	Giant Cell Tumor of Bone
+HP:0005323	Hypertrophy of half of face	C563014	Facial Hemihypertrophy
+HP:0000230	Gingivitis	D005891	Gingivitides
+HP:0002961	Dysgammaglobulinemia	D004406	Dysgammaglobulinemias
+HP:0000169	Gingival fibrous nodules	D005351	Gingival Fibromatoses
+HP:0007443	Congenital partial albinism on face, trunk, or limbs	D016116	Partial Albinism
+HP:0003067	Madelung wrist deformity	C562398	Madelung Deformity
+HP:0000112	Nephropathy	D007674	Kidney Disease
+HP:0011419	Abruptio placentae	D000037	Abruptions, Placental
+HP:0002669	Osteogenic sarcoma	D012516	Osteosarcoma Tumors
+HP:0000790	Hematuria	D006417	Hematurias
+HP:0001629	Ventriculoseptal defect	D006345	Intraventricular Septal Defect
+HP:0100595	Camptocormia	C537968	Camptocormia
+HP:0010783	Erythema	D004890	Erythemas
+HP:0001543	Gastroschisis	D020139	Gastroschises
+HP:0005864	Pseudoarthroses	D011542	Pseudoarthroses
+HP:0012784	Perinephritis	D010501	Perinephrium Inflammation
+HP:0012395	Seasonal allergy	D006255	Seasonal Allergic Rhinitides
+HP:0001662	Bradycardia	D001919	Bradycardias
+HP:0009730	Rhabdomyoma	D012207	Rhabdomyomas
+HP:0001561	Hydramnios	D006831	Polyhydramnios
+HP:0011726	Persistent fetal circulation	D010547	ACD MPV
+HP:0000590	External ophthalmoplegia, progressive (PEO)	D017246	Ocular Myopathy of Von Graefe Fuchs
+HP:0001953	Diabetic ketosis	D016883	Ketoses, Diabetic
+HP:0200043	Warts	D014860	Wart
+HP:0100753	Schizophrenia	D012559	Schizophrenic Disorder
+HP:0004360	Abnormality of acid-base homeostasis	D000137	Acid-Base Imbalances
+HP:0010734	Fibrous dysplasia of the bones	D005357	Bone Fibrous Dysplasias
+HP:0008080	Medially deviated halluces	D050488	Varus, Hallux
+HP:0004864	Refractory sideroblastic anemia	D000756	Sideroblastic Anemia
+HP:0011626	Scimitar syndrome	D012587	Anomaly, Scimitar
+HP:0001671	Septal defects	D006343	Septal Defects, Heart
+HP:0100768	Choriocarcinoma	D002822	Choriocarcinomas
+HP:0200023	hulseyism	D011317	Priapisms
+HP:0001913	Granulocytopenia	D000380	Granulocytopenias
+HP:0012218	Alveolar soft part sarcoma	D018234	Sarcoma, Alveolar Soft Part
+HP:0007939	Blue cone monochromatism	C536238	Blue cone monochromatism
+HP:0012022	Congenital portosystemic venous shunt	C562830	Patent Ductus Venosus
+HP:0001712	Left ventricular wall hypertrophy	D017379	Ventricular Hypertrophies, Left
+HP:0100601	Eclampsia	D004461	Eclampsias
+HP:0030392	Choroid plexus carcinoma	C562943	Choroid Plexus Carcinoma
+HP:0003307	Lordosis	D008141	Lordosis
+HP:0030434	Pilomatrixoma	D018296	Pilomatricoma, Benign
+HP:0002754	Osteomyelitis	D010019	Osteomyelitides
+HP:0001373	Joint dislocations	D004204	Dislocation
+HP:0012254	Ewing sarcoma	D012512	Ewings Sarcoma
+HP:0200026	Ocular pain	D058447	Pain, Eye
+HP:0003570	Molybdenum cofactor deficiency	C535811	Molybdenum cofactor deficiency
+HP:0100541	Crural hernia	D006550	Hernias, Femoral
+HP:0000506	Dystopia canthorum	C562941	Telecanthus
+HP:0000796	Urethral obstruction	D014524	Urethral Obstructions
+HP:0002728	Mucocutaneous candidiasis	D002178	Mucocutaneous Candidiasis, Chronic
+HP:0003006	Neuroblastoma	D009447	Neuroblastomas
+HP:0000722	Obsessive-compulsive disorder	D003192	Compulsive Behaviors
+HP:0010446	Tricuspid stenosis	D014264	Stenosis, Tricuspid Valve
+HP:0010448	Atresia of the large intestine	C562562	Colonic Atresia
+HP:0011034	Amyloidosis	D000686	Amyloidoses
+HP:0009914	Cyclops eye	C562573	Cyclopia
+HP:0030017	Vaginismus	D052065	Vaginismus
+HP:0007798	obsolete Foveal dystrophy	C537835	Macular dystrophy, retinal, 1, North Carolina type
+HP:0001682	Subvalvular aortic stenosis	D001020	Subvalvular Aortic Stenoses
+HP:0001658	Myocardial infarction	D009203	Heart Attacks
+HP:0005160	Total anomalous pulmonary venous drainage	D012587	Anomaly, Scimitar
+HP:0000863	Neurohypophyseal diabetes insipidus	D020790	Diabetes Insipidus, Neurogenic
+HP:0004841	Hageman factor deficiency	D005175	Factor 12 Deficiencies
+HP:0002883	Hyperventilation	D006985	Hyperventilations
+HP:0002970	Genua vara	D056305	Leg, Bow
+HP:0007406	Hyperpigmentation of eyelids	C562400	Hyperpigmentation of Eyelids
+HP:0000742	Self mutilation	D012652	Mutilation, Self
+HP:0006782	Malignant eosinophil proliferation	C565054	Myeloproliferative Disorder, Chronic, with Eosinophilia
+HP:0009371	Type A1 brachydactyly	C537088	Brachydactyly type A1
+HP:0012031	Lipomatous tumor	D018205	Neoplasm, Adipose Tissue
+HP:0002282	Heterotopias	D002828	Tissues, Heterotopic
+HP:0008258	Congenital adrenal hyperplasia	D000312	Hyperplasias, Congenital Adrenal
+HP:0030451	Mesenteric cyst	D008639	Cyst, Mesenteric
+HP:0012871	Vaginal varicocele	D014646	Varicoceles
+HP:0002196	Myelopathy	D013118	Myelopathies
+HP:0001723	Restrictive cardiomyopathy	D002313	Restrictive Cardiomyopathy
+HP:0100512	Vitamin D deficiency	D014808	Vitamin D Deficiencies
+HP:0030449	Therapeutic abortion	D000032	Therapeutic Abortions
+HP:0011001	Osteosclerosis	D010026	Osteoscleroses
+HP:0002779	Tracheomalacia	D055090	Trachea Chondromalacias
+HP:0002023	Anal atresia	D001006	Atresias, Anal
+HP:0005831	Type B brachydactyly	C566196	Brachydactyly, Type B1
+HP:0011846	Osteoblastoma	D018215	Osteomas, Giant Osteoid
+HP:0007417	Discoid lupus erythematosus	D008179	Discoid Lupus Erythematosus
+HP:0000126	Hydronephrosis	D006869	Hydronephroses
+HP:0007898	Exudative retinopathy	D058456	Disease, Coats
+HP:0100520	Oliguria	D009846	Oligurias
+HP:0006518	Pulmonary venoocclusive disease	D011668	Venoocclusive Disease, Pulmonary
+HP:0001734	Annular pancreas	C536376	Annular pancreas
+HP:0002927	Histidinuria	C538321	Histidinuria renal tubular defect
+HP:0006731	Follicular thyroid carcinoma	D018263	Thyroid Carcinomas, Follicular
+HP:0004490	Calvarial hyperostosis	C537963	Calvarial hyperostosis
+HP:0005531	Myeloid/lymphoid leukemia	D015456	Biphenotypic Leukemias, Acute
+HP:0000225	Gingival bleeding	D005884	Gingival Hemorrhages
+HP:0005948	Cystic lung disease	C563237	Cystic Disease Of Lung
+HP:0000976	Eczematoid dermatitis	D004485	Eczematous Dermatitis
+HP:0012390	Anal fissure	D005401	Fissure, Anal
+HP:0000017	Nycturia	D053158	Nocturia
+HP:0001156	Brachydactyly	D059327	Brachydactylies
+HP:0002044	Zollinger-Ellison syndrome	D015043	Syndrome, Zollinger-Ellison
+HP:0002582	Chronic atrophic gastritis	D005757	Atrophic Gastritis
+HP:0005627	Brachydactyly type D	C562420	Brachydactyly, Type D
+HP:0003256	Coagulopathy	D001778	Disorder, Blood Coagulation
+HP:0005180	Tricuspid insufficiency	D014262	Incompetence, Tricuspid Valve
+HP:0006685	Endomyocardial fibrosis	D004719	Fibrosis, Endomyocardial
+HP:0006744	Adrenal gland carinoma	D018268	Adrenal Cortical Carcinoma
+HP:0010958	Bilateral renal agenesis	C536482	Hereditary renal agenesis
+HP:0030511	Bradyopsia	C564243	Prolonged Electroretinal Response Suppression
+HP:0011724	Uhl's anomaly	C536932	Uhl anomaly
+HP:0100518	Dysuria	D053159	Dysuria
+HP:0010605	Meibomian gland lipogranuloma	D017043	Cyst, Meibomian
+HP:0000805	Enuresis	D004775	Enuresis
+HP:0007760	Crystalline corneal dystrophy	C535475	Corneal Dystrophy, Crystalline, of Schnyder
+HP:0004602	Klippel-Feil syndrome	D007714	Syndrome, Klippel-Feil
+HP:0100617	Testicular seminoma	D018239	Seminomas
+HP:0000491	Keratitis	D007634	Keratitides
+HP:0000656	Ectropion	D004483	Ectropions
+HP:0002047	Malignant hyperthermia with anesthesia	D008305	Related Hyperthermia, Anesthesia
+HP:0000220	Velopharyngeal incompetence	D014681	Incompetence, Velopharyngeal
+HP:0000695	Natal teeth	D009306	Natal Tooth
+HP:0002444	Hypothalamic hamartoma	C537158	Hypothalamic hamartomas
+HP:0012768	Asphyxia neonatorum	D001238	Asphyxia Neonatorum
+HP:0100747	Macrodactyly (feet)	C537719	Macrodactyly of the foot
+HP:0009920	Congenital melanosis bulbi	D009507	Otas Nevus
+HP:0002245	Meckel diverticulum	D008467	Meckel Diverticulum
+HP:0007755	Juvenile epithelial corneal dystrophy	D053559	Dystrophies, Meesmann Corneal
+HP:0012124	Intermediate uveitis	D015867	Intermediate Uveitis
+HP:0011700	Automatic atrial tachycardia	D013612	Tachycardias, Ectopic Atrial
+HP:0100726	Kaposi's sarcoma	D012514	Kaposis Sarcoma
+HP:0012042	Aspirin-induced asthma	D055963	Induced Asthma, Aspirin
+HP:0003743	Genetic anticipation	D020132	Genetic Anticipations
+HP:0100842	De Morsier syndrome	D025962	Septooptic Dysplasias
+HP:0001331	Absence of the septum pellucidum	C535562	Absence of septum pellucidum
+HP:0100602	Pre-eclampsia	D011225	Toxemias, EPH
+HP:0001100	Heterochromia irides	C538115	Heterochromia iridis
+HP:0007524	Atypical neurofibromatosis	C537392	Neurofibromatosis, type 4, of Riccardi
+HP:0011748	Corticotropin deficiency	C535668	Adrenocorticotropic hormone deficiency
+HP:0001007	Hirsutism	D006628	Hirsutism
+HP:0010886	Osteochondritis dissecans	D010008	Dissecans, Osteochondritis
+HP:0010606	Hordeolum	D006726	Styes
+HP:0100812	bad breath	D006209	Halitoses
+HP:0000162	Glossoptosis	D065710	Glossoptoses
+HP:0010736	Monostotic fibrous dysplasia	D005358	Dysplasia, Monostotic Fibrous
+HP:0011798	Renal oncocytoma	C537750	Oncocytoma, renal
+HP:0002020	Gastroesophageal reflux disease	D005764	Reflux, Gastro-oesophageal
+HP:0010882	Pulmonary valve atresia	D018633	Valve Atresias, Pulmonary
+HP:0003076	Glucosuria	D006029	Glycosuria
+HP:0100616	Testicular teratoma	C562472	Teratoma, Testicular
+HP:0012089	Arteritis	D001167	Inflammation, Arterial
+HP:0001022	Albinism	D000417	Albinism
+HP:0012215	Testicular microlithiasis	C566478	Testicular Microlithiasis
+HP:0100739	Bulimia	D002032	Eating, Binge
+HP:0012209	Juvenile myelomonocytic leukemia	D054429	Myelomonocytic Leukemias, Juvenile
+HP:0005511	Heinz body anemia	C563030	Heinz Body Anemias
+HP:0004729	Acute tubulointerstitial nephritis	C564356	Acute Tubulointerstitial Nephritis
+HP:0000621	Entropion	D004774	Entropions
+HP:0002804	Arthrogryposis	D001176	Congenital Multiple Arthrogryposes
+HP:0100029	Lingual thyroid	D046151	Thyroids, Lingual
+HP:0004762	Hypoplasia of right ventricle	C536932	Uhl anomaly
+HP:0001134	Anterior polar cataract	C538282	Cataract anterior polar dominant
+HP:0002960	Autoimmune disease	D001327	Diseases, Autoimmune
+HP:0000538	Pseudopapilledema	C562401	Pseudopapilledema
+HP:0004789	Lactose intolerance	D007787	Malabsorption, Lactose
+HP:0000589	Ocular coloboma	D003103	Colobomas
+HP:0001824	Weight loss	D015431	Loss, Weight
+HP:0002880	Respiratory difficulties	D004417	Breathlessnesses
+HP:0200146	Cystic medial necrosis of the aorta	C536230	Cystic medial necrosis of aorta
+HP:0002836	Bladder exstrophy	D001746	Urinary Bladder Exstrophies
+HP:0012804	Corneal ulcer	D003320	Ulcerative Keratitis
+HP:0003073	Hypoalbuminaemia	D034141	Hypoalbuminemia
+HP:0003198	Myopathic changes	D009135	Muscle Disorder
+HP:0007902	Vitreous hemorrhage	D014823	Vitreous Hemorrhages
+HP:0008843	Osteoarthritis of hip	D015207	Osteoarthritis Of Hips
+HP:0100577	Cystitis of the urinary bladder	D003556	Cystitides
+HP:0007915	Polymorphous posterior corneal dystrophy	C562745	Corneal Dystrophy, Posterior Polymorphous, 1
+HP:0007709	Band-shaped corneal dystrophy	C562399	Corneal Dystrophy, Band-Shaped
+HP:0012193	Anaplastic large-cell lymphoma	D017728	CD30+ Anaplastic Large Cell Lymphoma
+HP:0002691	increased basal angle of skull base	D010985	Impression, Basilar
+HP:0030432	Chondroblastoma	D002804	Chondroblastomas
+HP:0002668	Paragangliomas	D010235	Paragangliomas, Gangliocytic
+HP:0007437	Multiple cutaneous leiomyomas	C535516	Hereditary leiomyomatosis and renal cell cancer
+HP:0000648	Optic-nerve degeneration	D009896	Atrophy, Optic
+HP:0012063	Aneurysmal bone cyst	D017824	Cysts, Aneurysmal Bone
+HP:0012188	Hyperemesis gravidarum	D006939	Pregnancy Pernicious Vomiting
+HP:0000076	Ureteral reflux	D014718	Reflux, Vesicoureteral
+HP:0001982	'Sea blue' histiocytes	D012618	Diseases, Sea-Blue Histiocyte
+HP:0009125	Lipodystrophy	D008060	Lipodystrophies
+HP:0012478	Temporomandibular joint fusion	C536957	Temporomandibular ankylosis
+HP:0012119	Methemoglobinemia	D008708	Methemoglobinemias
+HP:0005942	Desquamative interstitial pneumonitis	C562470	Interstitial Pneumonitis, Desquamative, Familial
+HP:0004535	Congenital cervical hypertrichosis	C538390	Hypertrichosis, anterior cervical
+HP:0001094	Iridocyclitis	D015863	Iridocyclitides
+HP:0001647	Bicuspid aortic valve	C562388	Bicuspid Aortic Valve
+HP:0001945	Pyrexia	D005334	Pyrexias
+HP:0000554	Uveitis	D014605	Uveitides
+HP:0100762	Haemobilia	D006431	Hemobilias
+HP:0002269	Migrational brain disorder	D054081	Disorders, Neuronal Migration
+HP:0003535	3-Methylglutaconic aciduria	C579867	3-Methylglutaconic Aciduria
+HP:0006557	Polycystic liver disease	C536330	Polycystic liver disease
+HP:0002756	Spontaneous fracture	D005598	Fracture, Spontaneous
+HP:0100603	Hypertensive disorder of pregnancy	D011225	Toxemias, EPH
+HP:0001355	Macrencephaly	D058627	Megalocephalies
+HP:0002039	Anorexia	D000855	Anorexias
+HP:0010518	Thyroglossal duct cyst	D013955	Thyrolingual Cysts
+HP:0001071	Angiokeratoma corporis diffusum	D000795	Deficiency, GLA
+HP:0100825	Cheilitis	D002613	Cheilitides
+HP:0011854	Hemoperitoneum	D006465	Hemoperitoneums
+HP:0001107	Albinism, Ocular	D016117	Albinism, Ocular
+HP:0000130	Uterine abnormalities	C562565	Uterine Anomalies
+HP:0010529	Echolalia	D004454	Speech, Echo
+HP:0002860	Squamous cell carcinoma	D002294	Squamous Carcinoma
+HP:0004760	Congenital septal defects	D006343	Septal Defects, Heart
+HP:0010444	Pulmonary incompetence	D011665	Pulmonary Valve Insufficiency
+HP:0001876	Pancytopenia	D010198	Pancytopenias
+HP:0006785	limb girdle muscular dystrophy	D049288	Muscular Dystrophies, Limb Girdle
+HP:0003228	Hypernatremia	D006955	Hypernatremias
+HP:0000545	Near sightedness	D009216	Nearsightednesses
+HP:0006727	T-cell acute lymphoblastic leukemias	D054218	T-Lymphocytic Leukemias, Acute
+HP:0001924	Hypersideremic anemia	D000756	Sideroblastic Anemia
+HP:0004952	Pulmonary arteriovenous fistulas	C562404	Pulmonary Arteriovenous Fistulas
+HP:0002335	Cerebellar vermis aplasia	C536293	Joubert syndrome 1
+HP:0012180	Arterial cystic medial necrosis	C536230	Cystic medial necrosis of aorta
+HP:0004417	Intermittent claudication	D007383	Claudication, Intermittent
+HP:0011079	Retained tooth	D014095	Impacted Tooth
+HP:0012672	Akinetic mutism	D000405	Vigils, Coma
+HP:0005510	Transient erythroblastopenia	C536980	Transient erythroblastopenia of childhood
+HP:0000821	Low T4	D007037	Hypothyroidisms
+HP:0011892	Vitamin K deficiency	D014813	Vitamin K Deficiencies
+HP:0012028	Liver cell adenoma	D018248	Liver Cell Adenoma
+HP:0000132	hypermenorrhea	D008595	Menorrhagia
+HP:0010693	Pulverulent Cataract	C563426	Cataract, Pulverulent
+HP:0000988	Exanthem	D005076	Rash, Skin
+HP:0005152	Oncocytic cardiomyopathy	C535584	Cardiomyopathy, infantile histiocytoid
+HP:0002307	Sialorrhea	D012798	Drooling
+HP:0011142	Age-related nuclear cataract	C563333	Cataract, Age-Related Nuclear
+HP:0007206	Hemimegalencephaly	D065705	Megalencephaly, Unilateral
+HP:0002248	Hematemesis	D006396	Hematemeses
+HP:0000522	Absence of tears in the eyes	C562827	Alacrima
+HP:0001818	Paronychia	D010304	Paronychias
+HP:0008200	Primary hyperparathyroidism	D049950	Primary Hyperparathyroidisms
+HP:0011950	Bronchiolitis	D001988	Bronchiolitides
+HP:0001081	Gallstones	D002769	Cholelithiases
+HP:0100279	Colitis ulcerosa	D003093	Colitis, Ulcerative
+HP:0002762	Multiple exostoses	D005097	Multiple Cartilaginous Exostosis
+HP:0001601	Laryngomalacia	D055092	Laryngomalacias
+HP:0030048	Colpocephaly	C535973	Colpocephaly
+HP:0012108	Primary open angle glaucoma	C562750	Glaucoma, Primary Open Angle
+HP:0030431	Osteochondromas	D015831	Osteocartilaginous Exostosis
+HP:0007707	Congenital primary aphakia	C537786	Aphakia, congenital primary
+HP:0004392	Prune belly	D011535	Eagle Barrett Syndrome
+HP:0002032	Esophageal atresia	D004933	Esophageal Atresias
+HP:0002905	Hyperphosphatemia	D054559	Hyperphosphatemias
+HP:0012289	Facial neoplasm	D005153	Neoplasms, Facial
+HP:0003225	Reduced factor V activity	D005166	Parahemophilia, Owren
+HP:0009797	Cholesteatoma	D002781	Cholesteatomas
+HP:0040154	Acne inversa	D017497	Acne Inversas
+HP:0004326	Cachexia	D002100	Cachexia
+HP:0012384	Rhinitis	D012220	Catarrhs, Nasal
+HP:0005506	Chronic myeloid leukemia	D015464	Philadelphia-Positive Myeloid Leukemias
+HP:0001195	Single umbilical artery	D058529	Umbilical Artery, Single
+HP:0002608	Celiac sprue	D002446	Enteropathies, Gluten-Sensitive
+HP:0000453	Choanal atresia	D002754	Choanal Atresias
+HP:0010296	Ankyloglossia	C562396	Ankyloglossia
+HP:0002593	Intestinal lymphangiectasia	D008201	Lymphangiectases, Intestinal
+HP:0000324	Asymmetry of right and left side of face	D005146	Facial Asymmetries
+HP:0100246	Osteoma	D010016	Osteomas
+HP:0001036	Parakeratosis	D010241	Parakeratoses
+HP:0006934	Congenital nystagmus	D020417	Nystagmus, Congenital
+HP:0002615	Arterial hypotension	D007022	Hypotension
+HP:0003715	Myofibrillar changes	C580316	Myofibrillar Myopathy
+HP:0011369	Mongolian blue spot	D049328	Spot, Mongolian
+HP:0000659	Peters anomaly	C537884	Peters anomaly
+HP:0000150	Gonadoblastoma	D018238	Gonadoblastomas
+HP:0004394	Multiple gastric polyps	C562464	Polyposis, Gastric
+HP:0007475	Bullous congenital ichthyosiform erythroderma	D017488	Ichthyosiform Erythrodermas, Bullous
+HP:0012416	Hypercarbia	D006935	Hypercapnia
+HP:0000833	Impaired glucose tolerance	D018149	Intolerance, Glucose
+HP:0004423	Cranium bifidum occultum	C566826	Parietal Foramina
+HP:0005890	Hyperostosis cranialis interna	C564168	Hyperostosis Cranialis Interna
+HP:0011857	Plasmacytoma	D010954	Tumors, Plasma Cell
+HP:0002900	Hypokalemia	D007008	Hypopotassemias
+HP:0008202	Prolactin deficiency	C562708	Prolactin Deficiency, Isolated
+HP:0001744	Splenomegaly	D013163	Spleen, Enlarged
+HP:0005743	Legg-Calve-Perthes syndrome	D007873	Osteochondritis Deforman
+HP:0003260	Hydroxyprolinemia	C562669	Hydroxyprolinemia
+HP:0003057	Tetra-amelia	C536498	Tetra-amelia autosomal recessive
+HP:0005294	Arterial dissection	D000784	Dissecting Aneurysms
+HP:0030060	Nervous tissue neoplasm	D009380	Nerve Tissue Neoplasm
+HP:0000498	Blepharitis	D001762	Blepharitides
+HP:0002575	Tracheoesophageal fistula	D014138	Fistula, Tracheoesophageal
+HP:0004381	Supravalvular aortic stenosis	D021921	Supravalvular Stenoses, Aortic
+HP:0002612	Congenital hepatic fibrosis	C562378	Hepatic Fibrosis, Congenital
+HP:0010562	Keloids	D007627	Keloids
+HP:0001112	Leber optic atrophy features	D029242	Neuroretinopathy, Hereditary Optic
+HP:0001370	Rheumatoid arthritis	D001172	Arthritis, Rheumatoid
+HP:0005263	Gastritis	D005756	Gastritides
+HP:0000647	Sclerocornea	C565209	Sclerocornea
+HP:0000787	Renal calculi	D053040	Nephrolithiasis
+HP:0002740	E coli infections, recurrent	D004927	Infection, Escherichia coli
+HP:0011665	Takotsubo cardiomyopathy	D054549	Syndromes, Broken Heart
+HP:0012027	Laryngeal edema	D007819	Laryngeal Edemas
+HP:0100778	Cryoglobulinemia	D003449	Cryoglobulinemias
+HP:0003302	Spondylolithesis	D013168	Spondylolistheses
+HP:0000876	Oligomenorrhea	D009839	Oligomenorrheas
+HP:0030447	Primary small cell carcinoma of the skin	D015266	Tumors, Merkle
+HP:0012317	Sacroiliac arthritis	C563037	Arthritis, Sacroiliac
+HP:0009900	Deafness, unilateral	C567079	Deafness, Unilateral
+HP:0030016	Dyspareunia	D004414	Dyspareunia
+HP:0100827	Lymphocytosis	D008218	Lymphocytoses
+HP:0010769	Pilonidal cyst	D010864	Sinus, Pilonidal
+HP:0001102	Laquer cracks of the retina	D000793	Streaks, Angioid
+HP:0008209	Premature ovarian failure	D008594	Premature Menopause
+HP:0010878	Fetal cystic hygroma	C537852	Nuchal bleb, familial
+HP:0100758	Gangrene	D005734	Gangrenes
+HP:0002583	Colitis	D003092	Colitides
+HP:0030357	Oat cell lung cancer	D055752	Small Cell Lung Carcinoma
+HP:0012121	Panuveitis	D015864	Panuveitis
+HP:0000501	Glaucoma	D005901	Glaucomas
+HP:0030433	Osteoid osteoma	D010017	Osteomas, Osteoid
+HP:0005403	Low T cell count	C536783	T-Lymphocytopenia
+HP:0000206	Glossitis	D005928	Glossitides
+HP:0002896	Liver cancer	D008113	Hepatocellular Cancers
+HP:0000853	Goitre	D006042	Goiters
+HP:0006597	Diaphragmatic paralysis	D012133	Respiratory Muscle Paralysis
+HP:0008682	Renal tubular necrosis	D007683	Nephrosis, Lower Nephron
+HP:0004904	Maturity onset diabetes of the young	C562772	Mason-Type Diabetes
+HP:0011110	Tonsillitis	D014069	Tonsillitides
+HP:0004448	Fulminant hepatic failure	D017114	Liver Failures, Fulminating
+HP:0006519	Alveolar cell carcinoma	D002282	Bronchiolo-Alveolar Carcinoma
+HP:0002014	Diarrhea	D003967	Diarrheas
+HP:0012417	Hypocapnia	D016857	Hypocapnias
+HP:0001889	Megaloblastic anemia	D000749	Megaloblastic Anemia
+HP:0005321	Mandibulofacial dysostosis	D008342	Syndrome, Treacher Collins
+HP:0012167	Trichotillomania	D014256	Trichotillomanias
+HP:0011850	Parotitis	D010309	Parotiditides
+HP:0001095	Hypertensive retinopathy	D058437	Retinopathies, Hypertensive
+HP:0001901	Erythrocytosis	D011086	Erythrocytoses
+HP:0002157	Azotaemia	D053099	Azotemia
+HP:0030009	Incompetent cervix	D002581	Incompetent Cervices
+HP:0002861	Malignant melanoma	D008545	Melanomas, Malignant
+HP:0004820	Acute myelomonocytic leukemia	D015479	Acute Myelomonocytic Leukemia
+HP:0003304	Spondylolysis	D013169	Spondylolyses
+HP:0030151	Cholangitis	D002761	Cholangitides
+HP:0012592	Albuminuria	D000419	Albuminurias
+HP:0002240	Enlarged liver	D006529	Liver, Enlarged
+HP:0000956	Acanthosis nigricans	D000052	Acanthosis Nigrican
+HP:0008751	Laryngotracheal cleft	C537875	Laryngeal cleft
+HP:0005547	Myeloproliferative disorder	D009196	Myeloproliferative Disorder
+HP:0000999	Pyoderma	D011711	Pyodermas
+HP:0100757	Pancreatoblastoma	C537162	Pancreatoblastoma
+HP:0005086	Knee osteoarthritis	D020370	Osteoarthritis Of Knees
+HP:0009373	Type C brachydactyly	C537093	Brachydactyly type C
+HP:0000588	Coloboma of optic nerve	C535970	Coloboma of optic nerve
+HP:0100503	Vitamin B1 deficiency	D013832	Thiamine Deficiencies
+HP:0009771	Acroosteolysis	D030981	Acro Osteolysis
+HP:0100633	Oesophagitis	D004941	Esophagitides
+HP:0200058	Angiosarcoma	D006394	Hemangiosarcomas
+HP:0007968	Persistent hypertrophic primary vitreous	D054514	Persistent Hyaloid Vasculatures
+HP:0005214	Intestinal obstruction	D007415	Obstruction, Intestinal
+HP:0008970	Scapulohumeral muscular dystrophy	C562932	Muscular Dystrophy, Scapulohumeral
+HP:0001155	Abnormal hands	D006226	Deformity, Hand
+HP:0045029	Eosinophilic fasciitis	C562487	Eosinophilic Fasciitis
+HP:0003652	Myoglobinuria, recurrent	C564018	Myoglobinuria, Recurrent
+HP:0005241	Total intestinal aganglionosis	C538058	Aganglionosis, total intestinal
+HP:0012424	Chorioretinitis	D002825	Chorioretinitides
+HP:0010618	Ovarian fibroma	C562391	Ovarian Fibromata
+HP:0012056	Cutaneous melanoma	D008545	Melanomas, Malignant
+HP:0100026	Arteriovenous malformation	D001165	Arteriovenous Malformation
+HP:0005600	Giant pigmented hairy nevus	C536819	Giant pigmented hairy nevus
+HP:0004469	Chronic bronchitis	D029481	Bronchitis, Chronic
+HP:0003674	Age of onset	D017668	Age at Onset
+HP:0000154	Broad mouth	D008265	Macrostomias
+HP:0008459	Cervical vertebrae agenesis	C562952	Cervical Vertebrae, Agenesis Of
+HP:0008158	Hyperapobetalipoproteinemia	D006950	Multiple Lipoprotein-Type Hyperlipidemias
+HP:0000031	Epididymitis	D004823	Epididymitides
+HP:0012329	Tufted hemangioma	C536924	Tufted angioma
+HP:0003005	Ganglioneuroma	D005729	Gangliocytomas
+HP:0100829	Galactorrhoea	D005687	Galactorrheas
+HP:0000556	Retinal dystrophy	D058499	Retinal Dystrophy
+HP:0000217	Reduced salivation	D014987	Dryness, Mouth
+HP:0000221	Plicated tongue	D014063	Furrowed Tongue
+HP:0002104	Apnoea	D001049	Apneas
+HP:0000872	Chronic lymphocytic thyroiditis	D050031	Thyroiditis, Hashimoto
+HP:0005972	Respiratory acidosis	D000142	Respiratory Acidoses
+HP:0012190	T cell lymphoma	D016399	T-Cell Lymphomas
+HP:0000741	Apathy	D057565	Apathy
+HP:0004839	hereditary pyropoikilocytosis	C563004	Pyropoikilocytosis, Hereditary
+HP:0009732	Plexiform neurofibroma	D018318	Pachydermatoceles
+HP:0001541	Ascites	D001201	Ascites
+HP:0005567	Renal magnesium wasting	C537152	Hypomagnesemia 2, renal
+HP:0100724	Thrombophilia	D019851	Thrombophilias
+HP:0100620	Germinoma	D018237	Germinomas
+HP:0100001	Malignant mesothelioma	C562839	Mesothelioma, Malignant
+HP:0100621	Dysgerminoma	D004407	Dysgerminomas
+HP:0011920	Transudative pleural effusion	D006876	Hydrothorax
+HP:0001882	Leukopenia	D007970	Leukocytopenias
+HP:0100607	Dysmenorrhea	D004412	Painful Menstruations
+HP:0006517	Alveolar proteinosis	D011649	Pulmonary Alveolar Proteinosis
+HP:0001128	Trichiasis of eyelid eyelashes	D058457	Trichiases
+HP:0030077	Bronchial neoplasm	D001984	Neoplasm, Bronchial
+HP:0003607	4-Hydroxyphenylacetic aciduria	C535315	4-hydroxyphenylacetic aciduria
+HP:0012268	Myxoid liposarcoma	D018208	Myxoid Liposarcomas
+HP:0100634	Neuroendocrine neoplasia	D018358	Tumors, Neuroendocrine
+HP:0002021	Pyloric stenosis	D011707	Pyloric Stenosis
+HP:0012399	Pressure Sore	D003668	Ulcer, Pressure
+HP:0000995	Nevocellular nevi	D009508	Pigmented Nevus
+HP:0012315	Histiocytoma	D051642	Histiocytomas
+HP:0040184	Oral bleeding	D006472	Oral Hemorrhages
+HP:0003034	Diaphyseal osteosclerosis	D003966	Camurati Engelmann Disease
+HP:0001648	Cor pulmonale	D011660	Pulmonary Heart Disease
+HP:0011516	Rod monochromatism	C536021	Achromatopsia 1
+HP:0005679	Dupuytren contracture	D004387	Dupuytrens Disease
+HP:0001634	Mitral valve prolapse	D008945	Syndrome, Click-Murmur
+HP:0000103	Increased urine output	D011141	Polyurias
+HP:0100608	Metrorrhagia	D008796	Uterine Bleeding, Dysfunctional
+HP:0000147	Polycystic ovary disease	D011085	Sclerocystic Ovary
+HP:0000123	Nephritis	D009393	Nephritides
+HP:0012159	Internal carotid artery dissection	D020215	Carotid Artery, Internal, Dissection
+HP:0010615	Angiofibromas	D018322	Angiofibromas
+HP:0030426	Ossifying fibroma	D018214	Ossifying Fibroma
+HP:0200042	Skin ulcer	D012883	Ulcer, Skin
+HP:0010772	Anomalous pulmonary venous return	D012587	Anomaly, Scimitar
+HP:0011885	Hemorrhage of the eye	D005130	Eye Hemorrhages
+HP:0012077	Histrionic personality disorder	D006677	Personality Disorders, Histrionic
+HP:0002619	Varicose veins	D014648	Varicose Vein
+HP:0000891	Cervical ribs	D057070	Ribs, Cervical
+HP:0000846	Hypoadrenalism	D000309	Adrenal Insufficiencies
+HP:0001087	Congenital glaucoma	D006871	Hydrophthalmos
+HP:0100497	Vitamin B3 deficiency	D010383	Pellagras
+HP:0001059	Pterygium	D011625	Pterygiums
+HP:0011499	Mydriasis	D015878	Mydriasis
+HP:0012085	Pyuria	D011776	Pyurias
+HP:0001683	Ectopia cordis	D054083	Cordis, Ectopia
+HP:0009918	Corectopia	C536185	Ectopia pupillae
+HP:0007404	Nonepidermolytic palmoplantar keratoderma	C563422	Palmoplantar Keratoderma, Nonepidermolytic
+HP:0002249	Melena	D008551	Melenas
+HP:0001972	Macrocytic anemia	D000748	Macrocytic Anemia
+HP:0006765	Chondrosarcoma	D002813	Chondrosarcomas
+HP:0001065	Striae cutis distensae	D057896	Stretch Mark
+HP:0001025	Hives	D014581	Urticarias
+HP:0001139	Choroideremia	D015794	Progressive Tapetochoroidal Dystrophies
+HP:0007565	Multiple cafe-au-lait spots	C537421	Cafe au lait spots, multiple
+HP:0002777	Tracheal stenosis	D014135	Tracheal Stenoses
+HP:0001096	Keratoconjunctivitis	D007637	Keratoconjunctivitides
+HP:0000912	Sprengel deformity	C535802	Sprengel deformity
+HP:0007868	Senile macular degeneration	C562479	Macular Degeneration, Age-Related, 2
+HP:0011887	Choroidal Hemorrhage	D002832	Hemorrhage, Choroidal
+HP:0100576	Amaurosis fugax	D020757	Transient Monocular Blindness
+HP:0002821	Neuropathic arthropathy	D001177	Neurogenic Arthropathy
+HP:0001101	Iritis	D007500	Iritides
+HP:0011504	Bull's eye maculopathy	C537833	Macular dystrophy, concentric annular
+HP:0010960	Bronchopulmonary sequestration	D001998	Bronchopulmonary Sequestration
+HP:0000735	Poor social interactions	D000067404	Communication Disorder, Pragmatic
+HP:0002592	Stomach ulcer	D013276	Ulcer, Gastric
+HP:0001929	Reduced factor XI activity	D005173	Syndrome, Rosenthal's
+HP:0005798	Posterior radial head dislocation	C566728	Radial Heads, Posterior Dislocation Of
+HP:0011567	Sinus venosus atrial septal defect	C548009	Atrial Septal Defect Sinus Venosus
+HP:0010992	Stress urinary incontinence	D014550	Stress Incontinence, Urinary
+HP:0040175	Platelet-activating factor acetylhydrolase deficiency	C566640	Platelet-Activating Factor Acetylhydrolase Deficiency
+HP:0100777	Exostoses	D005096	Exostoses
+HP:0007976	Cataracts, congenital, cerulean	C537955	Cerulean cataract
+HP:0012461	Bacteriuria	D001437	Bacteriurias
+HP:0000746	Delusions	D003702	Delusion
+HP:0004540	Congenital generalized hypertrichosis	C538388	Hypertrichosis congenital generalized X-linked
+HP:0012219	Erythema nodosum	D004893	Erythema Nodosum
+HP:0100844	Pancreatic fistula	D010185	Fistula, Pancreatic
+HP:0006837	Congenital Horner syndrome	C564178	Horner Syndrome, Congenital
+HP:0008660	Renal tubular dysgenesis	C537048	Allanson Pantzar McLeod syndrome
+HP:0100027	Recurring pancreatitis	D050500	Pancreatitis, Chronic
+HP:0100519	Anuria	D001002	Anurias
+HP:0009372	Type A2 brachydactyly	C537089	Brachydactyly type A2
+HP:0004380	Aortic valve calcification	C562942	Aortic Valve, Calcification of
+HP:0005428	Severe recurrent varicella	C563458	Varicella, Severe Recurrent
+HP:0100647	Morbus Basedow	D006111	Disease, Graves
+HP:0002343	Normal-pressure hydrocephalus	D006850	Hakims Syndrome
+HP:0030358	Non-small cell lung cancer	D002289	Non-Small-Cell Lung Carcinomas
+HP:0002018	Nausea	D009325	Nausea
+HP:0001959	Polydipsia	D059606	Polydipsias
+HP:0000706	Unerupted tooth	D014097	Unerupted Tooth
+HP:0030403	Spontaneous platelet aggregation	C566800	Platelet Aggregation, Spontaneous
+HP:0010943	Echogenic bowel	D058535	Hyperechogenic Bowels
+HP:0030666	Retinal neovascularisation	D015861	Retinal Neovascularization
+HP:0002110	Bronchiectasis	D001987	Bronchiectases
+HP:0012076	Borderline personality disorder	D001883	Personality Disorders, Borderline
+HP:0000573	Retinal hemorrhages	D012166	Retinal Hemorrhages
+HP:0000158	Tongue hypertrophy	D008260	Macroglossias
+HP:0002185	Neurofibrillary tangles composed of disordered microtubules in neurons	D016874	Neurofibrillary Tangle
+HP:0001650	Aortic stenosis	D001024	Stenosis, Aortic Valve
+HP:0000388	Otitis media	D010033	Inflammation, Middle Ear
+HP:0100245	Desmoid tumors	D018222	Aggressive Fibromatosis
+HP:0000843	Hyperparathyroidism	D006961	Hyperparathyroidism
+HP:0002558	Accessory nipple	C562557	Polythelia, Familial
+HP:0001342	Intracerebral hemorrhage	D002543	Intracerebral Hemorrhages
+HP:0003510	Short stature, severe	D004392	Dwarfism
+HP:0100769	Synovitis	D013585	Synovitides
+HP:0200064	Asymmetry of iris pigmentation	C538115	Heterochromia iridis
+HP:0001706	Endocardial fibroelastosis	D004695	Fibroelastosis, Endocardial
+HP:0002974	Fused forearm bones	C562408	Radioulnar Synostosis
+HP:0004320	Vaginal fistula	D014624	Vaginal Fistulas
+HP:0001396	Cholestasis	D002779	Stasis, Biliary
+HP:0010636	Schizencephaly	D065707	Schizencephalic Clefts
+HP:0001838	Rocker bottom feet	C536345	Vertical talus, congenital
+HP:0012291	obsolete Tracheal neoplasm	D014134	Tracheal Neoplasm
+HP:0002913	Myoglobinuria	D009212	Myoglobinurias
+HP:0002979	Bowed legs	D056305	Leg, Bow
+HP:0000840	Adrenogenital syndrome	D047808	Syndrome, Adrenogenital
+HP:0002789	Increased respiratory rate or depth of breathing	D059246	Tachypneas
+HP:0100255	Metaphyseal dysplasia	C536252	Pyle disease
+HP:0010534	Transient global amnesia	D020236	TGAs (Transient Global Amnesia)
+HP:0100813	Spermatic cord torsion	D013086	Torsion, Spermatic Cord
+HP:0011886	Hyphema	D006988	Hyphemas
+HP:0003239	Phosphoethanolaminuria	C562646	Hypophosphatasia, Infantile
+HP:0004905	Vitamin A deficiency	D014802	Vitamin A Deficiencies
+HP:0006779	Alveolar rhabdomyosarcoma	D018232	Alveolar Rhabdomyosarcoma
+HP:0100898	Connective tissue nevi	C562737	Connective Tissue Nevus
+HP:0002043	Esophageal stricture	D004940	Stricture, Esophageal
+HP:0003075	Hypoproteinemia	D007019	Hypoproteinemias
+HP:0001718	Mitral valve stenosis	D008946	Stenosis, Mitral
+HP:0002633	Vasculitis	D014657	Vasculitides
+HP:0004934	Vascular calcification	D061205	Vascular Calcinoses
+HP:0000508	Eyelid ptosis	D001763	Ptoses, Eyelid
+HP:0007570	Flegel disease	C538377	Hyperkeratosis lenticularis perstans
+HP:0009054	Scapuloperoneal myopathy	C536624	Scapuloperoneal myopathy
+HP:0011662	Tricuspid atresia	D018785	Valve Atresias, Tricuspid
+HP:0009798	Euthyroid goiter	C562732	Euthyroid Goiter
+HP:0007185	Loss of consciousness	D014474	Unconscious States
+HP:0001923	Increased reticulocyte count	D045262	Reticulocytoses
+HP:0011703	Sinus tachycardia	D013616	Tachycardias, Sinus
+HP:0003040	Arthropathy	D007592	Joint Disease
+HP:0001010	Hypopigmentation	D017496	Hypomelanoses
+HP:0000953	Increased skin pigmentation	D017495	Hypermelanoses
+HP:0002131	Paroxysmal ataxia	C580065	Episodic Ataxia
+HP:0000016	Increased post-void residual urine volume	D016055	Retention, Urinary
+HP:0002665	Lymphoma	D008223	Malignant Lymphoma
+HP:0010516	Thymus hyperplasia	D013952	Hyperplasias, Thymic
+HP:0100598	Pulmonary oedema	D011654	Wet Lungs
+HP:0004387	Enterocolitis	D004760	Enterocolitides
+HP:0009760	Pterygium cubitale	C566738	Pterygium, Antecubital
+HP:0100646	Thyroiditis	D013966	Thyroiditides
+HP:0030365	Vaginal birth after Caesarian	D016064	Vaginal Birth after Cesarean
+HP:0002930	Resistance to thyroid hormone	D018382	Syndrome, Refetoff-DeWind-DeGroot
+HP:0000546	Retinal degeneration	D012162	Retinal Degenerations
+HP:0003987	Fractured ulna	D014458	Fracture, Ulna
+HP:0007716	Uveal melanoma	C536494	Uveal melanoma
+HP:0006527	Lymphoid interstitial pneumonitis	C562489	Lymphoid Interstitial Pneumonia
+HP:0000705	Amelogenesis imperfecta	D000567	Amelogenesis Imperfecta
+HP:0000405	Hearing loss, conductive	D006314	Hearing Loss, Conductive
+HP:0007544	Piebaldism	D016116	Partial Albinism
+HP:0001019	Generalized erythrodermia	D003873	Exfoliative Dermatitis
+HP:0000585	Calcific band keratopathy	C562399	Corneal Dystrophy, Band-Shaped
+HP:0012803	Anisometropia	D015858	Anisometropia
+HP:0010926	Frosted cataract	C566162	Cataract, Crystalline Aculeiform
+HP:0000020	Bladder incontinence	D014549	Incontinence, Urinary
+HP:0030011	Imperforate hymen	C562397	Hymen, Imperforate
+HP:0004953	Abdominal aortic aneurysm	D017544	Aortic Aneurysms, Abdominal
+HP:0100502	Vitamin B12 deficiency	D014806	Vitamin B12 Deficiencies
+HP:0000798	Oligospermia	D009845	Sperm Counts, Low
+HP:0007850	Retinal vascular proliferation	D015861	Retinal Neovascularization
+HP:0006747	Ganglioneuroblastoma	D018305	Ganglioneuroblastomas
+HP:0005973	Fructose intolerance	D005633	Fructosemias
+HP:0001304	Dystonia musculorum deformans	D004422	Torsion Disease, Childhood
+HP:0012316	Fibrous tissue neoplasm	D018218	Neoplasm, Fibrous Tissue
+HP:0001667	Right ventricular hypertrophy	D017380	Ventricular Hypertrophies, Right
+HP:0000563	Keratoconus	D007640	Keratoconus
+HP:0010474	Bladder stones	D001744	Urinary Bladder Stone
+HP:0001254	Lethargy	D053609	Lethargy
+HP:0006315	Single central upper incisor	C537342	Single upper central incisor
+HP:0000476	Cystic hygroma of the neck	D018191	Hygroma Colli, Cystic
+HP:0001659	Aortic valve regurgitation	D001022	Regurgitation, Aortic
+HP:0012265	Ciliary dyskinesia	D002925	Syndromes, Immotile Cilia
+HP:0100244	Fibrosarcoma	D005354	Fibrosarcomas
+HP:0000717	Autism	D001321	Disorders, Autistic
+HP:0000581	Narrow palpebral fissures	D016569	Blepharophimoses
+HP:0008069	Skin tumors	D012878	Cancer, Skin
+HP:0002999	Dislocated patellae	D031222	Patellar Dislocations
+HP:0001935	Microcytic anemia	C562385	Iron-Refractory Iron Deficiency Anemia
+HP:0005313	Arterial fibromuscular dysplasia	D005352	Dysplasia, Fibromuscular
+HP:0004845	Acute monoblastic leukemia	D007948	Acute Monocytic Leukemia
+HP:0003343	Glutathione synthetase deficiency	C536835	Glutathione synthetase deficiency
+HP:0002516	Intracranial pressure elevation	D019586	ICP, Elevated (Intracranial Pressure)
+HP:0000802	Erectile dysfunction	D007172	Impotence, Male
+HP:0000362	Otosclerosis	D010040	Otospongioses
+HP:0002859	Rhabdomyosarcoma	D012208	Rhabdomyosarcomas
+HP:0100746	Macrodactyly (hands)	C537720	Macrodactyly of the hand
+HP:0011919	Pyothorax	D016724	Thoracic Empyemas
+HP:0100710	Impulsivity	D007175	Impulsivities
+HP:0100510	Vitamin C deficiency	D001206	Vitamin C Deficiencies
+HP:0011999	Paranoia	D010259	Paranoid Disorder
+HP:0012170	Onychophagy	D009259	Biting, Nail
+HP:0000980	Pallor	D010167	Pallors
+HP:0005550	Chronic lymphocytic leukemia	D015451	Lymphocytic Leukemias, Chronic
+HP:0009741	Nephrosclerosis	D009400	Nephroscleroses
+HP:0040142	5-oxoprolinase deficiency	C535322	5-oxoprolinase deficiency
+HP:0012175	Activated protein C resistance	D020016	Resistance, APC
+HP:0001798	Absent nails	C536377	Anonychia congenita
+HP:0030673	Erosive vitreoretinopathy	C536075	Hyaloideoretinal degeneration of Wagner
+HP:0010566	Hamartoma	D006222	Hamartomas
+HP:0000616	pupillary constriction	D015877	Small Pupils
+HP:0012191	B cell lymphoma	D016393	Lymphomas, B-Cell
+HP:0007607	Hypohidrotic ectodermal dysplasia	D053358	Syndromes, CST
+HP:0000201	Pierre Robin sequence	D010855	Sequence, Robin
+HP:0004321	Bladder fistula	D001747	Urinary Bladder Fistulas
+HP:0002153	Hyperkalemia	D006947	Hyperpotassemias
+HP:0100014	Premacular fibrosis	D019773	Membranes, Epiretinal
+HP:0001987	Hyperammonemia	D022124	Hyperammonemia
+HP:0002148	Hypophosphataemia	D017674	Hypophosphatemias
+HP:0012723	Sinoatrial block	D012848	Sinoatrial Exit Blocks
+HP:0011467	Agenesis of the gallbladder	C562564	Gallbladder, Agenesis Of
+HP:0000160	Microstomia	D008865	Microstomias
+HP:0030410	Sebaceous carcinoma	D018266	Sebaceous Adenocarcinoma
+HP:0001950	Respiratory alkalosis	D000472	Respiratory Alkaloses
+HP:0012151	Hemothorax	D006491	Hemothorax
+HP:0002149	Hyperuricaemia	D033461	Hyperuricemia
+HP:0005203	Spontaneous esophageal rupture	C536571	Boerhaave syndrome
+HP:0001664	Torsades de pointes	D016171	Pointes, Torsades de
+HP:0001627	Abnormality of cardiac morphology	D006330	Heart Abnormality
+HP:0000526	Aniridia	D015783	Aniridia
+HP:0011841	Ventricular flutter	D054141	Ventricular Flutters
+HP:0005534	Transient myeloproliferative syndrome	C563551	Myeloproliferative Syndrome, Transient
+HP:0004433	Secretory IgA deficiency	C562869	Secretory Component Deficiency
+HP:0000679	Taurodontism	C536946	Taurodontism
+HP:0100718	Uterine rupture	D014597	Uterine Ruptures
+HP:0005145	Coronary artery stenosis	D023921	Stenosis, Coronary Artery
+HP:0000488	Retinopathy	D012164	Retinal Disease
+HP:0008181	Abetalipoproteinemia	D000012	Acanthocytoses
+HP:0008211	Parathyroid aplasia	C563238	Parathyroid Glands, Agenesis Of
+HP:0100845	Anaphylactic shock	D000707	Reactions, Anaphylactic
+HP:0005901	Chronic recurrent multifocal osteomyelitis	C535456	Chronic recurrent multifocal osteomyelitis
+HP:0030068	Olfactory esthesioneuroblastoma	D018304	Esthesioneuroblastoma, Paranasal Sinus Nasal Cavity
+HP:0001199	Triphalangeal thumbs	C573898	Triphalangeal Thumb
+HP:0010310	Chylothorax	D002916	Chylothorax
+HP:0012732	Anorectal anomaly	C567938	Anorectal Anomalies
+HP:0001948	Alkalosis	D000471	Alkaloses
+HP:0012237	Urocanic aciduria	C536479	Urocanase deficiency
+HP:0005543	Protein C deficiency	D020151	Protein C Deficiencies
+HP:0100600	Prepenile scrotum	C536650	Penoscrotal transposition
+HP:0040113	Presbycusis	D011304	Presbycuses
+HP:0007455	Adermatoglyphia	C565010	Fingerprints, Absence of
+HP:0012005	Deja vu	D003690	Vu, Deja
+HP:0012797	Lymphatic vessel neoplasm	D018190	Tumors, Lymphatic Vessel
+HP:0012123	Posterior uveitis	D015866	Posterior Uveitis
+HP:0002203	Respiratory paralysis	D012133	Respiratory Muscle Paralysis
+HP:0002094	Dyspnea	D004417	Breathlessnesses
+HP:0000873	Diabetes insipidus	D003919	Diabetes Insipidus
+HP:0008291	Corticotropin-secreting pituitary adenoma	D049913	Adenomas, Corticotroph
+HP:0003363	Situs inversus visceralis	D012857	Inversus, Situs
+HP:0030149	Cardiovascular shock	D012770	Cardiogenic Shock
+HP:0011533	Snowflake retinal degeneration	C536677	Snowflake vitreoretinal degeneration
+HP:0005725	Nonopposable triphalangeal thumb	C536562	Triphalangeal thumb non opposable
+HP:0000485	Anterior megalophthalmos	C562829	Megalocornea
+HP:0030075	Ductal carcinoma in situ	D002285	Noninfiltrating Intraductal Carcinomas
+HP:0001651	Thoracic situs inversus	D003914	Dextrocardias
+HP:0010739	Osteopoikilosis	D010023	Osteopoikiloses
+HP:0010450	Esophageal stenosis	D004940	Stricture, Esophageal
+HP:0100263	Distal symphalangism	C566099	Symphalangism, Distal
+HP:0011945	Cryptogenic organizing pneumonia	D018549	Pneumonias, Cryptogenic Organizing
+HP:0012184	Hyperalphalipoproteinemia	C564591	Cholesteryl Ester Transfer Protein Deficiency
+HP:0040192	amine precursor uptake and decarboxylation tumours	D001079	Apudomas
+HP:0006000	Ureteral obstruction	D014517	Ureteral Obstructions
+HP:0007728	Congenital miosis	C537550	Microcoria, congenital
+HP:0001321	Hypoplastic cerebellum	C562568	Cerebellar Hypoplasia
+HP:0000643	Eyelid spasm	D001764	Blepharospasms
+HP:0004099	Finger overgrowth	C562546	Megalodactyly
+HP:0001006	Hypotrichosis, infantile	D007039	Hypotrichoses
+HP:0009110	Diaphragmatic eventration	D003965	Diaphragm Eventration
+HP:0012328	Cementoma	D002485	Cementomas
+HP:0006682	Premature ventricular contractions	D018879	Ventricular Extrasystoles
+HP:0010762	Chordoma	D002817	Chordomas
+HP:0010770	Pilonidal fistula	D010864	Sinus, Pilonidal
+HP:0100796	Orchitis	D009920	Orchitides
+HP:0010896	Hypersarcosinemia	C537236	Sarcosinemia
+HP:0002576	Intussusception	D007443	Invaginations, Intestinal
+HP:0002578	Gastroparesis	D018589	Stasis, Gastric
+HP:0100513	Vitamin E deficiency	D014811	Vitamin E Deficiencies
+HP:0000070	Ureterocele	D014518	Ureteroceles
+HP:0012410	Red cell aplasia	D012010	Aplasia, Erythrocyte
+HP:0002797	Osteolytic defects of bones	D010014	Osteolyses
+HP:0003978	Fractured radius	D011885	Fracture, Radius
+HP:0002720	Decreased IgA	D017098	IgA Deficiencies
+HP:0011496	Corneal neovascularisation	D016510	Angiogenesis, Corneal
+HP:0011779	Anaplastic thyroid carcinoma	D065646	Anaplastic Thyroid Carcinoma
+HP:0012735	Coughing	D003371	Coughs
+HP:0006511	Laryngeal stidor	D007826	Spasm, Laryngeal
+HP:0001891	Iron-deficiency anemia	D018798	Iron Deficiency Anemia
+HP:0005994	Nodular goiter	D006044	Nodular Goiters
+HP:0012309	Cutaneous amyloidosis	C562642	Amyloidosis, Primary Cutaneous
+HP:0000421	nose bleeding	D004844	Nasal Bleedings
+HP:0005863	Type E brachydactyly	C566194	Brachydactyly, Type E
+HP:0008335	Renal aminoaciduria	D000608	Aminoacidurias, Renal
+HP:0030074	Chemodectomas	D002345	Tumor, Carotid Body
+HP:0009796	Branchial cysts	D001935	Cysts, Branchial Cleft
+HP:0100264	Proximal symphalangism	C536223	Cushing's symphalangism
+HP:0002634	Arteriosclerosis	D001161	Arterioscleroses
+HP:0100528	Pleuropulmonary blastoma	C537516	Pleuropulmonary blastoma
+HP:0010906	Histidinemia	C538320	Histidinemia
+HP:0100808	Stomach diverticulum	D013273	Diverticula, Gastric
+HP:0012197	Insulinoma	D007340	beta-Cell Adenoma
+HP:0100582	Nasal polyps	D009298	Polyp, Nasal
+HP:0011604	Aortopulmonary window	D001028	Aortopulmonary Septal Defect
+HP:0100727	Histiocytosis	D015614	Histiocytoses
+HP:0100523	Hepatic abscess	D008100	Abscess, Liver
+HP:0030424	Epididymal cysts	D013088	Epididymal Cysts
+HP:0002884	Hepatoblastoma	D018197	Hepatoblastomas
+HP:0002242	Enteropathy	D007410	Intestinal Disease
+HP:0000826	Precocious puberty	D011629	Puberty, Precocious
+HP:0005449	Bridged sella turcica	C566689	Sella Turcica, Bridged
+HP:0002083	Migraine without aura	D020326	Migraines, Common
+HP:0006280	Chronic pancreatitis	D050500	Pancreatitis, Chronic
+HP:0045041	Lactate dehydrogenase B deficiency	C563641	Lactate Dehydrogenase B Deficiency
+HP:0030404	Glucagonoma	D005935	Syndromes, Glucagonoma
+HP:0012876	Premature ejaculation	D061686	Ejaculation, Premature
+HP:0006743	Embryonal rhabdomyosarcoma	D018233	Embryonal Rhabdomyosarcoma
+HP:0003614	Trimethylaminuria	C536561	Trimethylaminuria
+HP:0002219	Facial hypertrichosis	C565029	Facial Hypertrichosis
+HP:0008250	Infantile hypercalcemia	C562999	Hypercalcemia, Infantile
+HP:0001343	Kernicterus	D007647	Hyperbilirubinemic Encephalopathies
+HP:0000316	Widened interpupillary distance	D006972	Hypertelorisms
+HP:0002102	Pleurisy	D010998	Pleuritides
+HP:0000964	Eczema	D004485	Eczematous Dermatitis
+HP:0004324	Increased body weight	D015430	Gain, Weight
+HP:0100588	Paraphimosis	D010263	Paraphimoses
+HP:0100537	Fasciitis	D005208	Fascitides
+HP:0002902	Hyponatremia	D007010	Hyponatremias
+HP:0100774	Bone Hypertrophy	D015576	Hypertrophy, Bone
+HP:0000246	Sinusitis	D012852	Sinusitides
+HP:0004942	Aortic aneurysm	D001014	Aortic Aneurysms
+HP:0000973	Skin laxity	D003483	Dermatolyses
+HP:0001116	Macular coloboma	C535968	Hereditary macular coloboma
+HP:0100551	Tracheal neoplasm	D014134	Tracheal Neoplasm
+HP:0011088	Dens in dente	D003719	in Dentes, Dens
+HP:0004840	Hypochromic, microcytic anemia	C536357	Anemia, hypochromic microcytic
+HP:0002786	Tracheobronchomalacia	D055089	Williams Campbell Syndrome
+HP:0004836	Acute promyelocytic leukemia	D015473	ANLL, M3
+HP:0005526	Lymphoid leukemia	D007945	Lymphocytic Leukemias
+HP:0011716	Junctional ectopic tachycardia	D013613	Tachycardias, Junctional Ectopic
+HP:0000034	Testicular hydrocele	D006848	Vaginal Hydroceles
+HP:0002013	Emesis	D014839	Vomiting
+HP:0001639	Cardiomyopathy, hypertrophic	D002312	Hypertrophic Obstructive Cardiomyopathy
+HP:0001655	Patent foramen ovale	D054092	Oval Foramen, Patent
+HP:0002305	Athetoid movements	D001264	Diseases, Hammond's
+HP:0001888	Lymphocytopenia	D008231	Lymphopenias
+HP:0002229	Alopecia areata	D000506	Alopecia Areata
+HP:0000557	Buphthalmos	D006871	Hydrophthalmos
+HP:0000989	pruritis	D011537	Pruritus
+HP:0004383	Hypoplastic left heart	D018636	Hypoplastic Left Heart Syndrome
+HP:0002580	Volvulus	D045822	Volvulus, Intestinal
+HP:0011450	CNS infection	D002494	Central Nervous System Infections
+HP:0002657	Spondylometaphyseal dysplasia	C537501	Strudwick syndrome
+HP:0002497	Spastic ataxia	C564815	Spastic Ataxia
+HP:0000820	Thyroid abnormality	D013959	Thyroid Disease
+HP:0006706	Cystic liver disease	C536330	Polycystic liver disease
+HP:0001704	Tricuspid valve prolapse	D014263	Valve Prolapses, Tricuspid
+HP:0002566	Malrotation	C562456	Volvulus Of Midgut
+HP:0100822	Rectocele	D020047	Rectoceles
+HP:0001177	thumb polydactyly	C536332	Polydactyly preaxial type 1
+HP:0011331	Shrinking of half of face	D005150	Parry Romberg Disease
+HP:0100606	Neoplasm of the respiratory system	D012142	Tract Neoplasms, Respiratory
+HP:0010945	Fetal renal pelvic dilatation	D058536	Pyelectasis, Fetal
+HP:0002105	Hemoptysis	D006469	Hemoptyses
+HP:0100749	Thoracic pain	D002637	Pains, Chest
+HP:0000540	Farsightedness	D006956	Hyperopia
+HP:0000015	Bladder diverticula	C562406	Bladder Diverticulum
+HP:0000756	Agoraphobia	D000379	Agoraphobias
+HP:0000153	Abnormal mouth	D009056	Mouth Abnormality
+HP:0005293	Venous insufficiency	D014689	Insufficiency, Venous
+HP:0000871	Panhypopituitarism	C580003	Combined Pituitary Hormone Deficiency
+HP:0000113	Polycystic kidneys	D007690	Renal Diseases, Polycystic
+HP:0004496	Posterior choanal atresia	C562435	Choanal Atresia, Posterior
+HP:0012653	Acute severe asthma	D013224	Shocks, Asthmatic
+HP:0002595	Ileus	D045823	Ileus
+HP:0000961	Cyanosis	D003490	Cyanoses
+HP:0001716	Wolff-Parkinson-White syndrome	D014927	Wolff Parkinson White Syndrome
+HP:0010891	Calve disease	D012544	Scheuermann Juvenile Kyphoses
+HP:0001425	Heterogeneity	D018740	Heterogeneities, Genetic
+HP:0007410	Hyperhidrosis of palms and soles	C563185	Hyperhidrosis Palmaris Et Plantaris
+HP:0100252	Diaphyseal dysplasia	D003966	Camurati Engelmann Disease
+HP:0002780	Bronchomalacia	D055091	Bronchi Chondromalacia
+HP:0003651	Presence of foam cells	D005487	Foam Cell
+HP:0030430	Neuroma	D009463	Neuromas
+HP:0003131	Cystinuria	D003555	Cystinurias
+HP:0001406	Intrahepatic cholestasis	D002780	Intrahepatic Cholestases
+HP:0100665	Quincke edema	D000799	Giant Urticaria
+HP:0004395	Malnutrition	D044342	Nutritional Deficiencies
+HP:0001399	Liver failure	D017093	Liver Failure
+HP:0030683	Vaginitis	D014627	Vaginitides
+HP:0005758	Basilar impression	D010985	Impression, Basilar
+HP:0100628	Esophageal pouch	D004936	Diverticulum, Esophageal
+HP:0000819	Diabetes mellitus	D003920	Diabetes Mellitus
+HP:0011622	Type 3 ventricular septal defect	C535974	Complete atrioventricular septal defect
+HP:0100559	Lower limb asymmetry	D007870	Inequality, Leg Length
+HP:0005575	Hemolytic uremic syndrome	D006463	Syndrome, Hemolytic-Uremic
+HP:0010442	Polydactyly	D017689	Polydactylisms
+HP:0100730	Bronchogenic cyst	D001994	Cysts, Bronchogenic
+HP:0012710	Ingrown nail	D009263	Ingrown Nail
+HP:0000121	Nephrocalcinosis	D009397	Nephrocalcinoses
+HP:0100495	Mastocytosis	D008415	Mastocytoses
+HP:0001166	Long slender fingers	D054119	Arachnodactylies
+HP:0001636	Tetrology of fallot	D013771	Tetralogy, Fallot
+HP:0002570	Steatorrhea	D045602	Steatorrhea
+HP:0006516	Hypersensitivity pneumonitis	D000542	Extrinsic Allergic Alveolitis
+HP:0002202	Pleural effusion	D010996	Pleural Effusions
+HP:0000410	Hearing loss, mixed	D046089	Losses, Mixed Hearing
+HP:0012538	Gluten intolerance	D002446	Enteropathies, Gluten-Sensitive
+HP:0000093	Proteinuria	D011507	Proteinurias
+HP:0005101	High-frequency deafness	D006316	High-Frequency Hearing Loss
+HP:0100507	Vitamin B9 deficiency	D005494	Folic Acid Deficiencies
+HP:0005505	Refractory anemia	D000753	Refractory Anemias
+HP:0002126	Polymicrogyria	D065706	Polymicrogyrias, Cerebral
+HP:0003201	Rhabdomyolysis	D012206	Rhabdomyolyses
+HP:0012570	Synovial sarcoma	D013584	Synovial Sarcoma
+HP:0003193	Allergic rhinitis	D065631	Allergic Rhinitides
+HP:0003763	Bruxism	D002012	Grinding Disorders, Teeth
+HP:0006789	Mitochondrial encephalopathy	C538525	Mitochondrial encephalopathy
+HP:0004375	Tumor of the nervous system	D009423	Tumors, Nervous System
+HP:0002748	Rickets	D012279	Rachitides
+HP:0012068	Aspartylglucosaminuria	D054880	AGA Deficiencies
+HP:0004809	Neonatal alloimmune thrombocytopenia	D054098	Neonatal Alloimmune Thrombocytopenias
+HP:0007188	Congenital facial diplegia	C531747	Congenital facial diplegia
+HP:0001663	Ventricular fibrillation	D014693	Fibrillation, Ventricular
+HP:0000957	Cafe-au-lait macules	D019080	Spots, Cafe-au-Lait
+HP:0005266	Intestinal polyp	D007417	Polyps, Intestinal
+HP:0012035	Steatocystoma multiplex	D062685	Steatocystoma, Multiplex
+HP:0007947	Pericentral retinitis pigmentosa	C564838	Retinopathy, Pericentral Pigmentary, Autosomal Recessive
+HP:0002150	Hypercalcinuria	D053565	Hypercalciuria
+HP:0100673	Vaginal hydrocele	D006848	Vaginal Hydroceles
+HP:0001278	Postural hypotension	D007024	Postural Hypotension
+HP:0012334	Extrahepatic cholestasis	D001651	Extrahepatic Biliary Stasis
+HP:0100742	Vascular neoplasm	D019043	Vascular Neoplasm
+HP:0012426	Optic disc drusen	D015594	Optic Disk Drusens
+HP:0010920	Zonular cataract	C535342	Cataract, zonular
+HP:0009927	Absent nose	C537438	Arrhinia
+HP:0000027	Azoospermia	D053713	Azoospermia
+HP:0000100	Nephrosis	D009404	Syndrome, Nephrotic
+HP:0012115	Liver inflammation	D006505	Hepatitides
+HP:0002313	Spastic paraparesis	D020336	Spastic Parapareses
+HP:0006702	Spontaneous coronary artery dissection	C565153	Coronary Artery Dissection, Spontaneous
+HP:0030078	Lung adenocarcinoma	C538231	Adenocarcinoma of lung
+HP:0000568	Microphthalmos	D008850	Microphthalmos
+HP:0000143	Rectovaginal fistula	D012006	Fistula, Rectovaginal
+HP:0005206	Pancreatic pseudocyst	D010192	Pseudocysts, Pancreatic
+HP:0002857	Knock knees	D056304	Knees, Knock
+HP:0001052	port-wine stain	D019339	Stains, Port-Wine
+HP:0001909	Leukemia	D007938	Leucocythemias
+HP:0012223	Ruptured spleen	D013161	Splenic Ruptures
+HP:0009013	Congenital absence of gluteal muscles	C535561	Congenital absence of gluteal muscles
+HP:0004976	Knee dislocations	D031221	Dislocation, Knee
+HP:0002865	Medullary thyroid carcinoma	C536914	Thyroid cancer, medullary
+HP:0000699	Diastema	D003970	Diastemas
+HP:0011349	Abducens palsy	C564661	Abducens Palsy
+HP:0000867	Secondary hyperparathyroidism	D006962	Secondary Hyperparathyroidisms
+HP:0000998	Hypertrichosis	D006983	Hypertrichoses
+HP:0004756	Ventricular tachycardia	D017180	Ventricular Tachycardias
+HP:0006554	Acute liver failure	D017114	Liver Failures, Fulminating
+HP:0009037	Segmental spinal muscular atrophy	C566670	Spinal Muscular Atrophy, Segmental
+HP:0007973	Retinal dysgenesis	D015792	Retinal Dysplasias
+HP:0010312	Asymmetry of the breasts	C565299	Anisomastia
+HP:0010910	Hypervalinemia	C536524	Valinemia
+HP:0009069	Lethal infantile mitochondrial myopathy	C564017	Myopathy, Mitochondrial, Lethal Infantile
+HP:0011072	Rootless teeth	C538215	Dentin dysplasia, type 1
+HP:0000265	Mastoiditis	D008417	Mastoiditides
+HP:0006536	Obstructive lung disease	D008173	Pulmonary Diseases, Obstructive
+HP:0003777	flattened and twisted hair	C562485	Pili Torti
+HP:0030160	Uterine cervicitis	D002575	Uterine Cervicitides
+HP:0001491	Congenital ophthalmoplegia	C580012	Congenital Fibrosis of the Extraocular Muscles
+HP:0012452	Restless legs	D012148	Syndrome, Restless Leg
+HP:0000483	Astigmatism	D001251	Astigmatism
+HP:0005110	Atrial fibrillation	D001281	Fibrillation, Auricular
+HP:0001733	Pancreatitis	D010195	Pancreatitides
+HP:0011986	Heterotopic ossification	D009999	Pathological Ossification
+HP:0011782	Thyroid crisis	D013958	Storm, Thyroid

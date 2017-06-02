@@ -1,0 +1,21 @@
+# File disease-phenotype annotation:
+	en_product4_HPO.xml 
+# Download URL:
+	http://www.orphadata.org/cgi-bin/inc/product4.inc.php
+# Date:
+	Apr 11, 2017
+
+# File disease-gene annotation:
+	en_product6.xml
+# Download URL:
+	http://www.orphadata.org/cgi-bin/inc/product6.inc.php
+# Date:
+	Apr 11, 2017
+
+# File diseases-xref:
+	en_product1.xml	
+# Download URL:
+	http://www.orphadata.org/cgi-bin/inc/product1.inc.php
+Date: 
+	Feb 22, 2017
+

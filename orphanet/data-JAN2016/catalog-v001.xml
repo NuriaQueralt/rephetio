@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1480963127880" name="http://purl.obolibrary.org/obo/doid.owl" uri="doid.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1480963127880" name="http://purl.obolibrary.org/obo/hp.owl" uri="hp.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1480963127880" name="http://purl.obolibrary.org/obo/upheno/mondo.owl" uri="mondo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1480963127880" name="http://www.orpha.net/ontology/orphanet.owl" uri="orphadata.owl"/>
+    </group>
+</catalog>

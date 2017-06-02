@@ -1,0 +1,6 @@
+From do, "xref" mappings DO to Orphanet:
+orphanet_orpha: 2383; do_orpha: 618 OrphaNumbers
+mapped: 241
+mapped: ['Orphanet:2322', 'Orphanet:3463', 'Orphanet:614', 'Orphanet:506']
+not mapped: 2142
+not mapped: ['Orphanet:3380', 'Orphanet:280785', 'Orphanet:3130', 'Orphanet:1092']
