@@ -1,0 +1,301 @@
+doid_id,drugbank_id,disease,drug,drug_qid
+DOID:9119,,acute myeloid leukemia,Zosuquidar trihydrochloride,Q27269191
+DOID:0060061,DB08870,cutaneos tcell lymphoma,Brentuximab vedotin,Q422324
+DOID:8552,DB06616,chronic myeloid leukemia,Bosutinib,Q894611
+DOID:9952,DB09052,acute lymphoblastic leukemia,Blinatumomab,Q410189
+DOID:1270,DB00112,hereditary hemorrhagic telangiectasia,Bevacizumab,Q413299
+DOID:10584,,retinitis pigmentosa,Myriocin,Q6948247
+DOID:1485,DB08820,cystic fibrosis,"N-(2,4-Di-tert-butyl-5-hydroxyphenyl)-1,4-dihydro-4-oxoquinoline-3-carboxamide",Q6095693
+DOID:9268,,nonketotic hyperglycinemia,"Benzoic acid, sodium salt",Q423971
+DOID:9119,,acute myeloid leukemia,"N-[(2S)-2,3-dihydroxypropyl]-3-[(2-fluoro-4-iodophenyl) amino] isonicotinamide hydrochloride",Q7363205
+DOID:3840,,craniopharyngioma,Beloranib,Q4884554
+DOID:11983,,praderwilli syndrome,Beloranib,Q4884554
+DOID:3284,DB05015,malignant thymoma,Belinostat,Q4882925
+DOID:1270,,hereditary hemorrhagic telangiectasia,Bazedoxifene acetate,Q27281282
+DOID:9119,DB00928,acute myeloid leukemia,Azacitidine,Q416451
+DOID:11335,,sarcoidosis,Aviptadil,Q4828930
+DOID:1485,,cystic fibrosis,Nafamostat mesilate,Q27273902
+DOID:0060061,,cutaneos tcell lymphoma,Naloxone hydrochloride dihydrate,Q27262715
+DOID:11723,,duchenne muscular dystrophy,Naproxcinod,Q3335996
+DOID:4450,,renal cell carcinoma,Naptumomab estafenatox,Q6965148
+DOID:9952,DB01280,acute lymphoblastic leukemia,nelarabine,Q1216264
+DOID:684,,hepatocellular carcinoma,Nemorubicin hydrochloride,Q27255470
+DOID:8552,DB04868,chronic myeloid leukemia,Nilotinib,Q412327
+DOID:1793,,pancreatic cancer,Nimotuzumab,Q3877039
+DOID:0050156,DB09079,idiopathic pulmonary fibrosis,Nintedanib,Q15149723
+DOID:418,DB09079,systemic sclerosis,Nintedanib,Q15149723
+DOID:9270,DB00348,alkaptonuria,Nitisinone,Q3877355
+DOID:1485,DB00435,cystic fibrosis,Nitric oxide,Q207843
+DOID:0060061,,cutaneos tcell lymphoma,Mogamulizumab,Q6890447
+DOID:8736,,smallpox,Brincidofovir,Q15411004
+DOID:1485,DB00435,cystic fibrosis,Nitric oxide,Q207843
+DOID:1793,,pancreatic cancer,Brivudine,Q904107
+DOID:3049,DB06612,churgstrauss syndrome,Mepolizumab,Q3306175
+DOID:2394,DB04849,ovarian cancer,Cediranib,Q5057052
+DOID:9270,DB00563,alkaptonuria,Methotrexate,Q422232
+DOID:14701,DB06775,propionic acidemia,Carglumic acid,Q822884
+DOID:14749,DB06775,methylmalonic acidemia,Carglumic acid,Q822884
+DOID:14753,DB06775,isovaleric acidemia,Carglumic acid,Q822884
+DOID:9538,DB08889,multiple myeloma,Carfilzomib,Q15366934
+DOID:11983,DB01282,praderwilli syndrome,Carbetocin,Q5037853
+DOID:0060171,DB09061,dravet syndrome,Cannabidiol,Q422917
+DOID:9119,,acute myeloid leukemia,Midostaurin,Q6842945
+DOID:350,,mastocytosis,Midostaurin,Q6842945
+DOID:1496,,echinococcosis,Mifamurtide,Q411175
+DOID:684,,hepatocellular carcinoma,Mifamurtide,Q411175
+DOID:9538,,multiple myeloma,Milatuzumab,Q3857819
+DOID:1040,,chronic lymphocytic leukemia,Milatuzumab,Q3857819
+DOID:9146,DB09031,visceral leishmaniasis,Miltefosine,Q411787
+DOID:0060061,DB09031,cutaneos tcell lymphoma,Miltefosine,Q411787
+DOID:2986,DB01222,primary iga nephropathy,Budesonide,Q422212
+DOID:0050439,DB00126,usher syndrome,Mixture of two adeno-associated viral vectors of serotype 8 containing the 5'-half sequence of human MYO7A gene and the 3'-half sequence of human MYO7A gene,Q199678
+DOID:1485,DB00435,cystic fibrosis,Nitric oxide,Q207843
+DOID:418,DB00727,systemic sclerosis,Nitroglycerin,Q162867
+DOID:9119,,acute myeloid leukemia,Arsenic trioxide,Q26841209
+DOID:332,,amyotrophic lateral sclerosis,Arimoclomol,Q4790694
+DOID:684,,hepatocellular carcinoma,Peretinoin,Q18326479
+DOID:9538,,multiple myeloma,Aplidine,Q4779975
+DOID:1793,,pancreatic cancer,Antroquinonol,Q27133859
+DOID:10588,DB01132,adrenoleukodystrophy,Pioglitazone,Q417765
+DOID:0050156,DB04951,idiopathic pulmonary fibrosis,Pirfenidone,Q2060696
+DOID:0060591,DB06809,whim syndrome,Plerixafor,Q905835
+DOID:9538,DB08910,multiple myeloma,Pomalidomide,Q7227206
+DOID:0060061,DB06813,cutaneos tcell lymphoma,Pralatrexate,Q637059
+DOID:8567,DB06813,hodgkins lymphoma,Pralatrexate,Q637059
+DOID:0050427,DB00945,xeroderma pigmentosum,Pro-Pro-Thr-Val-Pro-Thr-Arg,Q18216
+DOID:1790,,malignant mesothelioma,Amatuximab,Q4740637
+DOID:9119,DB03496,acute myeloid leukemia,Alvocidib,Q4063441
+DOID:1040,DB03496,chronic lymphocytic leukemia,Alvocidib,Q4063441
+DOID:4607,DB05154,biliary tract cancer,"(R)-6-(2-fluorophenyl)-N-(3-(2-((2-methoxyethyl)amino)ethyl)phenyl)-5,6-dihydrobenzo[h]quinazolin-2-amine dihydrochloride",Q7118312
+DOID:11727,DB00163,facioscapulohumeral muscular dystrophy,Alpha-tocopherol,Q158348
+DOID:1270,,hereditary hemorrhagic telangiectasia,Raloxifene hydrochloride,Q27122215
+DOID:12259,,hemophilia b,Recombinant fusion protein linking human coagulation factor VIIa with human albumin,Q27294965
+DOID:2730,,epidermolysis bullosa,Allantoin,Q409804
+DOID:2450,,central retinal vein occlusion,Aganirsen,Q15633943
+DOID:14213,,hypophosphatasia,Recombinant human alkaline phosphatase,Q27258840
+DOID:10584,,retinitis pigmentosa,Adenovirus associated viral vector serotype 5 containing the human pde6ß gene,Q27270104
+DOID:9271,,ornithine transcarbamylase deficiency,Adeno-associated viral vector serotype 8 encoding human ornithine transcarbamylase,Q27896091
+DOID:3429,,inclusion body myositis,Arimoclomol citrate,Q27287107
+DOID:10588,DB05381,adrenoleukodystrophy,Autologous haematopoietic stem cells transduced with lentiviral vector Lenti-D encoding the human ABCD1 cDNA,Q5772985
+DOID:0060643,,primary sclerosing cholangitis,Obeticholic acid,Q15708271
+DOID:1040,DB08935,chronic lymphocytic leukemia,Obinutuzumab,Q389496
+DOID:0050745,DB08935,diffuse large bcell lymphoma,Obinutuzumab,Q389496
+DOID:0050873,DB08935,follicular lymphoma,Obinutuzumab,Q389496
+DOID:2394,,ovarian cancer,Autologous dendritic cells pulsed with recombinant human-fusion protein (mucin 1 - glutathione S transferase) coupled to oxidised polymannose,Q27288045
+DOID:2449,,acromegaly,Octreotide chloride (lipid depot solution),Q27274745
+DOID:1040,,chronic lymphocytic leukemia,Ofatumumab,Q410656
+DOID:2394,DB09074,ovarian cancer,Olaparib,Q7083106
+DOID:3070,,glioma,Olaptesed pegol,Q27256082
+DOID:2394,,ovarian cancer,Oregovomab,Q7101491
+DOID:12252,,cushings syndrome,Osilodrostat,Q27088216
+DOID:11983,DB00107,praderwilli syndrome,Oxytocin,Q169960
+DOID:13374,,fibrodysplasia ossificans progressiva,Palovarotene,Q15708269
+DOID:9538,DB06603,multiple myeloma,Panobinostat,Q7131441
+DOID:418,,systemic sclerosis,Paquinimod,Q27279838
+DOID:399,DB00233,tuberculosis,Para-aminosalicylic acid,Q229924
+DOID:2449,DB06663,acromegaly,pasireotide,Q3896970
+DOID:12271,DB05016,aniridia,Ataluren,Q753330
+DOID:9883,DB05016,becker muscular dystrophy,Ataluren,Q753330
+DOID:11727,DB00126,facioscapulohumeral muscular dystrophy,Ascorbic acid,Q199678
+DOID:12365,DB09274,malaria,Artesunate,Q707939
+DOID:12365,DB09274,malaria,Artesunate,Q707939
+DOID:12365,DB09274,malaria,artesunate,Q707939
+DOID:12365,DB09274,malaria,artesunate,Q707939
+DOID:1793,,pancreatic cancer,Pegylated recombinant human interleukin-10,Q339866
+DOID:9538,,plasma cell myeloma,Melphalan flufenamide,Q27277739
+DOID:0060768,DB01065,smithmagenis syndrome,Melatonin,Q180912
+DOID:0050424,DB00482,familial adenomatos polyposis,Celecoxib,Q408801
+DOID:13515,DB01590,tuberos sclerosis,Everolimus,Q421052
+DOID:8567,,hodgkins lymphoma,Entinostat,Q1281020
+DOID:332,DB00467,amyotrophic lateral sclerosis,Enoxacin,Q1639616
+DOID:0050424,DB00159,familial adenomatos polyposis,Eicosapentaenoic acid,Q409990
+DOID:3070,DB06243,glioma,Eflornithine,Q424751
+DOID:769,DB06243,neuroblastoma,Eflornithine,Q424751
+DOID:0050424,DB06243,familial adenomatos polyposis,Eflornithine,Q424751
+DOID:332,,amyotrophic lateral sclerosis,Edaravone,Q335099
+DOID:332,,amyotrophic lateral sclerosis,Edaravone,Q335099
+DOID:437,DB01257,myasthenia gravis,Eculizumab,Q421617
+DOID:8869,DB01257,neuromyelitis optica,Eculizumab,Q421617
+DOID:0060284,DB01257,paroxysmal nocturnal hemoglobinuria,Eculizumab,Q421617
+DOID:0050638,,familial amyloid polyneuropathy,Doxycycline hyclate,Q27116248
+DOID:3070,DB00399,glioma,Zoledronic acid,Q218507
+DOID:684,,hepatocellular carcinoma,Doxorubicin hydrochloride (in heat-sensitive liposomes),Q27259647
+DOID:418,,systemic sclerosis,Humanised IgG1 monoclonal antibody against human eotaxin-2,Q27291473
+DOID:687,DB00997,hepatoblastoma,Doxorubicin,Q18936
+DOID:1040,,chronic lymphocytic leukemia,Dinaciclib,Q15723091
+DOID:8506,DB08908,bullos pemphigoid,Dimethyl fumarate,Q418123
+DOID:678,,progressive supranuclear palsy,Humanised recombinant IgG4 anti-human tau antibody,Q27256246
+DOID:2730,,epidermolysis bullosa,Diacerein,Q413178
+DOID:1206,,rett syndrome,Desipramine hydrochloride,Q27106387
+DOID:0060061,DB00004,cutaneos tcell lymphoma,Denileukin diftitox,Q1187179
+DOID:3070,,glioma,Delta-9-tetrahydrocannabinol and cannabidiol from extracts of the Cannabis sativa L. plant,Q15427841
+DOID:2988,DB01611,antiphospholipid syndrome,Hydroxychloroquine,Q421094
+DOID:3070,,glioma,Enzastaurin hydrochloride,Q27282481
+DOID:11459,DB01276,idiopathic intracranial hypertension,Exenatide,Q417762
+DOID:1040,,chronic lymphocytic leukemia,Cenersen,Q27282015
+DOID:11723,,duchenne muscular dystrophy,Exon 51 specific phosphorothioate oligonucleotide,Q27088998
+DOID:9119,DB00056,acute myeloid leukemia,Gemtuzumab Ozogamicin,Q412685
+DOID:4371,,schnitzler syndrome,Gevokizumab,Q5554924
+DOID:3070,,glioma,Gimatecan,Q27268469
+DOID:8997,,polycythemia vera,Givinostat,Q426257
+DOID:11723,,duchenne muscular dystrophy,Givinostat,Q426257
+DOID:1793,DB01093,pancreatic cancer,G17(9) gastrin-diphtheria toxoid conjugate,Q407927
+DOID:1793,,pancreatic cancer,Glufosfamide,Q15711735
+DOID:2394,,ovarian cancer,Fosbretabulin tromethamine,Q27279017
+DOID:0060061,,cutaneos tcell lymphoma,Forodesine hydrochloride,Q27265452
+DOID:9952,,acute lymphoblastic leukemia,Forodesine hydrochloride,Q27265452
+DOID:1040,,chronic lymphocytic leukemia,Forodesine,Q410040
+DOID:684,,hepatocellular carcinoma,Florilglutamic acid (18F),Q27262981
+DOID:3070,,glioma,Florilglutamic acid (18F),Q27262981
+DOID:12132,,wegeners granulomatosis,Gusperimus trihydrochloride,Q27287580
+DOID:1485,,cystic fibrosis,Fixed-dose combination of fosfomycin disodium and tobramycin,Q27088776
+DOID:418,,systemic sclerosis,Halofuginone Hydrobromide,Q27286744
+DOID:11723,,duchenne muscular dystrophy,Halofuginone Hydrobromide,Q27286744
+DOID:332,DB00099,amyotrophic lateral sclerosis,filgrastim,Q3151081
+DOID:0050749,DB05076,peripheral tcell lymphoma,Fenretinide,Q5443576
+DOID:0060061,DB05076,cutaneos tcell lymphoma,Fenretinide,Q5443576
+DOID:0060171,,dravet syndrome,Fenfluramine hydrochloride,Q27126872
+DOID:2730,,epidermolysis bullosa,Ex-vivo-expanded autologous human keratinocytes containing epidermal stem cells transduced with a COL7A1-encoding retroviral vector,Q27281250
+DOID:2730,,epidermolysis bullosa,Ex-vivo-expanded autologous fibroblasts transduced with lentiviral vector containing the COL7A1 gene,Q27088540
+DOID:4734,,calciphylaxis,Hexasodium phytate,Q27295268
+DOID:9119,DB05381,acute myeloid leukemia,Histamine dihydrochloride,Q5772985
+DOID:0050745,DB09053,diffuse large bcell lymphoma,Ibrutinib,Q5984881
+DOID:0050873,DB09053,follicular lymphoma,Ibrutinib,Q5984881
+DOID:1040,DB00480,chronic lymphocytic leukemia,Lenalidomide,Q425681
+DOID:0050745,DB00480,diffuse large bcell lymphoma,Lenalidomide,Q425681
+DOID:0050746,DB00480,mantle cell lymphoma,Lenalidomide,Q425681
+DOID:0050873,DB00480,follicular lymphoma,Lenalidomide,Q425681
+DOID:0050748,DB00480,marginal zone lymphoma,Lenalidomide,Q425681
+DOID:9119,,acute myeloid leukemia,Crenolanib besylate,Q27283841
+DOID:9119,DB05143,acute myeloid leukemia,Combretastatin A1 diphosphate,Q27095572
+DOID:684,DB09078,hepatocellular carcinoma,Lenvatinib,Q6523413
+DOID:350,DB00242,mastocytosis,Cladribine,Q414030
+DOID:1790,DB00515,malignant mesothelioma,Cisplatin,Q412415
+DOID:11335,,sarcoidosis,L-Pyr-L-Glu-L-Gln-L-Leu-L-Glu-L-Arg-L-Ala-L-Leu-L-Asn-L-Ser-L-Ser,Q5150955
+DOID:11727,,facioscapulohumeral muscular dystrophy,L-selenomethionine,Q415925
+DOID:3070,DB00608,glioma,Chloroquine,Q422438
+DOID:0060061,DB00888,cutaneos tcell lymphoma,Chlormethine,Q418011
+DOID:2394,,ovarian cancer,Lurbinectedin,Q27254568
+DOID:769,,neuroblastoma,Chimeric monoclonal antibody to O-acetyl-GD2 antigen,Q27089127
+DOID:0050156,DB08932,idiopathic pulmonary fibrosis,Macitentan,Q6724151
+DOID:1485,DB00742,cystic fibrosis,Mannitolum,Q407646
+DOID:2394,,ovarian cancer,Chimeric monoclonal antibody against claudin 6,Q1106
+DOID:9538,,plasma cell myeloma,Marizomib,Q7404722
+DOID:14261,,fragile x syndrome,Mavoglurant,Q6589598
+DOID:2394,,ovarian cancer,Chimeric group B adenovirus (11p/3) with deletions in the E3 and E4 regions,Q423971
+DOID:8986,DB00579,narcolepsy,Mazindol,Q255680
+DOID:8986,DB00579,narcolepsy,Mazindol,Q255680
+DOID:10112,,african trypanosomiasis,Melarsoprol,Q419753
+DOID:3973,,medullary thyroid carcinoma,"Cyclopropane-1,1-dicarboxylic acid [4-(6,7-dimethoxy-quinolin-4-yloxy)-phenyl]-amide (4-fluoro-phenyl)-amide, (L)-malate salt",Q27263708
+DOID:1485,DB00847,cystic fibrosis,Cysteamine,Q617563
+DOID:12252,DB01026,cushings syndrome,Ketoconazole,Q407883
+DOID:0050747,DB09053,lymphoplasmacytic lymphoma,Ibrutinib,Q5984881
+DOID:0050748,DB09053,marginal zone lymphoma,Ibrutinib,Q5984881
+DOID:332,DB05266,amyotrophic lateral sclerosis,Ibudilast,Q261167
+DOID:1558,,angioedema,Icatibant acetate,Q27256146
+DOID:12705,DB09081,friedreichs ataxia,Idebenone,Q4197874
+DOID:12705,DB09081,friedreichs ataxia,Idebenone,Q4197874
+DOID:705,DB09081,lebers hereditary optic neuropathy,Idebenone,Q4197874
+DOID:11723,DB09081,duchenne muscular dystrophy,Idebenone,Q4197874
+DOID:9119,DB01262,acute myeloid leukemia,Decitabine,Q1181878
+DOID:2394,DB05003,ovarian cancer,Imexon,Q6003924
+DOID:9119,DB04796,acute myeloid leukemia,Inecalcitol,Q27078058
+DOID:12252,DB01026,cushings syndrome,Ketoconazole,Q407883
+DOID:9538,,plasma cell myeloma,Daratumumab,Q5222113
+DOID:10605,DB00030,short bowel syndrome,Insulin human,Q39798
+DOID:10632,,wolfram syndrome,Dantrolene sodium,Q27225695
+DOID:8545,,malignant hyperthermia,Dantrolene sodium,Q27225695
+DOID:1064,,cystinosis,Cysteamine hydrochloride,Q27280697
+DOID:1064,,cystinosis,Cysteamine hydrochloride,Q27280697
+DOID:12858,,huntingtons disease,Cysteamine bitartrate,Q27122045
+DOID:0050073,,invasive aspergillosis,Isavuconazonium sulfate,Q27158829
+DOID:1793,,pancreatic cancer,Cysteamine bitartrate,Q27122045
+DOID:9119,,acute myeloid leukemia,Ivosidenib,Q27895417
+DOID:1485,DB00847,cystic fibrosis,Cysteamine,Q617563
+DOID:0110148,DB00126,charcotmarietooth disease type 1a,ascorbic acid,Q199678
+DOID:0050720,,ornithine translocase deficiency,Sodium benzoate,Q423971
+DOID:2394,,ovarian cancer,Trebananib,Q27272385
+DOID:14503,,neuronal ceroid lipofuscinosis,Recombinant self-complementary adeno-associated viral vector serotype 9 containing the human CLN3 gene,Q423971
+DOID:0060284,,paroxysmal nocturnal hemoglobinuria,Recombinant protein derived from the saliva of the Ornithodoros moubata tick,Q2297773
+DOID:0050746,DB06287,mantle cell lymphoma,Temsirolimus,Q7699074
+DOID:4450,DB06287,renal cell carcinoma,Temsirolimus,Q7699074
+DOID:3070,DB00853,glioma,Temozolomide,Q425088
+DOID:1926,DB08876,gaucher disease,Taliglucerase alfa,Q7679506
+DOID:9146,DB04253,visceral leishmaniasis,Tretazicar,Q27095075
+DOID:0060284,,paroxysmal nocturnal hemoglobinuria,"S3,S13-cyclo(D-tyrolsyl-L-isoleucyl-L-cysteinyl-L-valyl-1-methyl-L-tryptophyl-L-glutaminyl-L-aspartyl-L-tryptophyl-N-methyl-L-glycyl-L-alanyl-L-histidyl-L-arginyl-L-cysteinyl-N-methyl-L-isoleucinamide)",Q27290286
+DOID:893,,wilsons disease,Trientine tetrahydrochloride,Q27266138
+DOID:14213,,hypophosphatasia,Recombinant human tissue non-specific alkaline phosphatase - Fc - deca-aspartate fusion protein,Q2974480
+DOID:0060235,,carnitine palmitoyltransferase ii deficiency,Triheptanoin,Q414576
+DOID:9538,DB04944,multiple myeloma,Acadesine,Q4671562
+DOID:2746,,mcardles disease,Triheptanoin,Q414576
+DOID:1793,,pancreatic cancer,Two allogenic irradiated pancreatic tumour cell lines,Q27253946
+DOID:1793,,pancreatic cancer,Salirasib,Q27088685
+DOID:9119,,acute myeloid leukemia,Sapacitabine,Q7420893
+DOID:11199,DB06285,hypoparathyroidism,Teriparatide,Q411781
+DOID:11723,,duchenne muscular dystrophy,"17a,21-dihydroxy-16a-methyl-pregna-1,4,9(11)-triene-3,20-dione",Q27270940
+DOID:1206,,rett syndrome,Sarizotan hydrochloride,Q27262685
+DOID:9538,,plasma cell myeloma,Selinexor,Q27256082
+DOID:9119,,acute myeloid leukemia,Ulocuplumab,Q21098907
+DOID:11983,,praderwilli syndrome,Setmelanotide,Q21098917
+DOID:2746,DB00313,mcardles disease,Valproic Acid,Q240642
+DOID:11719,,oculopharyngeal muscular dystrophy,Trehalose,Q27109935
+DOID:0050746,,mantle cell lymphoma,Acalabrutinib,Q27074143
+DOID:3070,,glioma,Tetrofosmin,Q27257279
+DOID:418,,systemic sclerosis,Terguride,Q7702355
+DOID:418,DB08931,systemic sclerosis,Riociguat,Q2154494
+DOID:4325,,ebola virus disease,Rintatolimod,Q7335107
+DOID:11723,,duchenne muscular dystrophy,Rimeporide,Q21098945
+DOID:9538,DB01041,multiple myeloma,Thalidomide,Q203174
+DOID:1793,,pancreatic cancer,Rubitecan,Q510113
+DOID:684,DB04900,hepatocellular carcinoma,Thymalfasin,Q20817234
+DOID:14261,,fragile x syndrome,Tideglusib,Q10382411
+DOID:9119,DB04960,acute myeloid leukemia,Tipifarnib,Q7808830
+DOID:684,,hepatocellular carcinoma,Tivantinib,Q17123902
+DOID:2394,,ovarian cancer,Rucaparib,Q7376558
+DOID:678,DB09216,progressive supranuclear palsy,Tolfenamic acid,Q59412
+DOID:399,DB01201,tuberculosis,Rifapentine,Q3935297
+DOID:0050561,DB06201,lennoxgastaut syndrome,Rufinamide,Q408565
+DOID:10588,DB06287,adrenoleukodystrophy,Temsirolimus,Q7699074
+DOID:9119,,acute myeloid leukemia,Tosedostat,Q27166812
+DOID:2394,DB05109,ovarian cancer,Trabectedin,Q2637746
+DOID:0050156,,idiopathic pulmonary fibrosis,"2-((2-ethyl-6-(4-(2-(3-hydroxyazetidin-1-yl)-2-oxoethyl)-piperazin-1-yl)-8-methylimidazo[1,2-alpha]pyridin-3-yl)-(methyl)amino)-4-(4-fluorophenyl)-thiazole-5-carbonitrile",Q407204
+DOID:8567,,hodgkins lymphoma,Resminostat,Q18394103
+DOID:684,,hepatocellular carcinoma,Resminostat,Q18394103
+DOID:0060439,,lysinuric protein intolerance,Sodium benzoate,Q423971
+DOID:0060061,,cutaneos tcell lymphoma,Resiquimod,Q426054
+DOID:0050745,DB00313,diffuse large bcell lymphoma,Valproic acid,Q240642
+DOID:14499,,fabry disease,1-deoxygalactonojirimycin hydrochloride,Q27291314
+DOID:0050747,,lymphoplasmacytic lymphoma,Acalabrutinib,Q27074143
+DOID:0050745,DB11581,diffuse large bcell lymphoma,Venetoclax,Q23671272
+DOID:10591,,preeclampsia,S-nitrosoglutathione,Q7387071
+DOID:332,,amyotrophic lateral sclerosis,Smilagenin,Q27103971
+DOID:4734,,calciphylaxis,Sodium thiosulfate,Q410739
+DOID:4734,,calciphylaxis,Sodium thiosulfate,Q410739
+DOID:9538,DB11581,multiple myeloma,Venetoclax,Q23671272
+DOID:9119,DB11581,acute myeloid leukemia,Venetoclax,Q23671272
+DOID:0050631,,allanherndondudley syndrome,"3,5-diiodothyropropionic acid",Q27252433
+DOID:4734,,calciphylaxis,Sodium thiosulfate,Q410739
+DOID:1040,,chronic lymphocytic leukemia,Veltuzumab,Q4009438
+DOID:13515,DB00877,tuberos sclerosis,Sirolimus,Q32089
+DOID:2394,DB07232,ovarian cancer,Veliparib,Q7919041
+DOID:1926,DB06720,gaucher disease,Velaglucerase alfa,Q3492447
+DOID:769,DB08931,neuroblastoma,Sodium 2-hydroxylinoleate,Q2154494
+DOID:0050440,,familial partial lipodystrophy,Volanesorsen sodium,Q27265010
+DOID:10223,,dermatomyositis,Siponimod,Q27288262
+DOID:332,,amyotrophic lateral sclerosis,Sodium chlorite,Q411294
+DOID:3223,DB00399,complex regional pain syndrome,Zoledronic acid,Q218507
+DOID:14755,,argininosuccinic aciduria,Sodium benzoate,Q423971
+DOID:9278,,hyperargininemia,Sodium benzoate,Q423971
+DOID:11727,,facioscapulohumeral muscular dystrophy,Zinc gluconate,Q3822815
+DOID:9271,,ornithine transcarbamylase deficiency,Sodium benzoate,Q423971
+DOID:9119,,acute myeloid leukemia,Volasertib,Q7939986
+DOID:14755,,argininosuccinic aciduria,Sodium benzoate,Q423971
+DOID:9278,,hyperargininemia,Sodium benzoate,Q423971
+DOID:14499,,fabry disease,"(3S)-1-azabicyclo[2.2.2]oct-3-yl{2-[2-(4-fluorophenyl)-1,3-thiazol-4-yl]propan-2-yl}carbamate",Q27077129
+DOID:1926,,gaucher disease,"(3S)-1-azabicyclo[2.2.2]oct-3-yl{2-[2-(4-fluorophenyl)-1,3-thiazol-4-yl]propan-2-yl}carbamate",Q27077129
+DOID:9119,,acute myeloid leukemia,Vosaroxin,Q18395775
+DOID:1312,,focal segmental glomerulosclerosis,"4’-[(2-butyl-4-oxo-1,3-diazaspiro[4.4]non-1-en-3-yl)methyl]-N-(4,5-dimethyl-3-isoxazolyl)-2’-(ethoxymethyl)-[1,1’-biphenyl]-2-sulfonamide",Q27896056
+DOID:684,,hepatocellular carcinoma,Sorafenib tosylate,Q27122250
+DOID:8997,DB00945,polycythemia vera,Acetylsalicylic acid,Q18216
+DOID:14261,,fragile x syndrome,Acamprosate calcium,Q27122289
+DOID:0060768,,smithmagenis syndrome,Acebutolol hydrochloride,Q27105651

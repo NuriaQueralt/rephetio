@@ -1,0 +1,627 @@
+doid_id,drugbank_id,disease,drug
+DOID:9351,DB00047,diabetes mellitus,insulin glargine
+DOID:3312,DB01238,bipolar disorder,aripiprazole
+DOID:1612,DB01229,breast cancer,paclitaxel
+DOID:3908,DB01229,non-small cell lung carcinoma,paclitaxel
+DOID:1793,DB01229,pancreatic cancer,paclitaxel
+DOID:2355,DB00016,anemia,epoetin alfa
+DOID:784,DB00016,chronic kidney disease,epoetin alfa
+DOID:1227,DB00099,neutropenia,filgrastim
+DOID:9351,DB00030,diabetes mellitus,insulin human
+DOID:3312,DB00408,bipolar disorder,loxapine
+DOID:8651,DB08870,Hodgkin's granuloma,brentuximab vedotin
+DOID:8675,DB08870,lymphosarcoma,brentuximab vedotin
+DOID:6432,DB00820,pulmonary hypertension,tadalafil
+DOID:6432,DB08931,pulmonary hypertension,riociguat
+DOID:13189,DB04854,gout,febuxostat
+DOID:1612,DB01590,breast cancer,everolimus
+DOID:4450,DB01590,renal cell carcinoma,everolimus
+DOID:1793,DB01590,pancreatic cancer,everolimus
+DOID:2513,DB00724,basal cell carcinoma,imiquimod
+DOID:11168,DB00724,anogenital venereal wart,imiquimod
+DOID:161,DB00724,keratosis,imiquimod
+DOID:8866,DB00724,actinic keratosis,imiquimod
+DOID:12802,DB00090,mucopolysaccharidosis I,laronidase
+DOID:3908,DB00642,non-small cell lung carcinoma,pemetrexed
+DOID:2645,DB00642,benign mesothelioma,pemetrexed
+DOID:9970,DB01083,obesity,orlistat
+DOID:12259,DB11608,hemophilia B,eftrenonacog alfa
+DOID:8504,DB01256,impetigo,retapamulin
+DOID:9280,DB06819,carbamoyl phosphate synthetase I deficiency disease,sodium phenylbutyrate
+DOID:9273,DB06819,citrullinemia,sodium phenylbutyrate
+DOID:9271,DB06819,ornithine carbamoyltransferase deficiency,sodium phenylbutyrate
+DOID:9351,DB01309,diabetes mellitus,insulin glulisine
+DOID:10763,DB01029,hypertension,irbesartan
+DOID:526,DB00932,human immunodeficiency virus infectious disease,tipranavir
+DOID:2355,DB00012,anemia,darbepoetin alfa
+DOID:784,DB00012,chronic kidney disease,darbepoetin alfa
+DOID:9008,DB01097,psoriatic arthritis,leflunomide
+DOID:7148,DB01097,rheumatoid arthritis,leflunomide
+DOID:12785,DB00476,diabetic polyneuropathy,duloxetine
+DOID:3312,DB01238,bipolar disorder,aripiprazole
+DOID:3312,DB01238,bipolar disorder,aripiprazole
+DOID:3312,DB01238,bipolar disorder,aripiprazole
+DOID:3312,DB01238,bipolar disorder,aripiprazole
+DOID:8805,DB00569,intermediate coronary syndrome,fondaparinux sodium
+DOID:5844,DB00569,myocardial infarction,fondaparinux sodium
+DOID:9477,DB00569,pulmonary embolism,fondaparinux sodium
+DOID:2377,DB08880,multiple sclerosis,teriflunomide
+DOID:1612,DB00112,breast cancer,bevacizumab
+DOID:3908,DB00112,non-small cell lung carcinoma,bevacizumab
+DOID:4450,DB00112,renal cell carcinoma,bevacizumab
+DOID:9256,DB00112,colorectal cancer,bevacizumab
+DOID:2394,DB00112,ovarian cancer,bevacizumab
+DOID:2377,DB00060,multiple sclerosis,interferon beta-1a
+DOID:14330,DB01367,Parkinson's disease,rasagiline
+DOID:1067,DB01194,open-angle glaucoma,brinzolamide
+DOID:9282,DB01194,ocular hypertension,brinzolamide
+DOID:3781,DB09024,anovulation,follitropin alfa
+DOID:9008,DB00005,psoriatic arthritis,etanercept
+DOID:7148,DB00005,rheumatoid arthritis,etanercept
+DOID:4398,DB00005,pustulosis of palm and sole,etanercept
+DOID:9074,DB08879,systemic lupus erythematosus,belimumab
+DOID:2377,DB00068,multiple sclerosis,interferon beta-1b
+DOID:2355,DB00016,anemia,epoetin alfa
+DOID:784,DB00016,chronic kidney disease,epoetin alfa
+DOID:1612,DB00710,breast cancer,ibandronic acid
+DOID:12678,DB00710,hypercalcemia,ibandronic acid
+DOID:9538,DB00188,multiple myeloma,bortezomib
+DOID:9538,DB00188,multiple myeloma,bortezomib
+DOID:9538,DB00188,multiple myeloma,bortezomib
+DOID:1485,DB00742,cystic fibrosis,mannitol
+DOID:1826,DB00683,epilepsy,midazolam
+DOID:9352,DB01276,type 2 diabetes mellitus,exenatide
+DOID:9352,DB01276,type 2 diabetes mellitus,exenatide
+DOID:13564,DB00520,aspergillosis,caspofungin
+DOID:1508,DB00520,candidiasis,caspofungin
+DOID:1612,DB01101,breast cancer,capecitabine
+DOID:219,DB01101,colon cancer,capecitabine
+DOID:9256,DB01101,colorectal cancer,capecitabine
+DOID:10534,DB01101,stomach cancer,capecitabine
+DOID:9256,DB01101,colorectal cancer,capecitabine
+DOID:1612,DB01101,breast cancer,capecitabine
+DOID:219,DB01101,colon cancer,capecitabine
+DOID:9256,DB01101,colorectal cancer,capecitabine
+DOID:10534,DB01101,stomach cancer,capecitabine
+DOID:2891,DB05294,thyroid adenoma,vandetanib
+DOID:9252,DB06775,amino acid metabolic disorder,carglumic acid
+DOID:14701,DB06775,propionic acidemia,carglumic acid
+DOID:1485,DB00355,cystic fibrosis,aztreonam lysine
+DOID:526,DB04835,human immunodeficiency virus infectious disease,maraviroc
+DOID:9119,DB05381,acute myeloid leukemia,histamine dihydrochloride
+DOID:1926,DB09039,Gaucher's disease,eliglustat
+DOID:1926,DB00053,Gaucher's disease,imiglucerase
+DOID:7148,DB08904,rheumatoid arthritis,certolizumab pegol
+DOID:14735,DB06404,hereditary angioedema,C1 inhibitor (human)
+DOID:5844,DB00758,myocardial infarction,clopidogrel
+DOID:6713,DB00758,cerebrovascular disease,clopidogrel
+DOID:5844,DB00758,myocardial infarction,clopidogrel
+DOID:6713,DB00758,cerebrovascular disease,clopidogrel
+DOID:5844,DB00758,myocardial infarction,clopidogrel
+DOID:6713,DB00758,cerebrovascular disease,clopidogrel
+DOID:2891,DB08875,thyroid adenoma,cabozantinib
+DOID:14330,DB00494,Parkinson's disease,entacapone
+DOID:14330,DB00494,Parkinson's disease,entacapone
+DOID:9778,DB08890,irritable bowel syndrome,linaclotide
+DOID:8534,DB00213,gastroesophageal reflux disease,pantoprazole
+DOID:9008,DB09029,psoriatic arthritis,secukinumab
+DOID:4398,DB09029,pustulosis of palm and sole,secukinumab
+DOID:526,DB00224,human immunodeficiency virus infectious disease,indinavir sulphate
+DOID:2030,DB00476,anxiety disorder,duloxetine
+DOID:12785,DB00476,diabetic polyneuropathy,duloxetine
+DOID:10534,DB05578,stomach cancer,ramucirumab
+DOID:9263,DB06756,homocystinuria,betaine anhydrous
+DOID:8593,DB01262,chronic monocytic leukemia,decitabine
+DOID:3083,DB01656,chronic obstructive pulmonary disease,roflumilast
+DOID:526,DB01264,human immunodeficiency virus infectious disease,darunavir
+DOID:3083,DB01656,chronic obstructive pulmonary disease,roflumilast
+DOID:3565,DB00987,meningioma,cytarabine
+DOID:4890,DB09118,juvenile myoclonic epilepsy,stiripentol
+DOID:12785,DB00476,diabetic polyneuropathy,duloxetine
+DOID:2030,DB00476,anxiety disorder,duloxetine
+DOID:12785,DB00476,diabetic polyneuropathy,duloxetine
+DOID:2030,DB00476,anxiety disorder,duloxetine
+DOID:9351,DB00476,diabetes mellitus,duloxetine
+DOID:8469,DB00198,influenza,oseltamivir
+DOID:1508,DB00362,candidiasis,anidulafungin
+DOID:1612,DB01101,breast cancer,capecitabine
+DOID:219,DB01101,colon cancer,capecitabine
+DOID:9256,DB01101,colorectal cancer,capecitabine
+DOID:10534,DB01101,stomach cancer,capecitabine
+DOID:10763,DB08822,hypertension,azilsartan medoxomil
+DOID:526,DB00625,human immunodeficiency virus infectious disease,efavirenz
+DOID:8805,DB06209,intermediate coronary syndrome,prasugrel
+DOID:5844,DB06209,myocardial infarction,prasugrel
+DOID:12799,DB01271,mucopolysaccharidosis II,idursulfase
+DOID:11204,DB01084,allergic conjunctivitis,emedastine
+DOID:526,DB00879,human immunodeficiency virus infectious disease,emtricitabine
+DOID:9008,DB00005,psoriatic arthritis,etanercept
+DOID:7148,DB00005,rheumatoid arthritis,etanercept
+DOID:4398,DB00005,pustulosis of palm and sole,etanercept
+DOID:7147,DB00005,ankylosing spondylitis,etanercept
+DOID:14330,DB00494,Parkinson's disease,entacapone
+DOID:14330,DB00494,Parkinson's disease,entacapone
+DOID:8577,DB09033,ulcerative colitis,vedolizumab
+DOID:0060192,DB09033,Crohn's colitis,vedolizumab
+DOID:9352,DB00912,type 2 diabetes mellitus,repaglinide
+DOID:9352,DB09043,type 2 diabetes mellitus,albiglutide
+DOID:526,DB00709,human immunodeficiency virus infectious disease,lamivudine
+DOID:2355,DB00016,anemia,epoetin alfa
+DOID:784,DB00016,chronic kidney disease,epoetin alfa
+DOID:5844,DB00063,myocardial infarction,eptifibatide
+DOID:9256,DB00002,colorectal cancer,cetuximab
+DOID:11934,DB00002,head and neck cancer,cetuximab
+DOID:2513,DB08828,basal cell carcinoma,vismodegib
+DOID:0050156,DB04951,idiopathic pulmonary fibrosis,pirfenidone
+DOID:13223,DB05366,uterine fibroid,ulipristal acetate
+DOID:10652,DB00989,Alzheimer's disease,rivastigmine
+DOID:14330,DB00989,Parkinson's disease,rivastigmine
+DOID:12241,DB01609,beta thalassemia,deferasirox
+DOID:2377,DB00068,multiple sclerosis,interferon beta-1b
+DOID:4449,DB08885,macular retinal edema,aflibercept
+DOID:14499,DB00103,Fabry disease,agalsidase alfa
+DOID:2377,DB06637,multiple sclerosis,fampridine
+DOID:1612,DB00539,breast cancer,toremifene
+DOID:1920,DB00049,hyperuricemia,rasburicase
+DOID:12241,DB08826,beta thalassemia,deferiprone
+DOID:1924,DB00066,hypogonadism,follitropin beta
+DOID:5223,DB00066,infertility,follitropin beta
+DOID:9351,DB01306,diabetes mellitus,insulin aspart
+DOID:1227,DB00099,neutropenia,filgrastim
+DOID:14735,DB06196,hereditary angioedema,icatibant
+DOID:10283,DB06699,prostate cancer,degarelix
+DOID:9008,DB00065,psoriatic arthritis,infliximab
+DOID:7148,DB00065,rheumatoid arthritis,infliximab
+DOID:8577,DB00065,ulcerative colitis,infliximab
+DOID:0060192,DB00065,Crohn's colitis,infliximab
+DOID:4398,DB00065,pustulosis of palm and sole,infliximab
+DOID:7147,DB00065,ankylosing spondylitis,infliximab
+DOID:11476,DB06285,osteoporosis,teriparatide
+DOID:526,DB00109,human immunodeficiency virus infectious disease,enfuvirtide
+DOID:2234,DB08883,focal epilepsy,perampanel
+DOID:14499,DB05018,Fabry disease,migalastat hydrochloride
+DOID:9352,DB04876,type 2 diabetes mellitus,vildagliptin
+DOID:1040,DB08935,chronic lymphocytic leukemia,obinutuzumab
+DOID:3908,DB08916,non-small cell lung carcinoma,afatinib
+DOID:3507,DB00619,dermatofibrosarcoma protuberans,imatinib
+DOID:9253,DB00619,gastrointestinal stromal tumor,imatinib
+DOID:8552,DB00619,chronic myeloid leukemia,imatinib
+DOID:4972,DB00619,myelodysplastic/myeloproliferative neoplasm,imatinib
+DOID:3781,DB09024,anovulation,follitropin alfa
+DOID:1924,DB09024,hypogonadism,follitropin alfa
+DOID:399,DB00233,tuberculosis,para-aminosalicylic acid
+DOID:1227,DB00099,neutropenia,filgrastim
+DOID:1612,DB08871,breast cancer,eribulin
+DOID:3382,DB08871,liposarcoma,eribulin
+DOID:1612,DB00072,breast cancer,trastuzumab
+DOID:10534,DB00072,stomach cancer,trastuzumab
+DOID:9351,DB00046,diabetes mellitus,insulin lispro
+DOID:9008,DB00051,psoriatic arthritis,adalimumab
+DOID:7148,DB00051,rheumatoid arthritis,adalimumab
+DOID:8577,DB00051,ulcerative colitis,adalimumab
+DOID:0060192,DB00051,Crohn's colitis,adalimumab
+DOID:4398,DB00051,pustulosis of palm and sole,adalimumab
+DOID:7147,DB00051,ankylosing spondylitis,adalimumab
+DOID:2394,DB01030,ovarian cancer,topotecan
+DOID:5409,DB01030,lung small cell carcinoma,topotecan
+DOID:4362,DB01030,cervical cancer,topotecan
+DOID:1612,DB00710,breast cancer,ibandronic acid
+DOID:12678,DB00710,hypercalcemia,ibandronic acid
+DOID:3463,DB00710,breast disease,ibandronic acid
+DOID:10575,DB00710,calcium metabolism disease,ibandronic acid
+DOID:1612,DB00710,breast cancer,ibandronic acid
+DOID:1612,DB00710,breast cancer,ibandronic acid
+DOID:1612,DB09073,breast cancer,palbociclib
+DOID:1037,DB08901,lymphoblastic leukemia,ponatinib
+DOID:8593,DB08901,chronic monocytic leukemia,ponatinib
+DOID:10124,DB00091,corneal disease,ciclosporin
+DOID:13189,DB06168,gout,canakinumab
+DOID:3507,DB00619,dermatofibrosarcoma protuberans,imatinib
+DOID:8552,DB00619,chronic myeloid leukemia,imatinib
+DOID:4972,DB00619,myelodysplastic/myeloproliferative neoplasm,imatinib
+DOID:3507,DB00619,dermatofibrosarcoma protuberans,imatinib
+DOID:8552,DB00619,chronic myeloid leukemia,imatinib
+DOID:4972,DB00619,myelodysplastic/myeloproliferative neoplasm,imatinib
+DOID:3507,DB00619,dermatofibrosarcoma protuberans,imatinib
+DOID:8552,DB00619,chronic myeloid leukemia,imatinib
+DOID:4972,DB00619,myelodysplastic/myeloproliferative neoplasm,imatinib
+DOID:3507,DB00619,dermatofibrosarcoma protuberans,imatinib
+DOID:8552,DB00619,chronic myeloid leukemia,imatinib
+DOID:4972,DB00619,myelodysplastic/myeloproliferative neoplasm,imatinib
+DOID:1040,DB09053,chronic lymphocytic leukemia,ibrutinib
+DOID:9538,DB08910,multiple myeloma,pomalidomide
+DOID:9521,DB01277,Laron syndrome,mecasermin
+DOID:9008,DB00065,psoriatic arthritis,infliximab
+DOID:7148,DB00065,rheumatoid arthritis,infliximab
+DOID:8577,DB00065,ulcerative colitis,infliximab
+DOID:0060192,DB00065,Crohn's colitis,infliximab
+DOID:4398,DB00065,pustulosis of palm and sole,infliximab
+DOID:7147,DB00065,ankylosing spondylitis,infliximab
+DOID:4450,DB06626,renal cell carcinoma,axitinib
+DOID:6432,DB00435,pulmonary hypertension,nitric oxide
+DOID:1826,DB06201,epilepsy,rufinamide
+DOID:9351,DB00030,diabetes mellitus,insulin human
+DOID:9351,DB00030,diabetes mellitus,insulin human
+DOID:9351,DB00030,diabetes mellitus,insulin human
+DOID:8805,DB00063,intermediate coronary syndrome,eptifibatide
+DOID:5844,DB00063,myocardial infarction,eptifibatide
+DOID:526,DB06414,human immunodeficiency virus infectious disease,etravirine
+DOID:285,DB00105,hairy cell leukemia,interferon alfa-2b
+DOID:8552,DB00105,chronic myeloid leukemia,interferon alfa-2b
+DOID:1909,DB00105,melanoma,interferon alfa-2b
+DOID:9538,DB00105,multiple myeloma,interferon alfa-2b
+DOID:874,DB00303,bacterial pneumonia,ertapenem sodium
+DOID:11328,DB01267,schizophreniform disorder,paliperidone
+DOID:526,DB01232,human immunodeficiency virus infectious disease,saquinavir
+DOID:9352,DB08907,type 2 diabetes mellitus,canagliflozin
+DOID:10763,DB01029,hypertension,irbesartan
+DOID:10763,DB01029,hypertension,irbesartan
+DOID:3908,DB00317,non-small cell lung carcinoma,gefitinib
+DOID:0060224,DB00758,atrial fibrillation,clopidogrel
+DOID:5844,DB00758,myocardial infarction,clopidogrel
+DOID:6713,DB00758,cerebrovascular disease,clopidogrel
+DOID:526,DB06817,human immunodeficiency virus infectious disease,raltegravir
+DOID:1067,DB00287,open-angle glaucoma,travoprost
+DOID:9282,DB00287,ocular hypertension,travoprost
+DOID:9352,DB04876,type 2 diabetes mellitus,vildagliptin
+DOID:9352,DB01261,type 2 diabetes mellitus,sitagliptin
+DOID:9352,DB09038,type 2 diabetes mellitus,empagliflozin
+DOID:5679,DB08888,retinal disease,ocriplasmin
+DOID:10283,DB06772,prostate cancer,cabazitaxel
+DOID:1612,DB05773,breast cancer,trastuzumab emtansine
+DOID:1485,DB08820,cystic fibrosis,ivacaftor
+DOID:3146,DB11563,lipid metabolism disorder,sebelipase alfa
+DOID:10763,DB01029,hypertension,irbesartan
+DOID:1826,DB01202,epilepsy,levetiracetam
+DOID:6132,DB00976,bronchitis,telithromycin
+DOID:2275,DB00976,pharyngitis,telithromycin
+DOID:874,DB00976,bacterial pneumonia,telithromycin
+DOID:10456,DB00976,tonsillitis,telithromycin
+DOID:12252,DB01026,Cushing's syndrome,ketoconazole
+DOID:1909,DB09037,melanoma,pembrolizumab
+DOID:7148,DB00026,rheumatoid arthritis,anakinra
+DOID:10763,DB00966,hypertension,telmisartan
+DOID:655,DB02659,inherited metabolic disorder,cholic acid
+DOID:9538,DB08889,multiple myeloma,carfilzomib
+DOID:526,DB00709,human immunodeficiency virus infectious disease,lamivudine
+DOID:9351,DB00047,diabetes mellitus,insulin glargine
+DOID:7148,DB01097,rheumatoid arthritis,leflunomide
+DOID:7148,DB01097,rheumatoid arthritis,leflunomide
+DOID:9008,DB01097,psoriatic arthritis,leflunomide
+DOID:7148,DB01097,rheumatoid arthritis,leflunomide
+DOID:14330,DB05271,Parkinson's disease,rotigotine
+DOID:0050425,DB05271,restless legs syndrome,rotigotine
+DOID:2377,DB00087,multiple sclerosis,alemtuzumab
+DOID:9351,DB01307,diabetes mellitus,insulin detemir
+DOID:1826,DB01202,epilepsy,levetiracetam
+DOID:1826,DB01202,epilepsy,levetiracetam
+DOID:1826,DB01202,epilepsy,levetiracetam
+DOID:1826,DB01202,epilepsy,levetiracetam
+DOID:1826,DB01202,epilepsy,levetiracetam
+DOID:1826,DB01202,epilepsy,levetiracetam
+DOID:1826,DB01202,epilepsy,levetiracetam
+DOID:3083,DB01656,chronic obstructive pulmonary disease,roflumilast
+DOID:9351,DB00046,diabetes mellitus,insulin lispro
+DOID:285,DB00242,hairy cell leukemia,cladribine
+DOID:4449,DB01270,macular retinal edema,ranibizumab
+DOID:11829,DB01270,degenerative myopia,ranibizumab
+DOID:1067,DB00905,open-angle glaucoma,bimatoprost
+DOID:9282,DB00905,ocular hypertension,bimatoprost
+DOID:9351,DB00047,diabetes mellitus,insulin glargine
+DOID:2394,DB09074,ovarian cancer,olaparib
+DOID:2030,DB00230,anxiety disorder,pregabalin
+DOID:1826,DB00230,epilepsy,pregabalin
+DOID:660,DB00648,adrenal cortex cancer,mitotane
+DOID:9352,DB09265,type 2 diabetes mellitus,lixisenatide
+DOID:7148,DB00073,rheumatoid arthritis,rituximab
+DOID:1040,DB00073,chronic lymphocytic leukemia,rituximab
+DOID:8675,DB00073,lymphosarcoma,rituximab
+DOID:1826,DB01202,epilepsy,levetiracetam
+DOID:1909,DB08911,melanoma,trametinib
+DOID:5844,DB00031,myocardial infarction,tenecteplase
+DOID:10783,DB09241,methemoglobinemia,methylthioninium chloride
+DOID:10763,DB00966,hypertension,telmisartan
+DOID:2355,DB09107,anemia,methoxy polyethylene glycol-epoetin beta
+DOID:784,DB09107,chronic kidney disease,methoxy polyethylene glycol-epoetin beta
+DOID:9351,DB00030,diabetes mellitus,insulin human
+DOID:0060058,DB06809,lymphoma,plerixafor
+DOID:9538,DB06809,multiple myeloma,plerixafor
+DOID:0060224,DB04855,atrial fibrillation,dronedarone
+DOID:1508,DB01141,candidiasis,micafungin
+DOID:2752,DB01272,glycogen storage disease II,alglucosidase alfa
+DOID:12800,DB01279,mucopolysaccharidosis VI,galsulfase
+DOID:10652,DB01043,Alzheimer's disease,memantine
+DOID:9538,DB01234,multiple myeloma,dexamethasone
+DOID:1227,DB00019,neutropenia,pegfilgrastim
+DOID:14330,DB05271,Parkinson's disease,rotigotine
+DOID:0050425,DB05271,restless legs syndrome,rotigotine
+DOID:526,DB00238,human immunodeficiency virus infectious disease,nevirapine
+DOID:4450,DB00398,renal cell carcinoma,sorafenib
+DOID:8534,DB00736,gastroesophageal reflux disease,esomeprazole
+DOID:10652,DB00989,Alzheimer's disease,rivastigmine
+DOID:14330,DB00989,Parkinson's disease,rivastigmine
+DOID:1227,DB00099,neutropenia,filgrastim
+DOID:9008,DB00563,psoriatic arthritis,methotrexate
+DOID:7148,DB00563,rheumatoid arthritis,methotrexate
+DOID:4398,DB00563,pustulosis of palm and sole,methotrexate
+DOID:526,DB00503,human immunodeficiency virus infectious disease,ritonavir
+DOID:12134,DB09109,factor VIII deficiency,turoctocog alfa
+DOID:9351,DB01306,diabetes mellitus,insulin aspart
+DOID:9352,DB00912,type 2 diabetes mellitus,repaglinide
+DOID:9351,DB01306,diabetes mellitus,insulin aspart
+DOID:2215,DB00036,factor VII deficiency,eptacog alfa (activated)
+DOID:12134,DB00036,factor VIII deficiency,eptacog alfa (activated)
+DOID:12259,DB00036,hemophilia B,eptacog alfa (activated)
+DOID:2219,DB00036,Glanzmann's thrombasthenia,eptacog alfa (activated)
+DOID:13564,DB01263,aspergillosis,posaconazole
+DOID:1508,DB01263,candidiasis,posaconazole
+DOID:13450,DB01263,coccidioidomycosis,posaconazole
+DOID:1564,DB01263,fungal infectious disease,posaconazole
+DOID:8924,DB05332,autoimmune thrombocytopenic purpura,romiplostim
+DOID:2841,DB06612,asthma,mepolizumab
+DOID:3491,DB00052,Turner syndrome,somatropin
+DOID:12134,DB09108,factor VIII deficiency,simoctocog alfa
+DOID:0050156,DB09079,idiopathic pulmonary fibrosis,nintedanib
+DOID:3312,DB00334,bipolar disorder,olanzapine
+DOID:3312,DB00334,bipolar disorder,olanzapine
+DOID:3312,DB00334,bipolar disorder,olanzapine
+DOID:3312,DB00334,bipolar disorder,olanzapine
+DOID:3312,DB00334,bipolar disorder,olanzapine
+DOID:3312,DB00334,bipolar disorder,olanzapine
+DOID:3312,DB00334,bipolar disorder,olanzapine
+DOID:9352,DB06335,type 2 diabetes mellitus,saxagliptin
+DOID:3908,DB09035,non-small cell lung carcinoma,nivolumab
+DOID:4450,DB09035,renal cell carcinoma,nivolumab
+DOID:8651,DB09035,Hodgkin's granuloma,nivolumab
+DOID:1909,DB09035,melanoma,nivolumab
+DOID:6432,DB08932,pulmonary hypertension,macitentan
+DOID:7148,DB01281,rheumatoid arthritis,abatacept
+DOID:9275,DB00348,tyrosinemia,nitisinone
+DOID:77,DB02659,gastrointestinal system disease,cholic acid
+DOID:655,DB02659,inherited metabolic disorder,cholic acid
+DOID:9008,DB05676,psoriatic arthritis,apremilast
+DOID:4398,DB05676,pustulosis of palm and sole,apremilast
+DOID:3781,DB09024,anovulation,follitropin alfa
+DOID:3781,DB09126,anovulation,choriogonadotropin alfa
+DOID:4449,DB01234,macular retinal edema,dexamethasone
+DOID:13141,DB01234,uveitis,dexamethasone
+DOID:8632,DB00523,Kaposi's sarcoma,alitretinoin
+DOID:8534,DB00213,gastroesophageal reflux disease,pantoprazole
+DOID:8534,DB00213,gastroesophageal reflux disease,pantoprazole
+DOID:13832,DB01050,patent ductus arteriosus,ibuprofen
+DOID:3908,DB00642,non-small cell lung carcinoma,pemetrexed
+DOID:2645,DB00642,benign mesothelioma,pemetrexed
+DOID:3908,DB00642,non-small cell lung carcinoma,pemetrexed
+DOID:2645,DB00642,benign mesothelioma,pemetrexed
+DOID:3908,DB00642,non-small cell lung carcinoma,pemetrexed
+DOID:2645,DB00642,benign mesothelioma,pemetrexed
+DOID:3908,DB00642,non-small cell lung carcinoma,pemetrexed
+DOID:2645,DB00642,benign mesothelioma,pemetrexed
+DOID:1612,DB06366,breast cancer,pertuzumab
+DOID:9280,DB06819,carbamoyl phosphate synthetase I deficiency disease,sodium phenylbutyrate
+DOID:8866,DB05013,actinic keratosis,ingenol mebutate
+DOID:2377,DB09122,multiple sclerosis,peginterferon beta-1a
+DOID:5409,DB01030,lung small cell carcinoma,topotecan
+DOID:4362,DB01030,cervical cancer,topotecan
+DOID:9352,DB00912,type 2 diabetes mellitus,repaglinide
+DOID:2030,DB00230,anxiety disorder,pregabalin
+DOID:1826,DB00230,epilepsy,pregabalin
+DOID:2030,DB00230,anxiety disorder,pregabalin
+DOID:1826,DB00230,epilepsy,pregabalin
+DOID:2030,DB00230,anxiety disorder,pregabalin
+DOID:1826,DB00230,epilepsy,pregabalin
+DOID:2030,DB00230,anxiety disorder,pregabalin
+DOID:1826,DB00230,epilepsy,pregabalin
+DOID:2030,DB00230,anxiety disorder,pregabalin
+DOID:1826,DB00230,epilepsy,pregabalin
+DOID:2030,DB00230,anxiety disorder,pregabalin
+DOID:1826,DB00230,epilepsy,pregabalin
+DOID:2030,DB00230,anxiety disorder,pregabalin
+DOID:1826,DB00230,epilepsy,pregabalin
+DOID:526,DB01264,human immunodeficiency virus infectious disease,darunavir
+DOID:10763,DB00966,hypertension,telmisartan
+DOID:10652,DB00989,Alzheimer's disease,rivastigmine
+DOID:14330,DB00989,Parkinson's disease,rivastigmine
+DOID:9351,DB00030,diabetes mellitus,insulin human
+DOID:1924,DB00066,hypogonadism,follitropin beta
+DOID:5223,DB00066,infertility,follitropin beta
+DOID:1485,DB01137,cystic fibrosis,levofloxacin
+DOID:5844,DB00015,myocardial infarction,reteplase
+DOID:14330,DB01367,Parkinson's disease,rasagiline
+DOID:10763,DB09026,hypertension,aliskiren
+DOID:1227,DB00099,neutropenia,filgrastim
+DOID:9267,DB08909,urea cycle disorder,glycerol phenylbutyrate
+DOID:705,DB09081,Leber hereditary optic neuropathy,idebenone
+DOID:2377,DB00060,multiple sclerosis,interferon beta-1a
+DOID:9008,DB00065,psoriatic arthritis,infliximab
+DOID:7148,DB00065,rheumatoid arthritis,infliximab
+DOID:8577,DB00065,ulcerative colitis,infliximab
+DOID:0060192,DB00065,Crohn's colitis,infliximab
+DOID:4398,DB00065,pustulosis of palm and sole,infliximab
+DOID:7147,DB00065,ankylosing spondylitis,infliximab
+DOID:9008,DB00065,psoriatic arthritis,infliximab
+DOID:7148,DB00065,rheumatoid arthritis,infliximab
+DOID:8577,DB00065,ulcerative colitis,infliximab
+DOID:0060192,DB00065,Crohn's colitis,infliximab
+DOID:4398,DB00065,pustulosis of palm and sole,infliximab
+DOID:7147,DB00065,ankylosing spondylitis,infliximab
+DOID:0050459,DB00658,hyperphosphatemia,sevelamer
+DOID:9352,DB00912,type 2 diabetes mellitus,repaglinide
+DOID:9352,DB00912,type 2 diabetes mellitus,repaglinide
+DOID:9352,DB00912,type 2 diabetes mellitus,repaglinide
+DOID:14499,DB00103,Fabry disease,agalsidase alfa
+DOID:9008,DB01097,psoriatic arthritis,leflunomide
+DOID:7148,DB01097,rheumatoid arthritis,leflunomide
+DOID:630,DB00058,genetic disease,human alpha1-proteinase inhibitor
+DOID:850,DB00058,lung disease,human alpha1-proteinase inhibitor
+DOID:2355,DB08923,anemia,epoetin zeta
+DOID:784,DB08923,chronic kidney disease,epoetin zeta
+DOID:6432,DB00203,pulmonary hypertension,sildenafil
+DOID:9538,DB00480,multiple myeloma,lenalidomide
+DOID:526,DB01072,human immunodeficiency virus infectious disease,atazanavir sulphate
+DOID:332,DB00740,amyotrophic lateral sclerosis,riluzole
+DOID:332,DB00740,amyotrophic lateral sclerosis,riluzole
+DOID:9352,DB01261,type 2 diabetes mellitus,sitagliptin
+DOID:1227,DB00019,neutropenia,pegfilgrastim
+DOID:10652,DB00989,Alzheimer's disease,rivastigmine
+DOID:14330,DB00989,Parkinson's disease,rivastigmine
+DOID:10652,DB00989,Alzheimer's disease,rivastigmine
+DOID:14330,DB00989,Parkinson's disease,rivastigmine
+DOID:10652,DB00989,Alzheimer's disease,rivastigmine
+DOID:14330,DB00989,Parkinson's disease,rivastigmine
+DOID:7148,DB06273,rheumatoid arthritis,tocilizumab
+DOID:14735,DB09228,hereditary angioedema,recombinant human c1-inhibitor
+DOID:10763,DB01029,hypertension,irbesartan
+DOID:3401,DB06212,inappropriate ADH syndrome,tolvaptan
+DOID:9970,DB06655,obesity,liraglutide
+DOID:13270,DB04931,erythropoietic protoporphyria,afamelanotide
+DOID:2449,DB06663,acromegaly,pasireotide
+DOID:3946,DB06663,pituitary-dependent Cushing's disease,pasireotide
+DOID:10923,DB01005,sickle cell anemia,hydroxycarbamide
+DOID:2355,DB08923,anemia,epoetin zeta
+DOID:784,DB08923,chronic kidney disease,epoetin zeta
+DOID:2883,DB06207,prostatic adenoma,silodosin
+DOID:9008,DB06674,psoriatic arthritis,golimumab
+DOID:7148,DB06674,rheumatoid arthritis,golimumab
+DOID:8577,DB06674,ulcerative colitis,golimumab
+DOID:7147,DB06674,ankylosing spondylitis,golimumab
+DOID:0060284,DB01257,paroxysmal nocturnal hemoglobinuria,eculizumab
+DOID:8534,DB00213,gastroesophageal reflux disease,pantoprazole
+DOID:2449,DB00082,acromegaly,pegvisomant
+DOID:9352,DB00731,type 2 diabetes mellitus,nateglinide
+DOID:9008,DB05679,psoriatic arthritis,ustekinumab
+DOID:0060192,DB05679,Crohn's colitis,ustekinumab
+DOID:4398,DB05679,pustulosis of palm and sole,ustekinumab
+DOID:9256,DB08896,colorectal cancer,regorafenib
+DOID:526,DB00625,human immunodeficiency virus infectious disease,efavirenz
+DOID:14213,DB09105,hypophosphatasia,asfotase alfa
+DOID:526,DB00625,human immunodeficiency virus infectious disease,efavirenz
+DOID:4450,DB01268,renal cell carcinoma,sunitinib
+DOID:9253,DB01268,gastrointestinal stromal tumor,sunitinib
+DOID:169,DB01268,neuroendocrine tumor,sunitinib
+DOID:1273,DB00110,respiratory syncytial virus infectious disease,palivizumab
+DOID:6432,DB00820,pulmonary hypertension,tadalafil
+DOID:1909,DB08912,melanoma,dabrafenib
+DOID:8469,DB00198,influenza,oseltamivir
+DOID:3908,DB00530,non-small cell lung carcinoma,erlotinib
+DOID:1793,DB00530,pancreatic cancer,erlotinib
+DOID:0060061,DB00307,cutaneous T cell lymphoma,bexarotene
+DOID:8552,DB04868,chronic myeloid leukemia,nilotinib
+DOID:14330,DB00323,Parkinson's disease,tolcapone
+DOID:2377,DB08908,multiple sclerosis,dimethyl fumarate
+DOID:10763,DB00966,hypertension,telmisartan
+DOID:10763,DB00966,hypertension,telmisartan
+DOID:10763,DB00966,hypertension,telmisartan
+DOID:3074,DB00853,giant cell glioblastoma,temozolomide
+DOID:3070,DB00853,malignant glioma,temozolomide
+DOID:3074,DB00853,giant cell glioblastoma,temozolomide
+DOID:3070,DB00853,malignant glioma,temozolomide
+DOID:3074,DB00853,giant cell glioblastoma,temozolomide
+DOID:3070,DB00853,malignant glioma,temozolomide
+DOID:3074,DB00853,giant cell glioblastoma,temozolomide
+DOID:3070,DB00853,malignant glioma,temozolomide
+DOID:3074,DB00853,giant cell glioblastoma,temozolomide
+DOID:3070,DB00853,malignant glioma,temozolomide
+DOID:3074,DB00853,giant cell glioblastoma,temozolomide
+DOID:3070,DB00853,malignant glioma,temozolomide
+DOID:3074,DB00853,giant cell glioblastoma,temozolomide
+DOID:3070,DB00853,malignant glioma,temozolomide
+DOID:9352,DB01261,type 2 diabetes mellitus,sitagliptin
+DOID:1227,DB00099,neutropenia,filgrastim
+DOID:9538,DB01041,multiple myeloma,thalidomide
+DOID:2891,DB00024,thyroid adenoma,thyrotropin alfa
+DOID:526,DB08930,human immunodeficiency virus infectious disease,dolutegravir
+DOID:1485,DB00684,cystic fibrosis,tobramycin
+DOID:10763,DB00966,hypertension,telmisartan
+DOID:5409,DB01030,lung small cell carcinoma,topotecan
+DOID:4362,DB01030,cervical cancer,topotecan
+DOID:5409,DB01030,lung small cell carcinoma,topotecan
+DOID:4362,DB01030,cervical cancer,topotecan
+DOID:2394,DB01030,ovarian cancer,topotecan
+DOID:5409,DB01030,lung small cell carcinoma,topotecan
+DOID:4362,DB01030,cervical cancer,topotecan
+DOID:4450,DB06287,renal cell carcinoma,temsirolimus
+DOID:9351,DB00047,diabetes mellitus,insulin glargine
+DOID:9352,DB08882,type 2 diabetes mellitus,linagliptin
+DOID:11723,DB05016,Duchenne muscular dystrophy,ataluren
+DOID:1067,DB00287,open-angle glaucoma,travoprost
+DOID:9282,DB00287,ocular hypertension,travoprost
+DOID:0060318,DB01169,acute promyelocytic leukemia,arsenic trioxide
+DOID:1826,DB04953,epilepsy,retigabine
+DOID:9778,DB09272,irritable bowel syndrome,eluxadoline
+DOID:9352,DB09045,type 2 diabetes mellitus,dulaglutide
+DOID:526,DB09065,human immunodeficiency virus infectious disease,cobicistat on silicon dioxide
+DOID:104,DB00560,bacterial infectious disease,tigecycline
+DOID:2377,DB00108,multiple sclerosis,natalizumab
+DOID:1612,DB01259,breast cancer,lapatinib
+DOID:769,DB09077,neuroblastoma,dinutuximab
+DOID:6432,DB11362,pulmonary hypertension,selexipag
+DOID:2883,DB06207,prostatic adenoma,silodosin
+DOID:1485,DB00684,cystic fibrosis,tobramycin
+DOID:3908,DB09079,non-small cell lung carcinoma,nintedanib
+DOID:9256,DB01269,colorectal cancer,panitumumab
+DOID:9538,DB00188,multiple myeloma,bortezomib
+DOID:1040,DB11581,chronic lymphocytic leukemia,venetoclax
+DOID:6432,DB01088,pulmonary hypertension,iloprost
+DOID:13564,DB00582,aspergillosis,voriconazole
+DOID:1508,DB00582,candidiasis,voriconazole
+DOID:1564,DB00582,fungal infectious disease,voriconazole
+DOID:874,DB06402,bacterial pneumonia,telavancin
+DOID:9352,DB06655,type 2 diabetes mellitus,liraglutide
+DOID:0050908,DB00928,myelodysplastic syndrome,azacitidine
+DOID:12804,DB09051,mucopolysaccharidosis IV,recombinant human n-acetylgalactosamine-6-sulfatase (rhgalns)
+DOID:1826,DB06218,epilepsy,lacosamide
+DOID:9352,DB06203,type 2 diabetes mellitus,alogliptin
+DOID:526,DB00238,human immunodeficiency virus infectious disease,nevirapine
+DOID:10871,DB00460,age related macular degeneration,verteporfin
+DOID:11829,DB00460,degenerative myopia,verteporfin
+DOID:526,DB09101,human immunodeficiency virus infectious disease,elvitegravir
+DOID:6432,DB06403,pulmonary hypertension,ambrisentan
+DOID:13564,DB00582,aspergillosis,voriconazole
+DOID:1508,DB00582,candidiasis,voriconazole
+DOID:1564,DB00582,fungal infectious disease,voriconazole
+DOID:13564,DB00582,aspergillosis,voriconazole
+DOID:1508,DB00582,candidiasis,voriconazole
+DOID:4450,DB06589,renal cell carcinoma,pazopanib
+DOID:13515,DB01590,tuberous sclerosis,everolimus
+DOID:1926,DB06720,Gaucher's disease,velaglucerase alfa
+DOID:893,DB01593,Wilson disease,zinc
+DOID:3908,DB08700,non-small cell lung carcinoma,crizotinib
+DOID:9352,DB01261,type 2 diabetes mellitus,sitagliptin
+DOID:1612,DB01101,breast cancer,capecitabine
+DOID:219,DB01101,colon cancer,capecitabine
+DOID:9256,DB01101,colorectal cancer,capecitabine
+DOID:10534,DB01101,stomach cancer,capecitabine
+DOID:9970,DB01083,obesity,orlistat
+DOID:2030,DB00476,anxiety disorder,duloxetine
+DOID:12785,DB00476,diabetic polyneuropathy,duloxetine
+DOID:9352,DB04876,type 2 diabetes mellitus,vildagliptin
+DOID:10283,DB08913,prostate cancer,radium Ra223 dichloride
+DOID:2841,DB00043,asthma,omalizumab
+DOID:10283,DB08899,prostate cancer,enzalutamide
+DOID:8986,DB01440,narcolepsy,sodium oxybate
+DOID:1909,DB06186,melanoma,ipilimumab
+DOID:2394,DB05109,ovarian cancer,trabectedin
+DOID:4235,DB05109,spindle cell sarcoma,trabectedin
+DOID:3312,DB00334,bipolar disorder,olanzapine
+DOID:9256,DB08885,colorectal cancer,aflibercept
+DOID:1227,DB00099,neutropenia,filgrastim
+DOID:1926,DB00419,Gaucher's disease,miglustat
+DOID:14504,DB00419,Niemann-Pick disease,miglustat
+DOID:1826,DB09119,epilepsy,eslicarbazepine acetate
+DOID:1909,DB08881,melanoma,vemurafenib
+DOID:526,DB00649,human immunodeficiency virus infectious disease,stavudine
+DOID:526,DB01048,human immunodeficiency virus infectious disease,abacavir
+DOID:2377,DB00111,multiple sclerosis,daclizumab
+DOID:552,DB06590,pneumonia,ceftaroline fosamil
+DOID:2234,DB00909,focal epilepsy,zonisamide
+DOID:1826,DB00909,epilepsy,zonisamide
+DOID:1920,DB11560,hyperuricemia,lesinurad
+DOID:2043,DB05276,hepatitis B,human hepatitis-B immunoglobulin
+DOID:161,DB00724,keratosis,imiquimod
+DOID:8866,DB00724,actinic keratosis,imiquimod
+DOID:1040,DB09054,chronic lymphocytic leukemia,idelalisib
+DOID:8675,DB09054,lymphosarcoma,idelalisib
+DOID:3908,DB09063,non-small cell lung carcinoma,ceritinib
+DOID:3312,DB00334,bipolar disorder,olanzapine
+DOID:3312,DB00334,bipolar disorder,olanzapine
