@@ -1,0 +1,58 @@
+MoleculeType	Identifier	MoleculeName	
+Chemical Compounds	59092	N-{alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->6)]-alpha-Man-(1->6)-[alpha-Man-(1->6)-[alpha-Man-(1->2)-alpha-Man-(1->2)]-alpha-Man-(1->3)]-beta-Man-(1->4)-beta-GlcnAc-(1->4)-beta-GlcNAc}-L-Asn residue [ChEBI:59092]	
+Chemical Compounds	16214	dolichyl phosphate [ChEBI:16214]	
+Chemical Compounds	15812	dolichyl beta-D-glucosyl phosphate [ChEBI:15812]	
+Chemical Compounds	59080	N-{alpha-Glc-(1->3)-alpha-Man-(1->2)-alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->6)]-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-beta-GlcNAc}-L-Asn residue [ChEBI:59080]	
+Chemical Compounds	60627	N(4)-{alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlaNAc-(1->4)-beta-D-GlcNAc}-Asn residue [ChEBI:60627]	
+Chemical Compounds	60628	N(4)-{alpha-D-Manp-(1->2)-alpha-D-Manp-(1->2)-alpha-D-Manp-(1->3)-[alpha-D-Manp-(1->3)-[alpha-D-Manp-(1->2)-alpha-D-Manp-(1->6)]-alpha-D-Manp-(1->6)]-beta-D-Manp-(1->4)-beta-D-GlcpNAc-(1->4)-beta-D-GlcpNAc}-Asn residue [ChEBI:60628]	
+Chemical Compounds	60629	N(4)-{alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->3)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc}-Asn residue [ChEBI:60629]	
+Chemical Compounds	15377	water [ChEBI:15377]	
+Chemical Compounds	59084	N-{alpha-Glc-(1->2)-alpha-Glc-(1->3)-alpha-Glc-(1->3)-alpha-Man-(1->2)-alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->6)]-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-beta-GlcNAc}-L-Asn residue [ChEBI:59084]	
+Chemical Compounds	59087	N-{alpha-Man-(1->3)-[alpha-Man-(1->3)-[alpha-Man-(1->6)]-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-beta-GlcNac}-L-Asn residue [ChEBI:59087]	
+Chemical Compounds	17925	alpha-D-glucose [ChEBI:17925]	
+Chemical Compounds	59082	N-{alpha-Glc-(1->3)-alpha-Glc-(1->3)-alpha-Man-(1->2)-alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->3)-[alpha-Man-(1->2)-alpha-Man-(1->6)]-alpha-Man-(1->6)]-beta-Man-(1->4)-beta-GlcNAc-(1->4)-beta-GlcNAc}-L-Asn residue [ChEBI:59082]	
+Chemical Compounds	64052	alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->3)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-D-GlcNAc [ChEBI:64052]	
+Chemical Compounds	64048	alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-D-GlcNAc [ChEBI:64048]	
+Chemical Compounds	4208	D-mannopyranose [ChEBI:4208]	
+Chemical Compounds	60640	N(4)-{alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc}-Asn residue [ChEBI:60640]	
+Chemical Compounds	91280	alpha-D-Man-(1->3)-[alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc [ChEBI:91280]	
+Chemical Compounds	91281	alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc [ChEBI:91281]	
+Chemical Compounds	91284	alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc [ChEBI:91284]	
+Chemical Compounds	91283	alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->3)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc [ChEBI:91283]	
+Chemical Compounds	91282	alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc [ChEBI:91282]	
+Chemical Compounds	64046	alpha-D-Glc-(1->3)-alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->3)-[alpha-D-Man-(1->2)-alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-D-GlcNAc [ChEBI:64046]	
+Proteins	P30101	UniProt:P30101 PDIA3	
+Proteins	Q9BZQ6	UniProt:Q9BZQ6 EDEM3	
+Proteins	Q92611	UniProt:Q92611 EDEM1	
+Proteins	P27797	UniProt:P27797 CALR	
+Proteins	P27824	UniProt:P27824 CANX	
+Proteins	Q9NYU2	UniProt:Q9NYU2 UGGT1	
+Proteins	Q9NYU1	UniProt:Q9NYU1 UGGT2	
+Proteins	Q14697	UniProt:Q14697 GANAB	
+Proteins	P14314	UniProt:P14314 PRKCSH	
+Proteins	Q14165	UniProt:Q14165 MLEC	
+Proteins	P0CG47	UniProt:P0CG47 UBB	
+Proteins	P62987	UniProt:P62987 UBA52	
+Proteins	P62979	UniProt:P62979 RPS27A	
+Proteins	P0CG48	UniProt:P0CG48 UBC	
+Proteins	P54727	UniProt:P54727 RAD23B	
+Proteins	P62191	UniProt:P62191 PSMC1	
+Proteins	Q04323	UniProt:Q04323 UBXN1	
+Proteins	Q96IV0	UniProt:Q96IV0 NGLY1	
+Proteins	Q9UKV5	UniProt:Q9UKV5 AMFR	
+Proteins	P55072	UniProt:P55072 VCP	
+Proteins	Q9BUN8	UniProt:Q9BUN8 DERL1	
+Proteins	Q8NFI3	UniProt:Q8NFI3 ENGASE	
+Proteins	Q8WU17	UniProt:Q8WU17 RNF139	
+Proteins	Q13438	UniProt:Q13438 OS9	
+Proteins	Q9UBV2	UniProt:Q9UBV2 SEL1L	
+Proteins	Q9GZP9	UniProt:Q9GZP9 DERL2	
+Proteins	Q96GF1	UniProt:Q96GF1 RNF185	
+Proteins	O00237	UniProt:O00237 RNF103	
+Proteins	O60858	UniProt:O60858 TRIM13	
+Proteins	Q86TM6	UniProt:Q86TM6 SYVN1	
+Proteins	O60337	UniProt:O60337 MARCH6	
+Proteins	Q99942	UniProt:Q99942 RNF5	
+Proteins	Q13724	UniProt:Q13724 MOGS	
+Proteins	Q9BV94	UniProt:Q9BV94 EDEM2	
+Proteins	Q9UKM7	UniProt:Q9UKM7 MAN1B1	

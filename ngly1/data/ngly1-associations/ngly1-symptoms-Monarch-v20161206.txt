@@ -1,0 +1,9 @@
+subject	subject_label	object	object_label	relation	relation_label	evidence	evidence_label	source	is_defined_by	qualifier
+OMIM:615273	Alacrimia-choreoathetosis-liver dysfunction syndrome	HP:0001773	Short foot	RO:0002200	has phenotype	ECO:0000501	evidence used in automatic assertion		http://data.monarchinitiative.org/ttl/hpoa.ttl	direct
+OMIM:615273	Alacrimia-choreoathetosis-liver dysfunction syndrome	HP:0004305	Involuntary movements	RO:0002200	has phenotype	ECO:0000501	evidence used in automatic assertion		http://data.monarchinitiative.org/ttl/hpoa.ttl	direct
+OMIM:615273	Alacrimia-choreoathetosis-liver dysfunction syndrome	HP:0200055	Small hand	RO:0002200	has phenotype	ECO:0000501	evidence used in automatic assertion		http://data.monarchinitiative.org/ttl/hpoa.ttl	direct
+OMIM:615273	Alacrimia-choreoathetosis-liver dysfunction syndrome	HP:0001263	Global developmental delay	RO:0002200	has phenotype	ECO:0000501	evidence used in automatic assertion		http://data.monarchinitiative.org/ttl/hpoa.ttl	direct
+OMIM:615273	Alacrimia-choreoathetosis-liver dysfunction syndrome	HP:0009830	Peripheral neuropathy	RO:0002200	has phenotype	ECO:0000501	evidence used in automatic assertion		http://data.monarchinitiative.org/ttl/hpoa.ttl	direct
+OMIM:615273	Alacrimia-choreoathetosis-liver dysfunction syndrome	HP:0012448	Delayed myelination	RO:0002200	has phenotype	ECO:0000501	evidence used in automatic assertion		http://data.monarchinitiative.org/ttl/hpoa.ttl	direct
+OMIM:615273	Alacrimia-choreoathetosis-liver dysfunction syndrome	HP:0001252	Muscular hypotonia	RO:0002200	has phenotype	ECO:0000501	evidence used in automatic assertion		http://data.monarchinitiative.org/ttl/hpoa.ttl	direct
+OMIM:615273	Alacrimia-choreoathetosis-liver dysfunction syndrome	HP:0002910	Elevated hepatic transaminases	RO:0002200	has phenotype	ECO:0000501	evidence used in automatic assertion		http://data.monarchinitiative.org/ttl/hpoa.ttl	direct
